@@ -1,0 +1,25 @@
+﻿Código: ART-2014-OUYANG
+
+Ficheiro: 2014 Multi-dimensional hurricane resilience assessment of electric power systems-ELSEVIER.pdf
+Referência: M. Ouyang e L. Dueñas-Osorio, “Multi-dimensional hurricane resilience assessment of electric power systems,” Structural Safety, vol. 48, pp. 15–24, maio 2014, doi: 10.1016/j.strusafe.2014.01.001.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2014%20Multi-dimensional%20hurricane%20resilience%20assessment%20of%20electric%20power%20systems-ELSEVIER.pdf
+
+Conteúdo Indexado
+Modelo probabilístico de resiliência a furacões; geração de cenários de perigo; curvas de fragilidade dos componentes; modelo elétrico open-flow; falhas em cascata; modelo histórico de restauração; etapas prevenção–propagação–recuperação; furacão Ike de 2008; sistema de Harris County; resiliências técnica, organizacional, social e económica; escala logarítmica de resiliência; perdas anuais de 83 milhões de dólares.
+
+Localização Do Conteúdo
+• PDF pp. 1–4 | revista pp. 15–18: definição temporal de resiliência, três etapas da resposta e quatro submodelos acoplados — perigo, fragilidade, desempenho do sistema e restauração; métricas de subestações energizadas, nós de distribuição, instalações críticas e clientes com energia.
+• PDF pp. 5–7 | revista pp. 19–21: calibração e verificação com dados reais de indisponibilidade e recomposição após o furacão Ike em Harris County, Texas; perigo regional com frequência média aproximada de um furacão em sete anos; representação de ventos, danos simultâneos, propagação e práticas históricas de reparação.
+• PDF pp. 7–10 | revista pp. 21–24: comparação multidimensional e estratégias alternativas; resiliência organizacional de 99,964% ou 3,445 na escala logarítmica, resiliência social de 99,760% ou 2,620 e perdas económicas até 83 milhões de dólares anuais; conclusões e limitações.
+
+Termos De Pesquisa Em Inglês
+hurricane resilience assessment; hazard scenario generation; component fragility model; open-flow power system; cascading failures; system restoration model; Hurricane Ike; Harris County; technical resilience; organizational resilience; social resilience; economic loss.
+
+Equivalentes Em Português
+avaliação da resiliência a furacões; geração de cenários de perigo; modelo de fragilidade; sistema elétrico de fluxo aberto; falhas em cascata; modelo de restauração; furacão Ike; Harris County; resiliência técnica; resiliência organizacional; resiliência social; perda económica.
+
+Possíveis Utilizações Na Tese
+Apoiar a integração de perigo, fragilidade, cascatas e restauração; comparar dimensões da resiliência; calibrar cenários com eventos reais e relacionar desempenho temporal com perdas económicas.
+

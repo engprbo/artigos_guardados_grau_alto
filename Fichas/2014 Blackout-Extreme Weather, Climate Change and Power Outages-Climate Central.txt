@@ -1,0 +1,25 @@
+﻿Código: ART-2014-KENWARD
+
+Ficheiro: 2014 Blackout-Extreme Weather, Climate Change and Power Outages-Climate Central.pdf
+Referência: A. Kenward e U. Raja, Blackout: Extreme Weather, Climate Change and Power Outages. Princeton, NJ, EUA: Climate Central, 2014.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2014%20Blackout-Extreme%20Weather%2C%20Climate%20Change%20and%20Power%20Outages-Climate%20Central.pdf
+
+Conteúdo Indexado
+Formulário DOE OE-417; relatórios NERC System Disturbance; série histórica 1984–2012; análise principal 2003–2012; definição de grande interrupção; 911 eventos analisados; 726 interrupções meteorológicas; 147 milhões de clientes afetados; regiões RFC e SERC; classificação por tipo de tempo severo; custo anual de 20–55 mil milhões de dólares; alterações climáticas como multiplicador de ameaças.
+
+Localização Do Conteúdo
+• PDF pp. 2–7 | relatório pp. 3–8: resultados executivos, estrutura da rede norte-americana, vulnerabilidade das instalações aéreas e método; critérios de grande interrupção — 50 000 clientes durante uma hora, perda de 300 MW ou défice de 100 MW — e fontes DOE/NERC.
+• PDF pp. 8–16 | relatório pp. 9–17: tendências e distribuição regional; 80% dos 911 eventos foram meteorológicos, afetando quase 90% dos clientes; a média anual duplicou desde 2003 e 59% foram atribuídos a tempestades severas; rankings por regiões, estados e empresas; separação entre frio/gelo, furacões, tornados, calor e incêndios.
+• PDF pp. 17–20 | relatório pp. 18–21: tendências observadas de precipitação intensa, tempestades, furacões, calor e incêndios; incertezas de atribuição climática; conclusões sobre envelhecimento da rede, aumento da procura, exposição da transmissão e custos económicos.
+
+Termos De Pesquisa Em Inglês
+weather-related power outages; DOE Form OE-417; NERC disturbance reports; major power outage; customers affected; RFC region; SERC region; severe storms; hurricane outages; extreme heat advisories; annual outage cost; climate threat multiplier.
+
+Equivalentes Em Português
+interrupções meteorológicas; formulário DOE OE-417; relatórios de perturbações NERC; grande interrupção elétrica; clientes afetados; região RFC; região SERC; tempestades severas; interrupções por furacões; avisos de calor extremo; custo anual das interrupções; multiplicador de ameaças climáticas.
+
+Possíveis Utilizações Na Tese
+Fundamentar frequências e consequências de eventos meteorológicos, selecionar categorias de ameaça, relacionar clientes afetados e custos e justificar o agravamento da exposição da transmissão perante alterações climáticas.
+

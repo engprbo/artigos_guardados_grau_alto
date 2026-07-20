@@ -1,0 +1,24 @@
+﻿Código: ART-1988-PEARL
+Ficheiro: 1988 Probabilistic Reasoning in Intelligent Systems-MORGAN.pdf
+Referência: J. Pearl, Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference. San Mateo, CA, USA: Morgan Kaufmann Publishers, 1988. ISBN: 0-934613-73-7.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link completo do PDF:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/1988%20Probabilistic%20Reasoning%20in%20Intelligent%20Systems-MORGAN.pdf
+
+Conteúdo indexado
+Inferência e atualização Bayesiana com evidência incerta; independência condicional entre variáveis; redes Bayesianas como modelos gráficos; redes de Markov; relações causais e evidenciais; propagação local de crenças; diagnóstico probabilístico de falhas; explicação mais provável; diagramas de influência; teoria da decisão e utilidade esperada; aprendizagem da estrutura de redes; causas ocultas.
+
+Localização do conteúdo
+• PDF pp. 1–141: representação probabilística da incerteza, teorema de Bayes, combinação de evidências, atualização recursiva, evidência incerta e regra de Jeffrey; independência e dependência condicional; redes de Markov e redes Bayesianas para representar graficamente relações entre variáveis e relações de independência codificadas pela própria estrutura gráfica das redes.
+• PDF pp. 143–379: propagação e revisão de crenças por mensagens causais e diagnósticas; tratamento de árvores, poliárvores e redes com ciclos; explicação mais provável e diagnóstico de falhas múltiplas; teoria da decisão, árvores de decisão, utilidade esperada, valor da informação e diagramas de influência.
+• PDF pp. 381–520: aprendizagem da estrutura a partir de dados, método de Chow e identificação de causas ocultas; teoria de Dempster-Shafer e outros formalismos não Bayesianos; lógica probabilística, raciocínio não monotónico, lógica de defaults e distinção entre suporte causal e evidencial.
+
+Termos de pesquisa em inglês
+Bayesian inference; Bayesian updating; conditional independence; Bayesian network; Markov network; causal network; belief propagation; diagnostic reasoning; most probable explanation; influence diagram; structure learning; hidden causes.
+
+Equivalentes em português
+inferência Bayesiana; atualização Bayesiana; independência condicional; rede Bayesiana; rede de Markov; rede causal; propagação de crenças; raciocínio diagnóstico; explicação mais provável; diagrama de influência; aprendizagem de estrutura; causas ocultas.
+
+Possíveis utilizações na tese
+Fundamentar o tratamento explícito da incerteza; estruturar dependências entre eventos extremos, falhas, resposta operacional e logística; atualizar probabilidades perante evidências; apoiar redes causais e diagramas de influência na comparação de cenários em sistemas complexos interdependentes.
+

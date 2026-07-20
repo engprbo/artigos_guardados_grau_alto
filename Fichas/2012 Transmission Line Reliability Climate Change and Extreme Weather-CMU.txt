@@ -1,0 +1,24 @@
+Código: ART-2012-PETERS
+
+Ficheiro: 2012 Transmission Line Reliability Climate Change and Extreme Weather-CMU.pdf
+Referência: G. Peters, A. M. DiGioia Jr., C. Hendrickson e J. Apt, “Transmission Line Reliability: Climate Change and Extreme Weather,” in Electrical Transmission Line and Substation Structures: Structural Reliability in a Changing World, pp. 12–26, 2007, doi: 10.1061/40790(218)2.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2012%20Transmission%20Line%20Reliability%20Climate%20Change%20and%20Extreme%20Weather-CMU.pdf
+
+Conteúdo Indexado
+Critérios estruturais de carregamento; eventos além da carga de projeto; Line Reliability Factor (LRF); períodos de retorno de 50–400 anos; equações de resistência e efeitos das cargas; SAIDI e SAIFI sem grandes tempestades; custos anuais de interrupções meteorológicas; Survivability Design Concept; rede dorsal de transmissão; otimização de custos do ciclo de vida; vento e gelo extremos; alterações climáticas e furacões intensos.
+
+Localização Do Conteúdo
+• PDF pp. 1–5 | publicação pp. 12–16: causas das falhas estruturais; tempestades de gelo, furacões e vento; critérios de projeto, equações de confiabilidade, LRF e correspondência entre fatores e períodos de retorno.
+• PDF pp. 5–9 | publicação pp. 16–20: limitações de SAIDI/SAIFI; custos para empresas e utilizadores; conceito de sobrevivência; comparação económica de alternativas e indicação de aproximadamente 200 anos como retorno ótimo para elementos dorsais.
+• PDF pp. 9–14 | publicação pp. 20–26: influência climática sobre vento e gelo, incentivos regulatórios e conclusões; recomendação de critérios diferenciados, recolha de dados e consideração conjunta de construção, manutenção e consequências das falhas.
+
+Termos De Pesquisa Em Inglês
+transmission line reliability; structural loading criteria; line reliability factor; load return period; survivability design concept; storm outage costs; lifecycle failure cost; backbone transmission system; SAIDI; SAIFI; wind loading; ice storm.
+
+Equivalentes Em Português
+confiabilidade de linhas de transmissão; critérios estruturais de carregamento; fator de confiabilidade da linha; período de retorno da carga; conceito de sobrevivência; custos de interrupções por tempestades; custo de falha no ciclo de vida; rede dorsal de transmissão; duração média das interrupções; frequência média das interrupções; carga de vento; tempestade de gelo.
+
+Possíveis Utilizações Na Tese
+Fundamentar períodos de retorno e critérios estruturais, integrar custos de falha e utilizadores e justificar uma rede dorsal reforçada para reduzir indisponibilidades e cascatas causadas por vento e gelo extremos.

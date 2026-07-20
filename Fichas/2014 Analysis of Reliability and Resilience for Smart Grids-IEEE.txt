@@ -1,0 +1,25 @@
+﻿Código: ART-2014-ALBASRAWI
+
+Ficheiro: 2014 Analysis of Reliability and Resilience for Smart Grids-IEEE.pdf
+Referência: M. N. Albasrawi, N. Jarus, K. A. Joshi e S. Sedigh Sarvestani, “Analysis of Reliability and Resilience for Smart Grids,” in 2014 IEEE 38th Annual Computer Software and Applications Conference, Västerås, Suécia, 2014, pp. 529–534, doi: 10.1109/COMPSAC.2014.75.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2014%20Analysis%20of%20Reliability%20and%20Resilience%20for%20Smart%20Grids-IEEE.pdf
+
+Conteúdo Indexado
+Markov Imbeddable Structure (MIS); interdependências ciberfísicas; estados funcionais e falhados; propagação de falhas em cascata; sistema IEEE de 9 barras; Static Synchronous Series Compensator (SSSC); Percentage Amount of Series Compensation (PASC); confiabilidade Rsys; métricas F1 e F2; índices de resiliência Λ1 e Λ2; contingência de três linhas; estratégias sequenciais de recuperação.
+
+Localização Do Conteúdo
+• PDF pp. 1–3 | conferência pp. 529–531: distinção entre confiabilidade antes da falha e resiliência durante a recuperação; curva temporal F(t); formulação MIS com estados, probabilidades iniciais e matriz de transição; inclusão de componentes físicos e cibernéticos.
+• PDF pp. 3–5 | conferência pp. 531–533: aplicação ao IEEE 9 barras; SSSC e PASC; configurações que reduzem três cascatas potenciais para duas; indisponibilidade das linhas 2–7, 5–7 e 7–8, produzindo 11 violações, fluxo de 239% na linha 1–4 e 0,968 pu na barra 8.
+• PDF pp. 5–6 | conferência pp. 533–534: comparação de duas ordens de reparação pelas métricas F1, F2, Λ1 e Λ2; resultados dependentes da métrica selecionada; conclusões sobre confiabilidade do SSSC, recuperação, limitações e trabalhos futuros.
+
+Termos De Pesquisa Em Inglês
+smart grid reliability; smart grid resilience; Markov Imbeddable Structure; cascading failures; cyber-physical interdependency; IEEE 9-bus system; SSSC; PASC; power flow violation; voltage violation; resilience metric; recovery strategy.
+
+Equivalentes Em Português
+confiabilidade da rede inteligente; resiliência da rede inteligente; estrutura embutível de Markov; falhas em cascata; interdependência ciberfísica; sistema IEEE de 9 barras; compensador série síncrono estático; percentagem de compensação série; violação de fluxo; violação de tensão; métrica de resiliência; estratégia de recuperação.
+
+Possíveis Utilizações Na Tese
+Comparar confiabilidade e resiliência, representar cascatas e recuperação temporal, selecionar métricas de fluxo e tensão e avaliar como a ordem de reparação influencia a recomposição após indisponibilidades múltiplas.
+

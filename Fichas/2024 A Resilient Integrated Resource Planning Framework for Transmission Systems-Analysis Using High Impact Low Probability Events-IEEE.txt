@@ -1,0 +1,25 @@
+﻿Código: ART-2024-GAUTAM
+
+Ficheiro: 2024 A Resilient Integrated Resource Planning Framework for Transmission Systems-Analysis Using High Impact Low Probability Events-IEEE.pdf
+Referência: M. Gautam, T. McJunkin, T. Phillips e R. Hruska, “A Resilient Integrated Resource Planning Framework for Transmission Systems: Analysis Using High Impact Low Probability Events,” in 2024 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT), Washington, DC, USA, pp. 1–5, 2024. DOI: 10.1109/ISGT59692.2024.10454156.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link completo do PDF:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2024%20A%20Resilient%20Integrated%20Resource%20Planning%20Framework%20for%20Transmission%20Systems-Analysis%20Using%20High%20Impact%20Low%20Probability%20Events-IEEE.pdf
+
+Conteúdo indexado
+Planeamento Integrado de Recursos resiliente; eventos HILP; índice de proximidade entre linhas desligadas e geradores; indisponibilidades múltiplas de linhas; grafo não dirigido da transmissão; componentes conectados e ilhamento; corte de carga por componente; Expected Load Curtailment (ELC); Expected Critical Load Curtailment (ECLC); recursos adicionais; sistema IEEE de 24 barras; níveis-alvo de resiliência.
+
+Localização do conteúdo
+• PDF pp. 1–2: enquadramento do IRP resiliente, diferenças face ao planeamento tradicional de confiabilidade, eventos HILP, estrutura do framework e índice de proximidade para selecionar contingências potencialmente severas.
+• PDF pp. 2–4: rede como grafo não dirigido, componentes conectados, ilhas com ou sem geração, cálculo do corte de carga, definição de ELC/ECLC e aplicação ao sistema IEEE de 24 barras.
+• PDF pp. 4–5: reavaliação da resiliência após incorporação de recursos adicionais, implicações para investimentos e conclusões sobre o uso do framework no planeamento da transmissão.
+
+Termos de pesquisa em inglês
+resilient integrated resource planning; high-impact low-probability events; proximity index; multiple-line outages; undirected graph; connected components; network islanding; load curtailment; expected load curtailment; expected critical load curtailment; additional resources; IEEE 24-bus system.
+
+Equivalentes em português
+planeamento integrado de recursos resiliente; eventos de alto impacto e baixa probabilidade; índice de proximidade; indisponibilidades múltiplas de linhas; grafo não dirigido; componentes conectados; formação de ilhas; corte de carga; corte de carga esperado; corte esperado de carga crítica; recursos adicionais; sistema IEEE de 24 barras.
+
+Possíveis utilizações na tese
+Fundamentar a seleção de cenários HILP; relacionar topologia, ilhamento e corte de carga; comparar ELC/ECLC com energia não suprida; apoiar investimentos e níveis-alvo de resiliência na transmissão.
+

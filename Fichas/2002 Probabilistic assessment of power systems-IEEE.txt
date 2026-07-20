@@ -1,0 +1,24 @@
+﻿Código: ART-2000-ALLAN
+Ficheiro: 2002 Probabilistic assessment of power systems-IEEE.pdf
+Referência: R. Allan e R. Billinton, “Probabilistic Assessment of Power Systems,” Proceedings of the IEEE, vol. 88, n.º 2, pp. 140–162, 2000. DOI: 10.1109/5.823995.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link completo do PDF:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2002%20Probabilistic%20assessment%20of%20power%20systems-IEEE.pdf
+
+Conteúdo indexado
+Avaliação probabilística da confiabilidade de sistemas elétricos; critérios determinísticos e probabilísticos; fatores estocásticos; níveis hierárquicos de geração, transmissão e distribuição; interrupção do fornecimento ao consumidor; reestruturação do setor elétrico; mercado competitivo de eletricidade; geração centralizada, distribuída e embebida; proprietários e operadores de rede; fornecedores e reguladores; desempenho de setores e subsetores; medidas de confiabilidade específicas para cada agente.
+
+Localização do conteúdo
+• PDF p. 1 | Revista p. 140: resumo e introdução; limitações dos critérios determinísticos, representação probabilística dos fatores estocásticos, níveis hierárquicos, planeamento e operação dentro de limites económicos e transição da indústria integrada ou nacionalizada para um setor reestruturado com múltiplos participantes.
+• PDF pp. 2–22 | Revista pp. 141–161: revisão das abordagens de avaliação para geração, transmissão e distribuição; necessidades de geradores, proprietários, operadores, fornecedores, reguladores e consumidores; qualidade e desempenho sob responsabilidade de cada agente; adaptação das medidas ao ambiente competitivo; custos de investimento, indisponibilidade e análise custo-benefício.
+• PDF p. 23 | Revista p. 162: síntese final sobre a necessidade de diferentes índices para os diversos agentes, referências bibliográficas e informações dos autores.
+
+Termos de pesquisa em inglês
+probabilistic assessment; power system reliability; deterministic criteria; stochastic factors; hierarchical levels; generation reliability; transmission reliability; distribution reliability; electricity restructuring; competitive electricity industry; reliability measures; end-user reliability.
+
+Equivalentes em português
+avaliação probabilística; confiabilidade de sistemas elétricos; critérios determinísticos; fatores estocásticos; níveis hierárquicos; confiabilidade da geração; confiabilidade da transmissão; confiabilidade da distribuição; reestruturação elétrica; setor elétrico competitivo; medidas de confiabilidade; confiabilidade do consumidor.
+
+Possíveis utilizações na tese
+Fundamentar o tratamento probabilístico das falhas e indisponibilidades; distinguir confiabilidade e resiliência; selecionar medidas de desempenho para transmissão; contextualizar agentes, níveis hierárquicos e critérios aplicáveis às simulações; relacionar custos de interrupção aos impactos observados.
+

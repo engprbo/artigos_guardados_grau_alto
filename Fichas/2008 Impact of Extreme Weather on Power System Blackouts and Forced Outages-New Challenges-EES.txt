@@ -1,0 +1,25 @@
+﻿Código: ART-2008-KEZUNOVIC
+
+Ficheiro: 2008 Impact of Extreme Weather on Power System Blackouts and Forced Outages-New Challenges-EES.pdf
+Referência: M. Kezunovic, I. Dobson e Y. Dong, “Impact of Extreme Weather on Power System Blackouts and Forced Outages: New Challenges,” in Proceedings of the 7th Balkan Power Conference, Šibenik, Croácia, 10–12 de setembro de 2008, pp. 1–5.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2008%20Impact%20of%20Extreme%20Weather%20on%20Power%20System%20Blackouts%20and%20Forced%20Outages-New%20Challenges-EES.pdf
+
+Conteúdo Indexado
+Impactos diretos e consequenciais do clima; temperatura superficial e precipitação; escoamento fluvial e seca; furacões e tempestades de gelo; extremos de calor e frio; falhas forçadas de componentes; risco probabilístico de apagões; perturbação inicial causada pelo clima; propagação por falhas em cascata; parâmetros meteorológicos e dano inicial; projeto e manutenção de equipamentos; integração de projeções climáticas regionais com avaliação de risco.
+
+Localização Do Conteúdo
+• PDF pp. 1–2: enquadramento das alterações climáticas e dos eventos meteorológicos extremos; distinção entre efeitos diretos, como temperatura e precipitação, e efeitos consequenciais, como alterações do escoamento e secas; identificação de furacões, gelo, calor e frio como ameaças ao funcionamento e aos componentes.
+• PDF pp. 2–4: análise dos apagões e falhas forçadas; relação probabilística entre intensidade meteorológica, dimensão da perturbação inicial e dano; influência do carregamento elevado na propagação em cascata; dificuldades para estimar frequências de apagões, falhas de equipamentos e efeitos combinados do clima e da carga.
+• PDF pp. 4–5: implicações para projeto, monitorização, controlo e manutenção; propostas de investigação baseadas em projeções climáticas regionais, técnicas robustas para condições severas, integração com avaliação de risco de apagões e melhoria da restauração após desastres naturais.
+
+Termos De Pesquisa Em Inglês
+extreme weather; power system blackouts; forced outages; consequential events; surface temperature; precipitation; stream runoff; drought; initial disturbance; cascading failure; blackout risk assessment; system restoration.
+
+Equivalentes Em Português
+tempo extremo; apagões do sistema elétrico; indisponibilidades forçadas; eventos consequenciais; temperatura superficial; precipitação; escoamento fluvial; seca; perturbação inicial; falha em cascata; avaliação do risco de apagão; restauração do sistema.
+
+Possíveis Utilizações Na Tese
+Fundamentar a ligação entre variáveis meteorológicas, dano inicial e cascatas; apoiar cenários climáticos de indisponibilidade; justificar avaliação probabilística do risco e medidas de monitorização, manutenção e restauração.
+

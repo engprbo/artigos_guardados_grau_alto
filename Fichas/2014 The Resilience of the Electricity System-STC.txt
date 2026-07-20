@@ -1,0 +1,25 @@
+﻿Código: ART-2015-HOL-STC
+
+Ficheiro: 2014 The Resilience of the Electricity System-STC.pdf
+Referência: House of Lords Science and Technology Select Committee, The Resilience of the Electricity System, 1st Report of Session 2014–15, HL Paper 121. Londres, Reino Unido: The Stationery Office, mar. 2015.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2014%20The%20Resilience%20of%20the%20Electricity%20System-STC.pdf
+
+Conteúdo Indexado
+Sistema elétrico da Grã-Bretanha; trilema segurança–acessibilidade–sustentabilidade; margem de capacidade; Loss of Load Expectation (LOLE); Capacity Market; Contracts for Difference (CfD); Electricity Market Reform (EMR); New Balancing Services; riscos técnicos, meteorológicos, cibernéticos e espaciais; Demand Side Response (DSR); interligações internacionais; armazenamento e geração flexível.
+
+Localização Do Conteúdo
+• PDF pp. 8–40 | relatório pp. 8–40: definição de resiliência, componentes resistência–confiabilidade–redundância–resposta e recuperação, trilema, governação e visão integral do sistema; margem de capacidade, padrão de três horas anuais de LOLE, Capacity Market e redes resilientes; aumento emergencial da margem de 4,1% para 6,1% mediante 1,1 GW de serviços de balanço.
+• PDF pp. 41–49 | relatório pp. 41–49: riscos à resiliência por falha técnica, tempo extremo, terrorismo físico, ciberataque e meteorologia espacial; registo nacional de riscos, resposta de emergência e investigação RESNET sobre redes expostas a condições severas.
+• PDF pp. 50–96 | relatório pp. 50–96: procura futura e DSR, interligações, armazenamento, geração flexível e renováveis intermitentes; investigação e demonstração; conclusões e recomendações sobre coordenação sistémica, função de arquiteto do sistema, transparência dos custos e preparação até 2030.
+
+Termos De Pesquisa Em Inglês
+electricity system resilience; energy trilemma; capacity margin; Loss of Load Expectation; Capacity Market; Contracts for Difference; New Balancing Services; extreme weather risk; cyber attack; demand side response; electricity interconnection; energy storage.
+
+Equivalentes Em Português
+resiliência do sistema elétrico; trilema energético; margem de capacidade; expectativa de perda de carga; mercado de capacidade; contratos por diferença; novos serviços de balanço; risco meteorológico extremo; ciberataque; resposta da procura; interligação elétrica; armazenamento de energia.
+
+Possíveis Utilizações Na Tese
+Apoiar fatores de capacidade, padrões LOLE, riscos sistémicos e recursos de flexibilidade, relacionar confiabilidade e resiliência e justificar coordenação, redundância, resposta da procura, armazenamento e interligações na preparação da transmissão.
+

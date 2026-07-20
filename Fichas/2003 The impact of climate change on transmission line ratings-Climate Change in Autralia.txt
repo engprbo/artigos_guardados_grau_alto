@@ -1,0 +1,24 @@
+﻿Código: ART-2021-ESCI
+Ficheiro: 2003 The impact of climate change on transmission line ratings-Climate Change in Autralia.pdf
+Referência: TransGrid, CSIRO e Bureau of Meteorology, “The Impact of Climate Change on Transmission Line Ratings,” Electricity Sector Climate Information (ESCI) Project, Case Study Fact Sheet, Australia, 2021.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link completo do PDF:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2003%20The%20impact%20of%20climate%20change%20on%20transmission%20line%20ratings-Climate%20Change%20in%20Autralia.pdf
+
+Conteúdo indexado
+Alterações climáticas e capacidade térmica de linhas aéreas; temperatura ambiente; temperatura do condutor; radiação solar; velocidade do vento; flecha e distância mínima ao solo; classificação normal do dia máximo de verão; cenários RCP2.6, RCP4.5 e RCP8.5; método delta-scaling; modelos climáticos de máximo consenso; redução da capacidade de transmissão; classificação dinâmica de linhas.
+
+Localização do conteúdo
+• PDF pp. 1–3: enquadramento do projeto ESCI, fatores meteorológicos que determinam a capacidade segura das linhas e método histórico da TransGrid, baseado no 15.º dia mais quente observado em 15 anos para estabelecer a temperatura de referência.
+• PDF pp. 3–5: projeções para 15 locais, aplicação dos cenários RCP2.6, RCP4.5 e RCP8.5, utilização de modelos climáticos globais de máximo consenso, método delta-scaling e avaliação de 47 configurações que representam 84% da rede.
+• PDF pp. 5–7: reduções médias projetadas de 2,3%, 3,5% e 5,1% até 2078; maior sensibilidade das linhas projetadas para 85 °C; comparação com linhas a 120 °C; reclassificação periódica, planeamento de novas linhas e classificação dinâmica.
+
+Termos de pesquisa em inglês
+climate change; transmission line rating; thermal line rating; conductor temperature; ambient temperature; solar radiation; wind speed; conductor sag; RCP scenarios; delta scaling; maximum consensus model; dynamic line rating.
+
+Equivalentes em português
+alterações climáticas; classificação de linhas; capacidade térmica; temperatura do condutor; temperatura ambiente; radiação solar; velocidade do vento; flecha do condutor; cenários RCP; método delta-scaling; modelo de máximo consenso; classificação dinâmica de linhas.
+
+Possíveis utilizações na tese
+Apoiar a conversão de cenários climáticos em deratings de linhas; fundamentar o fator associado aos limites operativos; comparar vulnerabilidades por temperatura de projeto; justificar a representação de incertezas climáticas e horizontes futuros nas simulações de resiliência.
+

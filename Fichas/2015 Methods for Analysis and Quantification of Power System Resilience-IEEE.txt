@@ -1,0 +1,24 @@
+﻿Código: ART-2023-STANKOVIC
+
+Ficheiro: 2015 Methods for Analysis and Quantification of Power System Resilience-IEEE.pdf
+Referência: A. M. Stanković et al., “Methods for Analysis and Quantification of Power System Resilience,” IEEE Transactions on Power Systems, vol. 38, n.º 5, pp. 4774–4787, set. 2023, doi: 10.1109/TPWRS.2022.3212688.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2015%20Methods%20for%20Analysis%20and%20Quantification%20of%20Power%20System%20Resilience-IEEE.pdf
+
+Conteúdo Indexado
+IEEE PES Task Force com 26 autores; distinção resiliência–confiabilidade–robustez–segurança; eventos High-Impact Low-Frequency (HILF); percurso antecipação–absorção–adaptação–restauração; aprendizagem por feedback; estrutura multiescala temporal e espacial; curva de desempenho C(t); processos de outage O(t) e restoration R(t); Transmission Availability Data System (TADS); caudas pesadas de apagões; valorização económica e willingness to pay; Operator Training Simulator e Dispatcher Training Simulator.
+
+Localização Do Conteúdo
+• PDF pp. 1–6 | revista pp. 4774–4779: definições e relações entre resiliência e conceitos tradicionais; estrutura multiescala temporal, espacial e organizacional, percurso progressivo do evento, ações preventivas e emergenciais e ciclo de aprendizagem após a recuperação.
+• PDF pp. 6–10 | revista pp. 4779–4783: métodos de quantificação; decomposição C(t)=R(t)−O(t), áreas de impacto e recuperação, métricas de perda e recomposição, dados históricos TADS, distribuições de apagões com caudas pesadas e métodos económicos baseados em danos evitados e preferências dos consumidores.
+• PDF pp. 10–14 | revista pp. 4783–4787: resiliência comunitária e interdependências, planeamento, operação e formação; arquitetura ampliada OTS/DTS, exercícios GridEx, blackstart, telecomunicações, gás natural, aprendizagem organizacional, lacunas metodológicas e prioridades de investigação.
+
+Termos De Pesquisa Em Inglês
+power system resilience; resilience quantification; HILF events; forward resilience path; feedback learning path; resilience curve; outage process; restoration process; TADS; heavy-tailed blackouts; economic valuation; operator training simulator.
+
+Equivalentes Em Português
+resiliência do sistema elétrico; quantificação da resiliência; eventos HILF; percurso progressivo da resiliência; percurso de aprendizagem; curva de resiliência; processo de indisponibilidade; processo de restauração; sistema TADS; apagões de cauda pesada; valorização económica; simulador de formação de operadores.
+
+Possíveis Utilizações Na Tese
+Estruturar etapas temporais da resiliência, comparar métricas de impacto e recuperação, usar dados históricos de indisponibilidade, considerar caudas pesadas e integrar planeamento, operação, formação, interdependências e valorização económica no índice proposto.

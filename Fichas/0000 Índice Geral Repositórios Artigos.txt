@@ -1,0 +1,832 @@
+﻿Código: ART-1988-PEARL
+Ficheiro: 1988 Probabilistic Reasoning in Intelligent Systems-MORGAN.pdf
+Referência: J. Pearl, Probabilistic Reasoning in Intelligent Systems: Networks of Plausible Inference. San Mateo, CA, USA: Morgan Kaufmann Publishers, 1988. ISBN: 0-934613-73-7.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link completo do PDF:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/1988%20Probabilistic%20Reasoning%20in%20Intelligent%20Systems-MORGAN.pdf
+
+Conteúdo indexado
+Inferência e atualização Bayesiana com evidência incerta; independência condicional entre variáveis; redes Bayesianas como modelos gráficos; redes de Markov; relações causais e evidenciais; propagação local de crenças; diagnóstico probabilístico de falhas; explicação mais provável; diagramas de influência; teoria da decisão e utilidade esperada; aprendizagem da estrutura de redes; causas ocultas.
+
+Localização do conteúdo
+• PDF pp. 1–141: representação probabilística da incerteza, teorema de Bayes, combinação de evidências, atualização recursiva, evidência incerta e regra de Jeffrey; independência e dependência condicional; redes de Markov e redes Bayesianas para representar graficamente relações entre variáveis e relações de independência codificadas pela própria estrutura gráfica das redes.
+• PDF pp. 143–379: propagação e revisão de crenças por mensagens causais e diagnósticas; tratamento de árvores, poliárvores e redes com ciclos; explicação mais provável e diagnóstico de falhas múltiplas; teoria da decisão, árvores de decisão, utilidade esperada, valor da informação e diagramas de influência.
+• PDF pp. 381–520: aprendizagem da estrutura a partir de dados, método de Chow e identificação de causas ocultas; teoria de Dempster-Shafer e outros formalismos não Bayesianos; lógica probabilística, raciocínio não monotónico, lógica de defaults e distinção entre suporte causal e evidencial.
+
+Termos de pesquisa em inglês
+Bayesian inference; Bayesian updating; conditional independence; Bayesian network; Markov network; causal network; belief propagation; diagnostic reasoning; most probable explanation; influence diagram; structure learning; hidden causes.
+
+Equivalentes em português
+inferência Bayesiana; atualização Bayesiana; independência condicional; rede Bayesiana; rede de Markov; rede causal; propagação de crenças; raciocínio diagnóstico; explicação mais provável; diagrama de influência; aprendizagem de estrutura; causas ocultas.
+
+Possíveis utilizações na tese
+Fundamentar o tratamento explícito da incerteza; estruturar dependências entre eventos extremos, falhas, resposta operacional e logística; atualizar probabilidades perante evidências; apoiar redes causais e diagramas de influência na comparação de cenários em sistemas complexos interdependentes.
+
+Código: ART-1999-MODARRES
+Ficheiro: 1999 Reliability Engineering and Risk Analysis-A Practical Guide-Marcel Dekker.pdf
+Referência: M. Modarres, M. Kaminskiy e V. Krivtsov, Reliability Engineering and Risk Analysis: A Practical Guide. New York, NY, USA: Marcel Dekker, 1999. ISBN: 0-8247-2000-8.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link completo do PDF:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/1999%20Reliability%20Engineering%20and%20Risk%20Analysis-A%20Practical%20Guide-Marcel%20Dekker.pdf
+
+Conteúdo indexado
+Função de confiabilidade e taxa de falha; distribuições exponencial e Weibull; estimação Bayesiana e dados censurados; diagramas de blocos de confiabilidade; árvores de falhas e de eventos; FMEA e FMECA; sistemas reparáveis e disponibilidade; processos HPP e NHPP; métodos de Markov; falhas dependentes e de causa comum; propagação de incerteza; avaliação probabilística de risco.
+
+Localização do conteúdo
+• PDF pp. 21–196: fundamentos de probabilidade e estatística, teorema de Bayes, distribuições, função de confiabilidade, taxa de falha, modelos exponencial e Weibull, dados completos ou censurados e estimação paramétrica, não paramétrica e Bayesiana.
+• PDF pp. 197–388: confiabilidade de sistemas, diagramas de blocos, árvores de falhas e eventos, conjuntos mínimos de corte, FMEA/FMECA, sistemas reparáveis, disponibilidade, processos homogéneos e não homogéneos de Poisson, métodos de Markov e medidas de importância para identificar componentes críticos.
+• PDF pp. 389–504: falhas dependentes e de causa comum, incertezas de parâmetros e modelos, propagação de incerteza, julgamento de especialistas, análise de causa raiz, eventos iniciadores, sequências de acidentes e avaliação probabilística de risco.
+
+Termos de pesquisa em inglês
+reliability function; failure rate; Weibull distribution; Bayesian estimation; censored data; reliability block diagram; fault tree analysis; event tree analysis; repairable system; nonhomogeneous Poisson process; common cause failure; probabilistic risk assessment.
+
+Equivalentes em português
+função de confiabilidade; taxa de falha; distribuição Weibull; estimação Bayesiana; dados censurados; diagrama de blocos; árvore de falhas; árvore de eventos; sistema reparável; processo de Poisson não homogéneo; falha de causa comum; avaliação probabilística de risco.
+
+Possíveis utilizações na tese
+Fundamentar probabilidades e taxas de falha; modelar falhas dependentes e causas comuns; representar reparação, disponibilidade e incertezas; apoiar prioridades de manutenção; distinguir confiabilidade, risco e resiliência na avaliação do sistema de transmissão.
+
+Código: ART-2000-ALLAN
+Ficheiro: 2002 Probabilistic assessment of power systems-IEEE.pdf
+Referência: R. Allan e R. Billinton, “Probabilistic Assessment of Power Systems,” Proceedings of the IEEE, vol. 88, n.º 2, pp. 140–162, 2000. DOI: 10.1109/5.823995.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link completo do PDF:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2002%20Probabilistic%20assessment%20of%20power%20systems-IEEE.pdf
+
+Conteúdo indexado
+Avaliação probabilística da confiabilidade de sistemas elétricos; critérios determinísticos e probabilísticos; fatores estocásticos; níveis hierárquicos de geração, transmissão e distribuição; interrupção do fornecimento ao consumidor; reestruturação do setor elétrico; mercado competitivo de eletricidade; geração centralizada, distribuída e embebida; proprietários e operadores de rede; fornecedores e reguladores; desempenho de setores e subsetores; medidas de confiabilidade específicas para cada agente.
+
+Localização do conteúdo
+• PDF p. 1 | Revista p. 140: resumo e introdução; limitações dos critérios determinísticos, representação probabilística dos fatores estocásticos, níveis hierárquicos, planeamento e operação dentro de limites económicos e transição da indústria integrada ou nacionalizada para um setor reestruturado com múltiplos participantes.
+• PDF pp. 2–22 | Revista pp. 141–161: revisão das abordagens de avaliação para geração, transmissão e distribuição; necessidades de geradores, proprietários, operadores, fornecedores, reguladores e consumidores; qualidade e desempenho sob responsabilidade de cada agente; adaptação das medidas ao ambiente competitivo; custos de investimento, indisponibilidade e análise custo-benefício.
+• PDF p. 23 | Revista p. 162: síntese final sobre a necessidade de diferentes índices para os diversos agentes, referências bibliográficas e informações dos autores.
+
+Termos de pesquisa em inglês
+probabilistic assessment; power system reliability; deterministic criteria; stochastic factors; hierarchical levels; generation reliability; transmission reliability; distribution reliability; electricity restructuring; competitive electricity industry; reliability measures; end-user reliability.
+
+Equivalentes em português
+avaliação probabilística; confiabilidade de sistemas elétricos; critérios determinísticos; fatores estocásticos; níveis hierárquicos; confiabilidade da geração; confiabilidade da transmissão; confiabilidade da distribuição; reestruturação elétrica; setor elétrico competitivo; medidas de confiabilidade; confiabilidade do consumidor.
+
+Possíveis utilizações na tese
+Fundamentar o tratamento probabilístico das falhas e indisponibilidades; distinguir confiabilidade e resiliência; selecionar medidas de desempenho para transmissão; contextualizar agentes, níveis hierárquicos e critérios aplicáveis às simulações; relacionar custos de interrupção aos impactos observados.
+
+Código: ART-2021-ESCI
+Ficheiro: 2003 The impact of climate change on transmission line ratings-Climate Change in Autralia.pdf
+Referência: TransGrid, CSIRO e Bureau of Meteorology, “The Impact of Climate Change on Transmission Line Ratings,” Electricity Sector Climate Information (ESCI) Project, Case Study Fact Sheet, Australia, 2021.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link completo do PDF:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2003%20The%20impact%20of%20climate%20change%20on%20transmission%20line%20ratings-Climate%20Change%20in%20Autralia.pdf
+
+Conteúdo indexado
+Alterações climáticas e capacidade térmica de linhas aéreas; temperatura ambiente; temperatura do condutor; radiação solar; velocidade do vento; flecha e distância mínima ao solo; classificação normal do dia máximo de verão; cenários RCP2.6, RCP4.5 e RCP8.5; método delta-scaling; modelos climáticos de máximo consenso; redução da capacidade de transmissão; classificação dinâmica de linhas.
+
+Localização do conteúdo
+• PDF pp. 1–3: enquadramento do projeto ESCI, fatores meteorológicos que determinam a capacidade segura das linhas e método histórico da TransGrid, baseado no 15.º dia mais quente observado em 15 anos para estabelecer a temperatura de referência.
+• PDF pp. 3–5: projeções para 15 locais, aplicação dos cenários RCP2.6, RCP4.5 e RCP8.5, utilização de modelos climáticos globais de máximo consenso, método delta-scaling e avaliação de 47 configurações que representam 84% da rede.
+• PDF pp. 5–7: reduções médias projetadas de 2,3%, 3,5% e 5,1% até 2078; maior sensibilidade das linhas projetadas para 85 °C; comparação com linhas a 120 °C; reclassificação periódica, planeamento de novas linhas e classificação dinâmica.
+
+Termos de pesquisa em inglês
+climate change; transmission line rating; thermal line rating; conductor temperature; ambient temperature; solar radiation; wind speed; conductor sag; RCP scenarios; delta scaling; maximum consensus model; dynamic line rating.
+
+Equivalentes em português
+alterações climáticas; classificação de linhas; capacidade térmica; temperatura do condutor; temperatura ambiente; radiação solar; velocidade do vento; flecha do condutor; cenários RCP; método delta-scaling; modelo de máximo consenso; classificação dinâmica de linhas.
+
+Possíveis utilizações na tese
+Apoiar a conversão de cenários climáticos em deratings de linhas; fundamentar o fator associado aos limites operativos; comparar vulnerabilidades por temperatura de projeto; justificar a representação de incertezas climáticas e horizontes futuros nas simulações de resiliência.
+
+Código: ART-2004-BRUNEAU
+Ficheiro: 2004 A Framework to Quantitatively Assess and Enhance the Seismic Resilience of Communities-WCEE.pdf
+Referência: M. Bruneau et al., “A Framework to Quantitatively Assess and Enhance the Seismic Resilience of Communities,” 13th World Conference on Earthquake Engineering, Vancouver, Canada, Paper No. 2575, 2004.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link completo do PDF:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2004%20A%20Framework%20to%20Quantitatively%20Assess%20and%20Enhance%20the%20Seismic%20Resilience%20of%20Communities-WCEE.pdf
+
+Conteúdo indexado
+Resiliência sísmica comunitária; função de desempenho Q(t); perda de resiliência como área de degradação; robustez; redundância; mobilização de recursos; rapidez; quatro Rs; dimensões TOSE; infraestruturas críticas interdependentes; cenários sísmicos; critérios de desempenho; metas de resiliência; monitorização e deteção; modelos de fragilidade; apoio à decisão; controlo pré-evento e pós-evento; análise custo-benefício.
+
+Localização do conteúdo
+• PDF pp. 1–4: definição da resiliência sísmica, objetivos do enquadramento, curva de desempenho Q(t) e formulação da perda de resiliência pela área entre o desempenho de referência e o desempenho degradado até à recuperação.
+• PDF pp. 5–7: apresentação das dimensões técnica, organizacional, social e económica — TOSE — e das quatro propriedades da resiliência: robustez, redundância, mobilização de recursos e rapidez.
+• PDF pp. 8–12: estrutura de avaliação e melhoria da resiliência, incluindo cenários sísmicos, modelação de componentes e sistemas, monitorização, critérios, metas, apoio à decisão, controlo antes e depois do evento e análise custo-benefício.
+
+Termos de pesquisa em inglês
+seismic resilience; community resilience; performance function Q(t); loss of resilience; resilience triangle; robustness; redundancy; resourcefulness; rapidity; four Rs; TOSE dimensions; critical infrastructure; infrastructure interdependency; resilience criteria; resilience target; fragility model; decision support system; pre-event control.
+
+Equivalentes em português
+resiliência sísmica; resiliência comunitária; função de desempenho Q(t); perda de resiliência; triângulo da resiliência; robustez; redundância; mobilização de recursos; rapidez; quatro Rs; dimensões TOSE; infraestrutura crítica; interdependência de infraestruturas; critérios de resiliência; meta de resiliência; modelo de fragilidade; sistema de apoio à decisão; controlo pré-evento.
+
+Possíveis utilizações na tese
+Fundamentar a representação temporal da resiliência; justificar o cálculo do impacto como área entre carga prevista e atendida; relacionar robustez, redundância, resposta operacional e rapidez de recomposição; apoiar a definição de critérios, metas e cenários de recuperação.
+
+Código: ART-2004-HEVNER
+Ficheiro: 2004 Design Science in Information Systems Research-MIS Quarterly.pdf
+Referência: A. R. Hevner, S. T. March, J. Park e S. Ram, “Design Science in Information Systems Research,” MIS Quarterly, vol. 28, n.º 1, pp. 75–105, 2004. DOI: 10.2307/25148625.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link completo do PDF:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2004%20Design%20Science%20in%20Information%20Systems%20Research-MIS%20Quarterly.pdf
+
+Conteúdo indexado
+Design science research; paradigma behavioral science; artefactos de sistemas de informação; constructs, models, methods e instantiations; ciclo build-and-evaluate; framework Environment–IS Research–Knowledge Base; relevância e rigor científico; sete guidelines de Hevner; métodos de avaliação de artefactos; design como processo de procura; wicked problems; exemplares GDSS, XRL e TOP Modeler.
+
+Localização do conteúdo
+• PDF pp. 4–16 | Revista pp. 78–90: framework de investigação em sistemas de informação; articulação entre ambiente, necessidades organizacionais, base de conhecimento, relevância e rigor; ciclos build/evaluate e justify/evaluate; definição dos quatro tipos de artefacto; apresentação das sete guidelines para criação, avaliação e comunicação da design science.
+• PDF pp. 16–24 | Revista pp. 90–98: aplicação das guidelines a três exemplares — anonimato em Group Decision Support Systems, eXchangeable Routing Language para comércio eletrónico e TOP Modeler para emergent knowledge processes; identificação das contribuições, processos de construção e formas de avaliação.
+• PDF pp. 24–26 | Revista pp. 98–100: discussão e conclusões; complementaridade entre design science e behavioral science; equilíbrio entre utilidade, qualidade, eficácia, rigor e relevância; defesa da colaboração entre investigadores, profissionais e organizações, e enquadramento explícito das contribuições científicas e profissionais.
+
+Termos de pesquisa em inglês
+design science research; behavioral science; information systems research; IT artifact; build-and-evaluate loop; IS research framework; design-science guidelines; artifact evaluation; problem relevance; research rigor; design as a search process; wicked problems.
+
+Equivalentes em português
+investigação em ciência do design; ciência comportamental; investigação em sistemas de informação; artefacto de TI; ciclo construir-avaliar; framework de investigação em SI; diretrizes da ciência do design; avaliação de artefactos; relevância do problema; rigor científico; design como processo de procura; problemas complexos.
+
+Possíveis utilizações na tese
+Fundamentar metodologicamente a criação e avaliação do índice proposto como artefacto científico, demonstrando relevância, rigor, utilidade, processo de procura, avaliação verificável, contribuição para o conhecimento e comunicação adequada dos resultados.
+
+Código: ART-2004-SHINOZUKA
+
+Ficheiro: 2004 Resilience of Integrated Power and Water Systems.pdf
+Referência: M. Shinozuka et al., “Resilience of Integrated Power and Water Systems,” in Research Progress and Accomplishments 2003-2004, MCEER-04-SP01, Multidisciplinary Center for Earthquake Engineering Research, Buffalo, NY, pp. 65-86, 2004.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2004%20Resilience%20of%20Integrated%20Power%20and%20Water%20Systems.pdf
+
+Conteúdo Indexado
+Sistemas integrados de energia elétrica e abastecimento de água; resiliência sísmica de infraestruturas interdependentes; Los Angeles Department of Water and Power (LADWP); sismo de Northridge de 1994; procedimento de análise e base de dados; curvas temporais de restauração; índices de robustez e rapidez; Electric Power Engineering Data Base (EPEDAT); programa de fluxo de potência IPFLOW; simulação de danos e recomposição; Geographic Information System (GIS); estações de bombeamento e poços subterrâneos.
+
+Localização Do Conteúdo
+• PDF pp. 1-6 | Relatório pp. 65-70: objetivos e definição da resiliência pelo desempenho do sistema;  distinção entre robustez, associada ao nível residual de serviço, e rapidez, relacionada com a taxa de recuperação; utilização dos sistemas LADWP como aplicação.
+• PDF pp. 7-17 | Relatório pp. 71-81: representação da rede elétrica, dados EPEDAT, análise IPFLOW, cenários de danos e sequência de restauração; aplicação ao sismo de Northridge; comparação entre estados simulados e registados seis horas após o evento.
+• PDF pp. 17-22 | Relatório pp. 81-86: integração em GIS dos tempos de recomposição elétrica com estações de bombeamento e poços; dependência da capacidade normal de bombeamento em relação ao restabelecimento da energia; implicações para avaliação conjunta, planeamento integrado e resiliência comunitária.
+
+Termos De Pesquisa Em Inglês
+integrated power and water systems; seismic resilience; infrastructure interdependency; LADWP; Northridge earthquake; restoration curves; robustness index; rapidity index; EPEDAT; IPFLOW; power supply restoration; GIS integration.
+
+Equivalentes Em Português
+sistemas integrados de energia e água; resiliência sísmica; interdependência de infraestruturas; LADWP; sismo de Northridge; curvas de restauração; índice de robustez; índice de rapidez; base EPEDAT; programa IPFLOW; recomposição do fornecimento elétrico; integração em GIS.
+
+Possíveis Utilizações Na Tese
+Fundamentar robustez e rapidez; apoiar a representação temporal da recomposição; justificar interdependências; relacionar restauração elétrica, continuidade de serviços críticos e resiliência comunitária pelo caso LADWP.
+
+Código: ART-2006-AL-AMMAR
+
+Ficheiro: 2006 Resiliency Assessment of the Power System Network to Cyber and Physical Attacks-IEEE.pdf
+Referência: E. A. Al-Ammar e J. Fisher, “Resiliency Assessment of the Power System Network to Cyber and Physical Attacks,” in 2006 IEEE Power Engineering Society General Meeting, Montreal, QC, Canadá, 18–22 junho 2006, pp. 1–7, doi: 10.1109/PES.2006.1709089.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2006%20Resiliency%20Assessment%20of%20the%20Power%20System%20Network%20to%20Cyber%20and%20Physical%20Attacks-IEEE.pdf
+
+Conteúdo Indexado
+Conectividade clássica de grafos; tolerância a falhas de redes; grau de vulnerabilidade topológica; resiliência a ataques cibernéticos; resiliência a ataques físicos; representação por nós e ligações; elementos de processamento; meios de comunicação; interligações regionais NERC; áreas de controlo; perda de conectividade por remoção de componentes; identificação de nós e ligações críticos.
+
+Localização Do Conteúdo
+• PDF p. 1: resumo e introdução; enquadramento da tolerância a falhas mediante conectividade de grafos; relação entre vulnerabilidade da topologia e resiliência das redes de informação, comunicação e potência perante ataques físicos ou cibernéticos.
+• PDF pp. 2–6: formulação da rede por nós, elementos de processamento e ligações de comunicação; interpretação do grau de vulnerabilidade; aplicação à estrutura interligada do sistema elétrico norte-americano, às regiões e áreas de controlo da NERC; análise da perda de conectividade provocada pela indisponibilidade ou remoção intencional de componentes.
+• PDF p. 7: conclusões e referências; utilização da vulnerabilidade topológica para reconhecer elementos críticos, comparar a capacidade de conservação da conectividade e orientar medidas de redundância, proteção e reforço da rede contra ataques coordenados.
+
+Termos De Pesquisa Em Inglês
+classical graph connectivity; network fault tolerance; topological vulnerability; power system resiliency; cyber attacks; physical attacks; North American power grid; NERC interconnections; control areas; network nodes; communication links; critical nodes.
+
+Equivalentes Em Português
+conectividade clássica de grafos; tolerância a falhas de redes; vulnerabilidade topológica; resiliência do sistema elétrico; ataques cibernéticos; ataques físicos; rede elétrica norte-americana; interligações NERC; áreas de controlo; nós de rede; ligações de comunicação; nós críticos.
+
+Possíveis Utilizações Na Tese
+Referenciar uma abordagem inicial de avaliação topológica da resiliência, apoiar indicadores de conectividade e vulnerabilidade e justificar a identificação de nós e interligações críticas sujeitos a ataques físicos ou cibernéticos.
+
+Código: ART-2008-KEZUNOVIC
+
+Ficheiro: 2008 Impact of Extreme Weather on Power System Blackouts and Forced Outages-New Challenges-EES.pdf
+Referência: M. Kezunovic, I. Dobson e Y. Dong, “Impact of Extreme Weather on Power System Blackouts and Forced Outages: New Challenges,” in Proceedings of the 7th Balkan Power Conference, Šibenik, Croácia, 10–12 de setembro de 2008, pp. 1–5.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2008%20Impact%20of%20Extreme%20Weather%20on%20Power%20System%20Blackouts%20and%20Forced%20Outages-New%20Challenges-EES.pdf
+
+Conteúdo Indexado
+Impactos diretos e consequenciais do clima; temperatura superficial e precipitação; escoamento fluvial e seca; furacões e tempestades de gelo; extremos de calor e frio; falhas forçadas de componentes; risco probabilístico de apagões; perturbação inicial causada pelo clima; propagação por falhas em cascata; parâmetros meteorológicos e dano inicial; projeto e manutenção de equipamentos; integração de projeções climáticas regionais com avaliação de risco.
+
+Localização Do Conteúdo
+• PDF pp. 1–2: enquadramento das alterações climáticas e dos eventos meteorológicos extremos; distinção entre efeitos diretos, como temperatura e precipitação, e efeitos consequenciais, como alterações do escoamento e secas; identificação de furacões, gelo, calor e frio como ameaças ao funcionamento e aos componentes.
+• PDF pp. 2–4: análise dos apagões e falhas forçadas; relação probabilística entre intensidade meteorológica, dimensão da perturbação inicial e dano; influência do carregamento elevado na propagação em cascata; dificuldades para estimar frequências de apagões, falhas de equipamentos e efeitos combinados do clima e da carga.
+• PDF pp. 4–5: implicações para projeto, monitorização, controlo e manutenção; propostas de investigação baseadas em projeções climáticas regionais, técnicas robustas para condições severas, integração com avaliação de risco de apagões e melhoria da restauração após desastres naturais.
+
+Termos De Pesquisa Em Inglês
+extreme weather; power system blackouts; forced outages; consequential events; surface temperature; precipitation; stream runoff; drought; initial disturbance; cascading failure; blackout risk assessment; system restoration.
+
+Equivalentes Em Português
+tempo extremo; apagões do sistema elétrico; indisponibilidades forçadas; eventos consequenciais; temperatura superficial; precipitação; escoamento fluvial; seca; perturbação inicial; falha em cascata; avaliação do risco de apagão; restauração do sistema.
+
+Possíveis Utilizações Na Tese
+Fundamentar a ligação entre variáveis meteorológicas, dano inicial e cascatas; apoiar cenários climáticos de indisponibilidade; justificar avaliação probabilística do risco e medidas de monitorização, manutenção e restauração.
+
+Código: ART-2010-CIMELLARO
+
+Ficheiro: 2010 Framework for analytical quantification of disaster resilience-ELSEVIER.pdf
+Referência: G. P. Cimellaro, A. M. Reinhorn e M. Bruneau, “Framework for analytical quantification of disaster resilience,” Engineering Structures, vol. 32, n.º 11, pp. 3639–3649, nov. 2010, doi: 10.1016/j.engstruct.2010.08.008.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2010%20Framework%20for%20analytical%20quantification%20of%20disaster%20resilience-ELSEVIER.pdf
+
+Conteúdo Indexado
+Função analítica de resiliência R; funcionalidade adimensional Q(t); tempo de controlo TLC; tempo de recuperação TRE; função de perdas L(I,TRE); funções de recuperação linear, exponencial e trigonométrica; dimensões robustez, rapidez, redundância e capacidade de mobilização; perdas diretas e indiretas; curvas de fragilidade; multidimensional performance limit state; hospital da Califórnia; rede hospitalar de Memphis.
+
+Localização Do Conteúdo
+• PDF pp. 2–7 | revista pp. 3640–3645: definições e formulação; resiliência como área normalizada sob Q(t), Equações (1)–(2); rapidez e robustez; decomposição das perdas económicas e humanas; modelos simplificados de recuperação; fragilidade e função multidimensional de estados-limite.
+• PDF pp. 7–10 | revista pp. 3645–3648: aplicações a um hospital do San Fernando Valley e a uma rede de seis hospitais em Memphis; análise dinâmica não linear, HAZUS e estratégias de reabilitação; a opção de reconstrução alcança 98,7% de resiliência, contra 65,0% sem intervenção.
+• PDF pp. 10–11 | revista pp. 3648–3649: conclusões; integração de engenharia sísmica, economia, ciências sociais e organização numa função comum; utilidade do indicador para comparar alternativas, investimentos, preparação, resposta, recuperação e restabelecimento da funcionalidade.
+
+Termos De Pesquisa Em Inglês
+analytical resilience function; system functionality; control time; recovery time; loss function; recovery function; four dimensions of resilience; direct and indirect losses; fragility curves; multidimensional limit state; hospital resilience; rehabilitation strategies.
+
+Equivalentes Em Português
+função analítica de resiliência; funcionalidade do sistema; tempo de controlo; tempo de recuperação; função de perdas; função de recuperação; quatro dimensões da resiliência; perdas diretas e indiretas; curvas de fragilidade; estado-limite multidimensional; resiliência hospitalar; estratégias de reabilitação.
+
+Possíveis Utilizações Na Tese
+Fundamentar a métrica baseada na área sob a curva de funcionalidade, relacionar impacto e recuperação e comparar o índice proposto com uma formulação clássica que integra perdas, fragilidade, robustez e rapidez.
+
+Código: ART-2011-MCCONNACH
+
+Ficheiro: 2011 Impacts of Climate Change on the Power Industry and How It is Adapting-Intech.pdf
+Referência: J. S. McConnach, A. F. Zobaa e D. Lapp, “Impacts of Climate Change on the Power Industry and How It is Adapting,” in Climate Change - Research and Technology for Adaptation and Mitigation, J. A. Blanco e H. Kheradmand, Eds. Rijeka, Croácia: InTech, 2011, pp. 345–356, doi: 10.5772/24738.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2011%20Impacts%20of%20Climate%20Change%20on%20the%20Power%20Industry%20and%20How%20It%20is%20Adapting-Intech.pdf
+
+Conteúdo Indexado
+PIEVC Engineering Protocol; National Engineering Vulnerability Assessment Project (NEVAP); risco R = P × S; probabilidade e severidade; vulnerabilidade de engenharia; capacidade adaptativa; processo PIEVC em cinco etapas; interação entre parâmetros climáticos e elementos de infraestrutura; redução da ampacidade por temperatura; hardening da rede elétrica; Smart Grid e telecomunicações de reserva; resposta de emergência e restauração.
+
+Localização Do Conteúdo
+• PDF pp. 1–4 | livro pp. 345–348: definição de adaptação proativa e reativa; evidências climáticas canadianas; impactos sobre procura, capacidade nominal, fiabilidade, produção hidroelétrica, linhas e torres; conceitos de vulnerabilidade e capacidade adaptativa.
+• PDF pp. 5–8 | livro pp. 349–352: NEVAP e PIEVC; princípios de avaliação; margem entre capacidade e solicitação climática; risco R = P × S; protocolo de cinco etapas; seleção das interações clima-infraestrutura e utilização de equipas multidisciplinares.
+• PDF pp. 9–12 | livro pp. 353–356: medidas de adaptação, incluindo reforço da rede, revisão de códigos, enterramento de circuitos, monitorização climática e planos de restauração; conclusões, lacunas de dados, manutenção, interdependências e recomendações.
+
+Termos De Pesquisa Em Inglês
+PIEVC Engineering Protocol; engineering vulnerability; adaptive capacity; climate risk assessment; risk level; probability and severity; five-step process; infrastructure resilience; ampacity derating; grid hardening; emergency restoration; climate-infrastructure interaction.
+
+Equivalentes Em Português
+Protocolo de Engenharia PIEVC; vulnerabilidade de engenharia; capacidade adaptativa; avaliação do risco climático; nível de risco; probabilidade e severidade; processo em cinco etapas; resiliência da infraestrutura; redução da ampacidade; reforço da rede; restauração de emergência; interação clima-infraestrutura.
+
+Possíveis Utilizações Na Tese
+Fundamentar a avaliação de vulnerabilidade climática, relacionar probabilidade e severidade, justificar redução de capacidade por temperatura e apoiar medidas de reforço, monitorização, manutenção e restauração da rede.
+
+Código: ART-2011-FERC-NERC
+
+Ficheiro: 2011 Report On-Outages and Curtailments During The Southwest Cold Weather Event of February 1-5,2011-Causes and Recomendations-FERC.pdf
+Referência: Federal Energy Regulatory Commission e North American Electric Reliability Corporation, Report on Outages and Curtailments During the Southwest Cold Weather Event of February 1–5, 2011: Causes and Recommendations. Washington, DC, EUA, ago. 2011.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2011%20Report%20On-Outages%20and%20Curtailments%20During%20The%20Southwest%20Cold%20Weather%20Event%20of%20February%201-5%2C2011-Causes%20and%20Recomendations-FERC.pdf
+
+Conteúdo Indexado
+Southwest Cold Weather Event de fevereiro de 2011; força-tarefa conjunta FERC/NERC; ERCOT, WECC e SPP; cortes rotativos de carga; 29 729 MW de perda acumulada de capacidade no ERCOT, em 1–2 de fevereiro; 4 000 MW de corte controlado de carga no ERCOT, em 2 de fevereiro; 67% das falhas de geração do Sudoeste, medidas em MWh, diretamente atribuídas a causas meteorológicas; freeze-offs na produção de gás; perda de 14,8 Bcf; interdependência eletricidade–gás natural; winterization de geradores; recomendações de planeamento, reservas e restauração.
+
+Localização Do Conteúdo
+• PDF pp. 8–18 | relatório pp. 1–11: caracterização do frio extremo, metodologia da investigação conjunta e resultados principais; 210 unidades sofreram outage, derate ou failure to start; 4,4 milhões de clientes elétricos foram afetados.
+• PDF pp. 80–201 | relatório pp. 73–194: sequência dos cortes e curtailments; causas técnicas das indisponibilidades; congelamento de linhas de instrumentação, válvulas, água e equipamentos; perdas na produção de gás e interdependências entre eletricidade e combustível.
+• PDF pp. 202–226 | relatório pp. 195–219: conclusões e recomendações; cenários de sensibilidade, reservas entregáveis, limites de temperatura, EOP-001, TOP-002-02, planos obrigatórios de winterization, heat tracing, isolamento, wind breaks, formação, comunicações e proteção de instalações de transmissão.
+
+Termos De Pesquisa Em Inglês
+Southwest cold weather event; rolling blackouts; generation loss; forced outages; load shedding; generator winterization; freeze protection; heat tracing; natural gas freeze-offs; electric-gas interdependency; reserve deliverability; extreme weather planning.
+
+Equivalentes Em Português
+evento de frio extremo no Sudoeste; apagões rotativos; perda de geração; indisponibilidades forçadas; corte de carga; preparação de geradores para o inverno; proteção contra congelamento; aquecimento de tubagens; congelamento na produção de gás; interdependência eletricidade-gás; disponibilidade das reservas; planeamento para tempo extremo.
+
+Possíveis Utilizações Na Tese
+Fundamentar cenários de indisponibilidade por frio extremo, relacionar falhas comuns, perda de geração e corte de carga, e apoiar fatores de preparação, manutenção, reservas operativas, interdependência energética e restauração.
+
+Código: ART-2011-AFGAN
+
+Ficheiro: 2011 Resilience of High Voltage Transmission System-Energy and Power Engineering.pdf
+Referência: N. H. Afgan e D. B. Cvetinovic, “Resilience of High Voltage Transmission System,” Energy and Power Engineering, vol. 3, n.º 5, pp. 600–606, nov. 2011, doi: 10.4236/epe.2011.35075.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2011%20Resilience%20of%20High%20Voltage%20Transmission%20System-Energy%20and%20Power%20Engineering.pdf
+
+Conteúdo Indexado
+Índice de resiliência do sistema de transmissão em alta tensão; alteração súbita e retorno dos indicadores; normalização dos valores amostrados q_i(t); fatores de ponderação w_i; função agregada Q(t); índice integral R; esquema de monitorização da resiliência; aglomeração dos índices parciais; custo da eletricidade; camada de gelo; consumo de potência; comportamento humano.
+
+Localização Do Conteúdo
+• PDF pp. 1–3 | revista pp. 600–602: vulnerabilidade do sistema de alta tensão; indicadores de sustentabilidade; definição da alteração súbita; normalização q_i(t), ponderações w_i, função Q(t)=Σw_iq_i(t) e formulação integral do índice R.
+• PDF pp. 3–6 | revista pp. 602–605: indicadores económicos, técnicos e humanos; limites de variação; esquema de monitorização e aglomeração; comparação de quatro opções considerando cinco indicadores — custo da eletricidade, custo de investimento, camada de gelo, consumo de potência e comportamento humano — e análise de quatro casos de ponderação que priorizam, respetivamente, custo da eletricidade, camada de gelo, consumo de potência ou comportamento humano.
+• PDF pp. 6–7 | revista pp. 605–606: resultados dos quatro casos e conclusões; a prioridade atribuída aos indicadores modifica a classificação das opções; seleção dos indicadores apresentada como requisito central para avaliar estabilidade e proximidade de eventos catastróficos.
+
+Termos De Pesquisa Em Inglês
+high voltage transmission system; resilience index; sudden indicator change; normalized sampled values; weighting factors; aggregate function; resilience monitoring scheme; sustainability indicators; electricity cost; ice layer; power consumption; human behavior.
+
+Equivalentes Em Português
+sistema de transmissão em alta tensão; índice de resiliência; alteração súbita do indicador; valores amostrados normalizados; fatores de ponderação; função agregada; esquema de monitorização da resiliência; indicadores de sustentabilidade; custo da eletricidade; camada de gelo; consumo de potência; comportamento humano.
+
+Possíveis Utilizações Na Tese
+Comparar formulações integrais de resiliência, apoiar a seleção e ponderação de indicadores e discutir como alterações técnicas, económicas e humanas modificam a avaliação da estabilidade do sistema de transmissão.
+
+Código: ART-2012-ZAIDI
+
+Ficheiro: 2012 Bayesian Reliability Models of Weibull Systems-State of The Art-AMCS.pdf
+Referência: A. Zaidi, B. Ould Bouamama e M. Tagina, “Bayesian reliability models of Weibull systems: State of the art,” International Journal of Applied Mathematics and Computer Science, vol. 22, n.º 3, pp. 585–600, set. 2012, doi: 10.2478/v10006-012-0045-2.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2012%20Bayesian%20Reliability%20Models%20of%20Weibull%20Systems-State%20of%20The%20Art-AMCS.pdf
+
+Conteúdo Indexado
+Redes Bayesianas (BNs); distribuição Weibull; estimação Bayesiana hierárquica; prior informativa e não informativa; Markov Chain Monte Carlo (MCMC); WinBUGS e linguagem R; posterior predictive p-value e Deviance Information Criterion (DIC); intervalo de credibilidade de 90%; fator de cobertura c; Common Cause of Failure (CCF); sistemas com estrutura desconhecida; Dynamic Bayesian Network (DBN) para Fault Detection and Isolation (FDI).
+
+Localização Do Conteúdo
+• PDF pp. 4–7 | revista pp. 588–591: densidade Weibull, taxa de risco e confiabilidade; distribuições posteriores dos parâmetros; prior de Jeffreys; MCMC; verificação do ajuste. O modelo Weibull com prior não informativa apresenta p-value 0,607 e menor DIC, 452,416.
+• PDF pp. 7–10 | revista pp. 591–594: formulação BN para sistemas série e paralelo; redundância com fator de cobertura; probabilidade αCCF para falha de causa comum; estruturas desconhecidas não representáveis por árvores de falhas ou diagramas de confiabilidade.
+• PDF pp. 10–14 | revista pp. 594–598: aplicação das BNs ao diagnóstico; modelo híbrido com confiabilidades e resíduos; DBN/IOHMM do sistema de dois tanques; redução de falsos alarmes; conclusões sobre estruturas complexas e FDI.
+
+Termos De Pesquisa Em Inglês
+Bayesian reliability model; Weibull distribution; hierarchical Bayesian estimation; non-informative prior; posterior predictive p-value; Deviance Information Criterion; Markov Chain Monte Carlo; credibility interval; covering factor; common cause failure; unknown reliability structure; dynamic Bayesian network.
+
+Equivalentes Em Português
+modelo Bayesiano de confiabilidade; distribuição Weibull; estimação Bayesiana hierárquica; prior não informativa; valor-p preditivo posterior; critério de informação do desvio; Monte Carlo via cadeias de Markov; intervalo de credibilidade; fator de cobertura; falha de causa comum; estrutura de confiabilidade desconhecida; rede Bayesiana dinâmica.
+
+Possíveis Utilizações Na Tese
+Apoiar modelação probabilística de falhas, estimação de parâmetros Weibull e tratamento de dependências, causas comuns e estruturas desconhecidas, complementando indicadores de resiliência com probabilidades atualizadas por evidências.
+
+Código: ART-2012-LIU
+
+Ficheiro: 2012 Towards understanding the robustness of energy distribution networks based on macroscopic and microscopic evaluations-ELSEVIER.pdf
+Referência: J. Liu e B. Shi, “Towards understanding the robustness of energy distribution networks based on macroscopic and microscopic evaluations,” Energy Policy, vol. 49, pp. 318–327, out. 2012, doi: 10.1016/j.enpol.2012.06.037.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2012%20Towards%20understanding%20the%20robustness%20of%20energy%20distribution%20networks%20based%20on%20macroscopic%20and%20microscopic%20evaluations-ELSEVIER.pdf
+
+Conteúdo Indexado
+Robustez da rede de distribuição; equilíbrio oferta–procura nos nós; entropia da rede; fluxos energéticos como passeios aleatórios; teoria de Ruelle–Bowens; otimização da entropia sob restrições; fluxos robustos; gargalos de transmissão; modelo de propagação de falhas; classificação da importância e vulnerabilidade dos nós; rede interestadual de gasodutos dos EUA; planeamento de armazenamento de gás natural.
+
+Localização Do Conteúdo
+• PDF pp. 1–4 | revista pp. 318–321: definição funcional da robustez; formulação macroscópica da entropia da rede com fluxos representados por passeios aleatórios de Ruelle–Bowens; problema de otimização condicionado pelas capacidades e pelo equilíbrio oferta–procura.
+• PDF pp. 5–9 | revista pp. 322–326: aplicação à rede de gás natural dos Estados Unidos; comparação entre fluxos observados e robustos; identificação de gargalos dos gasodutos, classificação dos estados segundo importância e vulnerabilidade e seleção de localizações vantajosas para armazenamento.
+• PDF p. 10 | revista p. 327: conclusões; complementaridade entre avaliação macroscópica e modelo microscópico de propagação de falhas; implicações para gestão dos fluxos, proteção de nós críticos, capacidade de transmissão, armazenamento e planeamento de emergência.
+
+Termos De Pesquisa Em Inglês
+distribution robustness; network entropy; supply-demand balance; energy flow dynamics; Ruelle-Bowens random walk; entropy optimization; failure spreading model; theoretically robust flow; transmission bottleneck; node importance ranking; node vulnerability; natural gas storage location.
+
+Equivalentes Em Português
+robustez da distribuição; entropia da rede; equilíbrio oferta–procura; dinâmica dos fluxos energéticos; passeio aleatório de Ruelle–Bowens; otimização da entropia; modelo de propagação de falhas; fluxo teoricamente robusto; gargalo de transmissão; classificação da importância dos nós; vulnerabilidade dos nós; localização de armazenamento de gás natural.
+
+Possíveis Utilizações Na Tese
+Apoiar métricas de robustez baseadas em fluxos, identificar gargalos e nós críticos, representar propagação de indisponibilidades e comparar avaliações globais e locais da rede perante perturbações na oferta.
+
+Código: ART-2012-PETERS
+
+Ficheiro: 2012 Transmission Line Reliability Climate Change and Extreme Weather-CMU.pdf
+Referência: G. Peters, A. M. DiGioia Jr., C. Hendrickson e J. Apt, “Transmission Line Reliability: Climate Change and Extreme Weather,” in Electrical Transmission Line and Substation Structures: Structural Reliability in a Changing World, pp. 12–26, 2007, doi: 10.1061/40790(218)2.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2012%20Transmission%20Line%20Reliability%20Climate%20Change%20and%20Extreme%20Weather-CMU.pdf
+
+Conteúdo Indexado
+Critérios estruturais de carregamento; eventos além da carga de projeto; Line Reliability Factor (LRF); períodos de retorno de 50–400 anos; equações de resistência e efeitos das cargas; SAIDI e SAIFI sem grandes tempestades; custos anuais de interrupções meteorológicas; Survivability Design Concept; rede dorsal de transmissão; otimização de custos do ciclo de vida; vento e gelo extremos; alterações climáticas e furacões intensos.
+
+Localização Do Conteúdo
+• PDF pp. 1–5 | publicação pp. 12–16: causas das falhas estruturais; tempestades de gelo, furacões e vento; critérios de projeto, equações de confiabilidade, LRF e correspondência entre fatores e períodos de retorno.
+• PDF pp. 5–9 | publicação pp. 16–20: limitações de SAIDI/SAIFI; custos para empresas e utilizadores; conceito de sobrevivência; comparação económica de alternativas e indicação de aproximadamente 200 anos como retorno ótimo para elementos dorsais.
+• PDF pp. 9–14 | publicação pp. 20–26: influência climática sobre vento e gelo, incentivos regulatórios e conclusões; recomendação de critérios diferenciados, recolha de dados e consideração conjunta de construção, manutenção e consequências das falhas.
+
+Termos De Pesquisa Em Inglês
+transmission line reliability; structural loading criteria; line reliability factor; load return period; survivability design concept; storm outage costs; lifecycle failure cost; backbone transmission system; SAIDI; SAIFI; wind loading; ice storm.
+
+Equivalentes Em Português
+confiabilidade de linhas de transmissão; critérios estruturais de carregamento; fator de confiabilidade da linha; período de retorno da carga; conceito de sobrevivência; custos de interrupções por tempestades; custo de falha no ciclo de vida; rede dorsal de transmissão; duração média das interrupções; frequência média das interrupções; carga de vento; tempestade de gelo.
+
+Possíveis Utilizações Na Tese
+Fundamentar períodos de retorno e critérios estruturais, integrar custos de falha e utilizadores e justificar uma rede dorsal reforçada para reduzir indisponibilidades e cascatas causadas por vento e gelo extremos.
+
+Código: ART-2013-CEA-DOE
+
+Ficheiro: 2013 Economic Benefits of Increasing Electric Grid Resilience to Weather Outages-U.S. Department of Energy.pdf
+Referência: Executive Office of the President, President’s Council of Economic Advisers e U.S. Department of Energy, Economic Benefits of Increasing Electric Grid Resilience to Weather Outages. Washington, DC, EUA, ago. 2013.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2013%20Economic%20Benefits%20of%20Increasing%20Electric%20Grid%20Resilience%20to%20Weather%20Outages-U.S.%20Department%20of%20Energy.pdf
+
+Conteúdo Indexado
+Eventos meteorológicos severos de 2003–2012; 679 interrupções generalizadas; formulário DOE OE-417; Value of Service (VOS); willingness to pay residencial; custos diretos comerciais e industriais; prejuízo anual de 18–33 mil milhões de dólares; furacões Ike e Sandy; grid hardening; Advanced Metering Infrastructure (AMI); Phasor Measurement Units (PMUs); automação, microrredes e armazenamento.
+
+Localização Do Conteúdo
+• PDF pp. 3–10: resultados executivos, tendências das interrupções meteorológicas e custos nacionais; 58% das interrupções desde 2002 e 87% das que afetaram pelo menos 50 000 clientes foram associadas ao tempo; investimento de 4,5 mil milhões de dólares do Recovery Act na modernização da rede.
+• PDF pp. 12–17: seis prioridades de resiliência — gestão do risco, reforço custo-eficaz, flexibilidade e robustez, visualização e consciência situacional, controlo avançado e disponibilidade de componentes e software críticos — e aplicações de contadores inteligentes, comutação automática, sincrofasores, microrredes e armazenamento.
+• PDF pp. 19–24: metodologia económica; associação dos registos OE-417 a valores de serviço por classe de consumidor; dois esquemas de ponderação, incertezas, estimativas anuais, parcela de produção perdida e conclusão sobre benefícios económicos potenciais dos investimentos em resiliência e modernização.
+
+Termos De Pesquisa Em Inglês
+weather-related outages; electric grid resilience; value of service; willingness to pay; direct cost estimation; DOE OE-417; annual outage cost; grid hardening; smart meters; automated feeder switching; synchrophasors; microgrids.
+
+Equivalentes Em Português
+interrupções relacionadas com o tempo; resiliência da rede elétrica; valor do serviço; disposição a pagar; estimação de custos diretos; formulário DOE OE-417; custo anual das interrupções; reforço da rede; contadores inteligentes; comutação automática de alimentadores; sincrofasores; microrredes.
+
+Possíveis Utilizações Na Tese
+Fundamentar custos económicos das interrupções meteorológicas, relacionar duração e clientes afetados com impactos e justificar investimentos em reforço, monitorização, automação, flexibilidade, microrredes e restauração da rede.
+
+Código: ART-2013-HU-COTTON
+
+Ficheiro: 2013 Impact of Climate Change on Static Ratings of Overhead Line in Edinburgh-IEEE.pdf
+Referência: X. Hu e I. Cotton, “Impact of Climate Change on Static Ratings of Overhead Line in Edinburgh,” in 2013 48th International Universities’ Power Engineering Conference (UPEC), Dublin, Irlanda, 2–5 set. 2013, pp. 1–6, doi: 10.1109/UPEC.2013.6714985.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2013%20Impact%20of%20Climate%20Change%20on%20Static%20Ratings%20of%20Overhead%20Line%20in%20Edinburgh-IEEE.pdf
+
+Conteúdo Indexado
+Classificação estática de linhas aéreas; ampacidade do condutor; modelo térmico do condutor; equilíbrio térmico em regime permanente; temperatura ambiente; temperatura máxima do condutor; velocidade do vento; radiação solar; projeções climáticas UKCP09; cenários de emissões; classificações sazonais em Edimburgo; redução futura da capacidade de transporte.
+
+Localização Do Conteúdo
+• PDF pp. 1–2: enquadramento das classificações térmicas estáticas e influência das alterações climáticas; variáveis meteorológicas, limites de temperatura do condutor, pressupostos conservadores e formulação do balanço entre aquecimento Joule e solar e arrefecimento convectivo e radiativo.
+• PDF pp. 3–5: utilização das projeções UKCP09 para Edimburgo e de diferentes cenários de emissões e horizontes futuros até ao final do século; geração das condições climáticas, introdução no modelo térmico e comparação das ampacidades sazonais com a referência atual, incluindo a sensibilidade ao aumento da temperatura ambiente.
+• PDF p. 6: resultados finais e conclusões sobre redução das classificações estáticas em climas futuros, implicações para operação, reforços e planeamento e necessidade de considerar projeções locais e incerteza climática na capacidade segura das linhas aéreas.
+
+Termos De Pesquisa Em Inglês
+static line rating; overhead line ampacity; UKCP09 climate projections; steady-state heat balance; ambient temperature; conductor temperature; wind speed; solar radiation; seasonal rating; emission scenario; Edinburgh; line derating.
+
+Equivalentes Em Português
+classificação estática da linha; ampacidade de linha aérea; projeções climáticas UKCP09; equilíbrio térmico estacionário; temperatura ambiente; temperatura do condutor; velocidade do vento; radiação solar; classificação sazonal; cenário de emissões; Edimburgo; redução da capacidade da linha.
+
+Possíveis Utilizações Na Tese
+Apoiar a conversão de projeções climáticas locais em redução da capacidade térmica, justificar deratings dependentes da temperatura e incorporar incerteza meteorológica nos limites operativos das linhas de transmissão.
+
+Código: ART-2013-ALIZADEH
+
+Ficheiro: 2013 Robust transmission system expansion considering planning uncertainties-IET.pdf
+Referência: B. Alizadeh, S. Dehghan, N. Amjady, S. Jadid e A. Kazemi, “Robust Transmission System Expansion Considering Planning Uncertainties,” IET Generation, Transmission & Distribution, vol. 7, n.º 11, pp. 1318–1331, nov. 2013, doi: 10.1049/iet-gtd.2012.0137.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2013%20Robust%20transmission%20system%20expansion%20considering%20planning%20uncertainties-IET.pdf
+
+Conteúdo Indexado
+Transmission Expansion Planning (TEP); Robust TEP (RTEP); Mixed-Integer Linear Programming (MILP); fluxo de potência DC; barras isoladas; incerteza dos custos de investimento; incerteza da previsão de procura; intervalos de incerteza sem distribuição; a priori chance constraints; nível de conservação Γm; linearização big-M; sistemas Garver, IEEE 30 e IEEE 118 barras.
+
+Localização Do Conteúdo
+• PDF pp. 1–6 | revista pp. 1318–1323: modelo TEP determinístico, função de custo, balanço nodal e fluxo DC; reformulação MILP para barras desconectadas; conjuntos de incerteza, contraparte robusta, restrições probabilísticas e controlo do conservadorismo.
+• PDF pp. 7–13 | revista pp. 1324–1330: aplicações aos sistemas Garver, IEEE 30 e IEEE 118 barras; comparação entre planos determinísticos e robustos, sensibilidades dos custos e da procura e efeito de Γm sobre investimento, capacidade adicionada e tempo computacional.
+• PDF p. 14 | revista p. 1331: conclusões; importância da precisão da previsão de carga, aplicabilidade a redes práticas e indicação da indisponibilidade futura de linhas como fonte adicional de incerteza.
+
+Termos De Pesquisa Em Inglês
+transmission expansion planning; robust optimization; mixed-integer linear programming; investment cost uncertainty; load forecast uncertainty; uncertainty set; conservation level; a priori chance constraint; DC power flow; big-M linearization; Garver 6-bus; IEEE 118-bus.
+
+Equivalentes Em Português
+planeamento da expansão da transmissão; otimização robusta; programação linear inteira mista; incerteza do custo de investimento; incerteza da previsão de carga; conjunto de incerteza; nível de conservação; restrição probabilística prévia; fluxo de potência DC; linearização big-M; sistema Garver de 6 barras; sistema IEEE de 118 barras.
+
+Possíveis Utilizações Na Tese
+Fundamentar planeamento robusto da expansão, representar incertezas de procura e investimento por intervalos controláveis e comparar custo, capacidade adicional e conservadorismo na preparação da transmissão para cenários adversos.
+
+Código: ART-2013-WARD
+
+Ficheiro: 2013 The effect of weather on grid systems and the reliability of electricity supply-Climate Change.pdf
+Referência: D. M. Ward, “The Effect of Weather on Grid Systems and the Reliability of Electricity Supply,” Climatic Change, vol. 121, n.º 1, pp. 103–113, nov. 2013, doi: 10.1007/s10584-013-0916-z.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2013%20The%20effect%20of%20weather%20on%20grid%20systems%20and%20the%20reliability%20of%20electricity%20supply-Climate%20Change.pdf
+
+Conteúdo Indexado
+Falhas meteorológicas da rede elétrica; confiabilidade do fornecimento; transmissão em alta tensão; redes de distribuição; diferenças de exposição e consequências; ventos fortes como ameaça dominante; tempestades e furacões; raios; neve e gelo; inundações; contacto de árvores e vegetação; medidas preventivas e de recuperação.
+
+Localização Do Conteúdo
+• PDF pp. 1–3 | revista pp. 103–105: estrutura da rede e relação entre falhas de componentes e continuidade do fornecimento; exposição de linhas, torres, postes, cabos e subestações; distinção entre impactos meteorológicos nas redes de transmissão e distribuição e enquadramento das alterações climáticas.
+• PDF pp. 4–8 | revista pp. 106–110: experiência observada na Europa e América do Norte; mecanismos de dano, curto-circuito e perda de componentes associados a vento, tempestades, raios, gelo, neve, inundação e vegetação; identificação dos ventos fortes como evento extremo geralmente mais significativo.
+• PDF pp. 9–11 | revista pp. 111–113: medidas para reduzir vulnerabilidade, frequência e duração das interrupções; projeto e reforço, manutenção e gestão da vegetação, monitorização meteorológica, preparação operacional, redundância e restauração; conclusões sobre adaptação da rede a alterações na frequência e severidade dos eventos.
+
+Termos De Pesquisa Em Inglês
+weather-related grid faults; electricity supply reliability; high-voltage transmission; distribution networks; high winds; storm damage; lightning faults; ice loading; flooding; vegetation contact; climate change; mitigation measures.
+
+Equivalentes Em Português
+falhas da rede relacionadas com o tempo; confiabilidade do fornecimento elétrico; transmissão em alta tensão; redes de distribuição; ventos fortes; danos por tempestade; falhas por raios; carga de gelo; inundações; contacto de vegetação; alterações climáticas; medidas de mitigação.
+
+Possíveis Utilizações Na Tese
+Fundamentar a seleção de ameaças meteorológicas e mecanismos de falha, distinguir vulnerabilidades da transmissão e distribuição e justificar medidas de prevenção, reforço e recuperação na avaliação da resiliência.
+
+Código: ART-2014-ALBASRAWI
+
+Ficheiro: 2014 Analysis of Reliability and Resilience for Smart Grids-IEEE.pdf
+Referência: M. N. Albasrawi, N. Jarus, K. A. Joshi e S. Sedigh Sarvestani, “Analysis of Reliability and Resilience for Smart Grids,” in 2014 IEEE 38th Annual Computer Software and Applications Conference, Västerås, Suécia, 2014, pp. 529–534, doi: 10.1109/COMPSAC.2014.75.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2014%20Analysis%20of%20Reliability%20and%20Resilience%20for%20Smart%20Grids-IEEE.pdf
+
+Conteúdo Indexado
+Markov Imbeddable Structure (MIS); interdependências ciberfísicas; estados funcionais e falhados; propagação de falhas em cascata; sistema IEEE de 9 barras; Static Synchronous Series Compensator (SSSC); Percentage Amount of Series Compensation (PASC); confiabilidade Rsys; métricas F1 e F2; índices de resiliência Λ1 e Λ2; contingência de três linhas; estratégias sequenciais de recuperação.
+
+Localização Do Conteúdo
+• PDF pp. 1–3 | conferência pp. 529–531: distinção entre confiabilidade antes da falha e resiliência durante a recuperação; curva temporal F(t); formulação MIS com estados, probabilidades iniciais e matriz de transição; inclusão de componentes físicos e cibernéticos.
+• PDF pp. 3–5 | conferência pp. 531–533: aplicação ao IEEE 9 barras; SSSC e PASC; configurações que reduzem três cascatas potenciais para duas; indisponibilidade das linhas 2–7, 5–7 e 7–8, produzindo 11 violações, fluxo de 239% na linha 1–4 e 0,968 pu na barra 8.
+• PDF pp. 5–6 | conferência pp. 533–534: comparação de duas ordens de reparação pelas métricas F1, F2, Λ1 e Λ2; resultados dependentes da métrica selecionada; conclusões sobre confiabilidade do SSSC, recuperação, limitações e trabalhos futuros.
+
+Termos De Pesquisa Em Inglês
+smart grid reliability; smart grid resilience; Markov Imbeddable Structure; cascading failures; cyber-physical interdependency; IEEE 9-bus system; SSSC; PASC; power flow violation; voltage violation; resilience metric; recovery strategy.
+
+Equivalentes Em Português
+confiabilidade da rede inteligente; resiliência da rede inteligente; estrutura embutível de Markov; falhas em cascata; interdependência ciberfísica; sistema IEEE de 9 barras; compensador série síncrono estático; percentagem de compensação série; violação de fluxo; violação de tensão; métrica de resiliência; estratégia de recuperação.
+
+Possíveis Utilizações Na Tese
+Comparar confiabilidade e resiliência, representar cascatas e recuperação temporal, selecionar métricas de fluxo e tensão e avaliar como a ordem de reparação influencia a recomposição após indisponibilidades múltiplas.
+
+Código: ART-2014-KENWARD
+
+Ficheiro: 2014 Blackout-Extreme Weather, Climate Change and Power Outages-Climate Central.pdf
+Referência: A. Kenward e U. Raja, Blackout: Extreme Weather, Climate Change and Power Outages. Princeton, NJ, EUA: Climate Central, 2014.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2014%20Blackout-Extreme%20Weather%2C%20Climate%20Change%20and%20Power%20Outages-Climate%20Central.pdf
+
+Conteúdo Indexado
+Formulário DOE OE-417; relatórios NERC System Disturbance; série histórica 1984–2012; análise principal 2003–2012; definição de grande interrupção; 911 eventos analisados; 726 interrupções meteorológicas; 147 milhões de clientes afetados; regiões RFC e SERC; classificação por tipo de tempo severo; custo anual de 20–55 mil milhões de dólares; alterações climáticas como multiplicador de ameaças.
+
+Localização Do Conteúdo
+• PDF pp. 2–7 | relatório pp. 3–8: resultados executivos, estrutura da rede norte-americana, vulnerabilidade das instalações aéreas e método; critérios de grande interrupção — 50 000 clientes durante uma hora, perda de 300 MW ou défice de 100 MW — e fontes DOE/NERC.
+• PDF pp. 8–16 | relatório pp. 9–17: tendências e distribuição regional; 80% dos 911 eventos foram meteorológicos, afetando quase 90% dos clientes; a média anual duplicou desde 2003 e 59% foram atribuídos a tempestades severas; rankings por regiões, estados e empresas; separação entre frio/gelo, furacões, tornados, calor e incêndios.
+• PDF pp. 17–20 | relatório pp. 18–21: tendências observadas de precipitação intensa, tempestades, furacões, calor e incêndios; incertezas de atribuição climática; conclusões sobre envelhecimento da rede, aumento da procura, exposição da transmissão e custos económicos.
+
+Termos De Pesquisa Em Inglês
+weather-related power outages; DOE Form OE-417; NERC disturbance reports; major power outage; customers affected; RFC region; SERC region; severe storms; hurricane outages; extreme heat advisories; annual outage cost; climate threat multiplier.
+
+Equivalentes Em Português
+interrupções meteorológicas; formulário DOE OE-417; relatórios de perturbações NERC; grande interrupção elétrica; clientes afetados; região RFC; região SERC; tempestades severas; interrupções por furacões; avisos de calor extremo; custo anual das interrupções; multiplicador de ameaças climáticas.
+
+Possíveis Utilizações Na Tese
+Fundamentar frequências e consequências de eventos meteorológicos, selecionar categorias de ameaça, relacionar clientes afetados e custos e justificar o agravamento da exposição da transmissão perante alterações climáticas.
+
+Código: ART-2014-OUYANG
+
+Ficheiro: 2014 Multi-dimensional hurricane resilience assessment of electric power systems-ELSEVIER.pdf
+Referência: M. Ouyang e L. Dueñas-Osorio, “Multi-dimensional hurricane resilience assessment of electric power systems,” Structural Safety, vol. 48, pp. 15–24, maio 2014, doi: 10.1016/j.strusafe.2014.01.001.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2014%20Multi-dimensional%20hurricane%20resilience%20assessment%20of%20electric%20power%20systems-ELSEVIER.pdf
+
+Conteúdo Indexado
+Modelo probabilístico de resiliência a furacões; geração de cenários de perigo; curvas de fragilidade dos componentes; modelo elétrico open-flow; falhas em cascata; modelo histórico de restauração; etapas prevenção–propagação–recuperação; furacão Ike de 2008; sistema de Harris County; resiliências técnica, organizacional, social e económica; escala logarítmica de resiliência; perdas anuais de 83 milhões de dólares.
+
+Localização Do Conteúdo
+• PDF pp. 1–4 | revista pp. 15–18: definição temporal de resiliência, três etapas da resposta e quatro submodelos acoplados — perigo, fragilidade, desempenho do sistema e restauração; métricas de subestações energizadas, nós de distribuição, instalações críticas e clientes com energia.
+• PDF pp. 5–7 | revista pp. 19–21: calibração e verificação com dados reais de indisponibilidade e recomposição após o furacão Ike em Harris County, Texas; perigo regional com frequência média aproximada de um furacão em sete anos; representação de ventos, danos simultâneos, propagação e práticas históricas de reparação.
+• PDF pp. 7–10 | revista pp. 21–24: comparação multidimensional e estratégias alternativas; resiliência organizacional de 99,964% ou 3,445 na escala logarítmica, resiliência social de 99,760% ou 2,620 e perdas económicas até 83 milhões de dólares anuais; conclusões e limitações.
+
+Termos De Pesquisa Em Inglês
+hurricane resilience assessment; hazard scenario generation; component fragility model; open-flow power system; cascading failures; system restoration model; Hurricane Ike; Harris County; technical resilience; organizational resilience; social resilience; economic loss.
+
+Equivalentes Em Português
+avaliação da resiliência a furacões; geração de cenários de perigo; modelo de fragilidade; sistema elétrico de fluxo aberto; falhas em cascata; modelo de restauração; furacão Ike; Harris County; resiliência técnica; resiliência organizacional; resiliência social; perda económica.
+
+Possíveis Utilizações Na Tese
+Apoiar a integração de perigo, fragilidade, cascatas e restauração; comparar dimensões da resiliência; calibrar cenários com eventos reais e relacionar desempenho temporal com perdas económicas.
+
+Código: ART-2014-AIEN
+
+Ficheiro: 2014 On possibilistic and probabilistic uncertainty assessment of power flow problem-A review and a new approach-ELSEVIER.pdf
+Referência: M. Aien, M. Rashidinejad e M. Fotuhi-Firuzabad, “On possibilistic and probabilistic uncertainty assessment of power flow problem: A review and a new approach,” Renewable and Sustainable Energy Reviews, vol. 37, pp. 883–895, set. 2014, doi: 10.1016/j.rser.2014.05.063.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2014%20On%20possibilistic%20and%20probabilistic%20uncertainty%20assessment%20of%20power%20flow%20problem-A%20review%20and%20a%20new%20approach-ELSEVIER.pdf
+
+Conteúdo Indexado
+Uncertain Power Flow (UPF); incerteza probabilística; incerteza possibilística; distribuições de probabilidade; funções de pertença; Unscented Transformation (UT); teoria da evidência de Dempster–Shafer; propagação conjunta de incertezas; Monte Carlo Simulation (MCS); cargas, geração eólica e solar; geração distribuída a turbina a gás e veículos elétricos; sistemas IEEE 9 barras e distribuição de 574 nós.
+
+Localização Do Conteúdo
+• PDF pp. 1–5 | revista pp. 883–887: formulação do fluxo de potência incerto; revisão de técnicas probabilísticas e possibilísticas; condições para usar densidades de probabilidade ou funções de pertença; princípios e pontos sigma da Unscented Transformation.
+• PDF pp. 6–9 | revista pp. 888–891: classificação das entradas incertas; modelação probabilística de carga e renováveis e possibilística de variáveis com dados insuficientes; teoria Dempster–Shafer e algoritmo para propagação conjunta no UPF.
+• PDF pp. 10–13 | revista pp. 892–895: aplicações aos sistemas IEEE 9 barras e de 574 nós; implementação em MATPOWER; comparação com o método baseado em MCS; redução do esforço computacional mantendo precisão; conclusões sobre utilização híbrida de informação aleatória e imprecisa.
+
+Termos De Pesquisa Em Inglês
+uncertain power flow; probabilistic uncertainty; possibilistic uncertainty; probability density function; membership function; Unscented Transformation; Dempster-Shafer evidence theory; joint uncertainty propagation; Monte Carlo Simulation; distributed energy resources; IEEE 9-bus; 574-node distribution system.
+
+Equivalentes Em Português
+fluxo de potência incerto; incerteza probabilística; incerteza possibilística; função densidade de probabilidade; função de pertença; transformação unscented; teoria da evidência de Dempster–Shafer; propagação conjunta de incertezas; simulação de Monte Carlo; recursos energéticos distribuídos; sistema IEEE de 9 barras; sistema de distribuição de 574 nós.
+
+Possíveis Utilizações Na Tese
+Apoiar a representação conjunta de incertezas probabilísticas e possibilísticas, reduzir o custo computacional dos cenários e tratar variáveis climáticas, operativas ou de falha quando os dados forem insuficientes.
+
+Código: ART-2014-AYYUB
+
+Ficheiro: 2014 Systems Resilience for Multihazard Environments-Definition, Metrics, and Valuation for Decision Making-Risk Analysis.pdf
+Referência: B. M. Ayyub, “Systems Resilience for Multihazard Environments: Definition, Metrics, and Valuation for Decision Making,” Risk Analysis, vol. 34, n.º 2, pp. 340–355, fev. 2014, doi: 10.1111/risa.12093.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2014%20Systems%20Resilience%20for%20Multihazard%20Environments-Definition%2C%20Metrics%2C%20and%20Valuation%20for%20Decision%20Making-Risk%20Analysis.pdf
+
+Conteúdo Indexado
+Definição operacional de resiliência e dez requisitos; desempenho, incerteza e persistência; relação com risco e confiabilidade; teoria das medidas monotónicas; álgebra e σ-álgebra; triângulo de resiliência; robustez e perfil de recuperação; tempos de falha e recuperação; agregação da resiliência de componentes; unidades de desempenho; valorização económica; índice benefício–custo βB/C.
+
+Localização Do Conteúdo
+• PDF pp. 1–5 | revista pp. 340–344: revisão das definições existentes, requisitos da definição proposta e formulação baseada na persistência do desempenho sob incerteza; relação com a definição de risco ISO e fundamentos de teoria da medida.
+• PDF pp. 6–12 | revista pp. 345–351: propriedades e triângulo de resiliência; métricas de robustez, degradação, recuperação e duração; índice integral da qualidade Q(t), incluindo o instante da perturbação e o retorno ao desempenho-alvo; unidades de desempenho e agregação da resiliência de componentes para sistemas.
+• PDF pp. 12–16 | revista pp. 351–355: valorização social, perdas diretas e indiretas, custos de recuperação e análise de alternativas; índice probabilístico benefício–custo βB/C e probabilidade de o custo exceder o benefício, P(C>B), baseado nas distribuições de benefícios e custos, e probabilidade de os benefícios excederem os custos e conclusões sobre decisões em ambientes multirriscos.
+
+Termos De Pesquisa Em Inglês
+systems resilience; multihazard environment; performance persistence; monotone measure; sigma algebra; resilience triangle; robustness; recovery profile; time to recovery; system aggregation; economic valuation; benefit-cost index.
+
+Equivalentes Em Português
+resiliência de sistemas; ambiente multirriscos; persistência do desempenho; medida monotónica; sigma-álgebra; triângulo de resiliência; robustez; perfil de recuperação; tempo de recuperação; agregação do sistema; valorização económica; índice benefício–custo.
+
+Possíveis Utilizações Na Tese
+Fundamentar a definição e quantificação do índice de resiliência, relacionar desempenho, impacto, robustez e recuperação, agregar trechos ou componentes e apoiar a comparação económica de alternativas de reforço perante eventos extremos múltiplos.
+
+Código: ART-2015-HOL-STC
+
+Ficheiro: 2014 The Resilience of the Electricity System-STC.pdf
+Referência: House of Lords Science and Technology Select Committee, The Resilience of the Electricity System, 1st Report of Session 2014–15, HL Paper 121. Londres, Reino Unido: The Stationery Office, mar. 2015.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2014%20The%20Resilience%20of%20the%20Electricity%20System-STC.pdf
+
+Conteúdo Indexado
+Sistema elétrico da Grã-Bretanha; trilema segurança–acessibilidade–sustentabilidade; margem de capacidade; Loss of Load Expectation (LOLE); Capacity Market; Contracts for Difference (CfD); Electricity Market Reform (EMR); New Balancing Services; riscos técnicos, meteorológicos, cibernéticos e espaciais; Demand Side Response (DSR); interligações internacionais; armazenamento e geração flexível.
+
+Localização Do Conteúdo
+• PDF pp. 8–40 | relatório pp. 8–40: definição de resiliência, componentes resistência–confiabilidade–redundância–resposta e recuperação, trilema, governação e visão integral do sistema; margem de capacidade, padrão de três horas anuais de LOLE, Capacity Market e redes resilientes; aumento emergencial da margem de 4,1% para 6,1% mediante 1,1 GW de serviços de balanço.
+• PDF pp. 41–49 | relatório pp. 41–49: riscos à resiliência por falha técnica, tempo extremo, terrorismo físico, ciberataque e meteorologia espacial; registo nacional de riscos, resposta de emergência e investigação RESNET sobre redes expostas a condições severas.
+• PDF pp. 50–96 | relatório pp. 50–96: procura futura e DSR, interligações, armazenamento, geração flexível e renováveis intermitentes; investigação e demonstração; conclusões e recomendações sobre coordenação sistémica, função de arquiteto do sistema, transparência dos custos e preparação até 2030.
+
+Termos De Pesquisa Em Inglês
+electricity system resilience; energy trilemma; capacity margin; Loss of Load Expectation; Capacity Market; Contracts for Difference; New Balancing Services; extreme weather risk; cyber attack; demand side response; electricity interconnection; energy storage.
+
+Equivalentes Em Português
+resiliência do sistema elétrico; trilema energético; margem de capacidade; expectativa de perda de carga; mercado de capacidade; contratos por diferença; novos serviços de balanço; risco meteorológico extremo; ciberataque; resposta da procura; interligação elétrica; armazenamento de energia.
+
+Possíveis Utilizações Na Tese
+Apoiar fatores de capacidade, padrões LOLE, riscos sistémicos e recursos de flexibilidade, relacionar confiabilidade e resiliência e justificar coordenação, redundância, resposta da procura, armazenamento e interligações na preparação da transmissão.
+
+Código: ART-2015-PANTELI-REVIEW
+
+Ficheiro: 2015 Influence of extreme weather and climate change on the resilience of power systems Impacts and possible mitigation strategies-ELSEVIER.pdf
+Referência: M. Panteli e P. Mancarella, “Influence of extreme weather and climate change on the resilience of power systems: Impacts and possible mitigation strategies,” Electric Power Systems Research, vol. 127, pp. 259–270, out. 2015, doi: 10.1016/j.epsr.2015.06.012.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2015%20Influence%20of%20extreme%20weather%20and%20climate%20change%20on%20the%20resilience%20of%20power%20systems%20Impacts%20and%20possible%20mitigation%20strategies-ELSEVIER.pdf
+
+Conteúdo Indexado
+Eventos High-Impact Low-Probability (HILP); alterações climáticas; falhas meteorológicas em geração, transmissão e distribuição; vento, gelo, neve, raios, inundações e calor; taxas de falha dependentes do tempo; modelos analíticos de Markov; Sequential Monte Carlo Simulation; regiões meteorológicas; falhas de causa comum; recuperação e resposta humana; medidas de hardening e smart grid; estrutura integrada de modelação da resiliência.
+
+Localização Do Conteúdo
+• PDF pp. 1–4 | revista pp. 259–262: influência do tempo e do clima nos componentes, operação e apagões; tendências de eventos extremos, mecanismos de falha e distinção entre confiabilidade tradicional e resiliência perante eventos HILP.
+• PDF pp. 4–8 | revista pp. 262–266: revisão das metodologias probabilísticas e temporais; modelos Markov, simulação Monte Carlo sequencial, representação espacial das frentes meteorológicas, dependência das taxas de falha e reparação, causas comuns e intervenção dos operadores.
+• PDF pp. 8–12 | revista pp. 266–270: estratégias preventivas, corretivas e adaptativas; reforço físico, redundância, monitorização, previsão, recursos distribuídos, microrredes e restauração; estrutura de investigação que integra perigo, vulnerabilidade, impacto sistémico, recuperação e aprendizagem.
+
+Termos De Pesquisa Em Inglês
+power system resilience; extreme weather events; climate change impacts; high-impact low-probability; weather-dependent failure rate; Markov model; sequential Monte Carlo simulation; weather regions; common-cause failures; human response; mitigation strategies; resilience modelling framework.
+
+Equivalentes Em Português
+resiliência do sistema elétrico; eventos meteorológicos extremos; impactos das alterações climáticas; alto impacto e baixa probabilidade; taxa de falha meteorológica; modelo de Markov; simulação Monte Carlo sequencial; regiões meteorológicas; falhas de causa comum; resposta humana; estratégias de mitigação; estrutura de modelação da resiliência.
+
+Possíveis Utilizações Na Tese
+Fundamentar cenários climáticos e taxas de falha, selecionar métodos probabilísticos e temporais e organizar medidas de prevenção, resposta, restauração e adaptação numa estrutura integrada de avaliação da resiliência.
+
+Código: ART-2023-STANKOVIC
+
+Ficheiro: 2015 Methods for Analysis and Quantification of Power System Resilience-IEEE.pdf
+Referência: A. M. Stanković et al., “Methods for Analysis and Quantification of Power System Resilience,” IEEE Transactions on Power Systems, vol. 38, n.º 5, pp. 4774–4787, set. 2023, doi: 10.1109/TPWRS.2022.3212688.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2015%20Methods%20for%20Analysis%20and%20Quantification%20of%20Power%20System%20Resilience-IEEE.pdf
+
+Conteúdo Indexado
+IEEE PES Task Force com 26 autores; distinção resiliência–confiabilidade–robustez–segurança; eventos High-Impact Low-Frequency (HILF); percurso antecipação–absorção–adaptação–restauração; aprendizagem por feedback; estrutura multiescala temporal e espacial; curva de desempenho C(t); processos de outage O(t) e restoration R(t); Transmission Availability Data System (TADS); caudas pesadas de apagões; valorização económica e willingness to pay; Operator Training Simulator e Dispatcher Training Simulator.
+
+Localização Do Conteúdo
+• PDF pp. 1–6 | revista pp. 4774–4779: definições e relações entre resiliência e conceitos tradicionais; estrutura multiescala temporal, espacial e organizacional, percurso progressivo do evento, ações preventivas e emergenciais e ciclo de aprendizagem após a recuperação.
+• PDF pp. 6–10 | revista pp. 4779–4783: métodos de quantificação; decomposição C(t)=R(t)−O(t), áreas de impacto e recuperação, métricas de perda e recomposição, dados históricos TADS, distribuições de apagões com caudas pesadas e métodos económicos baseados em danos evitados e preferências dos consumidores.
+• PDF pp. 10–14 | revista pp. 4783–4787: resiliência comunitária e interdependências, planeamento, operação e formação; arquitetura ampliada OTS/DTS, exercícios GridEx, blackstart, telecomunicações, gás natural, aprendizagem organizacional, lacunas metodológicas e prioridades de investigação.
+
+Termos De Pesquisa Em Inglês
+power system resilience; resilience quantification; HILF events; forward resilience path; feedback learning path; resilience curve; outage process; restoration process; TADS; heavy-tailed blackouts; economic valuation; operator training simulator.
+
+Equivalentes Em Português
+resiliência do sistema elétrico; quantificação da resiliência; eventos HILF; percurso progressivo da resiliência; percurso de aprendizagem; curva de resiliência; processo de indisponibilidade; processo de restauração; sistema TADS; apagões de cauda pesada; valorização económica; simulador de formação de operadores.
+
+Possíveis Utilizações Na Tese
+Estruturar etapas temporais da resiliência, comparar métricas de impacto e recuperação, usar dados históricos de indisponibilidade, considerar caudas pesadas e integrar planeamento, operação, formação, interdependências e valorização económica no índice proposto.
+
+Código: ART-2015-PANTELI-MCS
+
+Ficheiro: 2015 Modelling and Evaluating the Resilience of Critical Electrical Power Infrastructure to Extreme Weather Events-IEEE.pdf
+Referência: M. Panteli e P. Mancarella, “Modeling and Evaluating the Resilience of Critical Electrical Power Infrastructure to Extreme Weather Events,” IEEE Systems Journal, vol. 11, n.º 3, pp. 1733–1742, set. 2017, doi: 10.1109/JSYST.2015.2389272.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2015%20Modelling%20and%20Evaluating%20the%20Resilience%20of%20Critical%20Electrical%20Power%20Infrastructure%20to%20Extreme%20Weather%20Events-IEEE.pdf
+
+Conteúdo Indexado
+Estrutura conceptual de resiliência; Sequential Monte Carlo Simulation; curvas de fragilidade; probabilidades de falha dependentes do vento; sistema de sistemas com resposta humana; sistema de teste IEEE de 6 barras; duas regiões meteorológicas; perfis de vento normal, elevado e extremo; fluxo de potência ótimo DC; Loss of Load Frequency (LOLF); Loss of Load Expectation (LOLE); redes robusta, redundante e com resposta rápida.
+
+Localização Do Conteúdo
+• PDF pp. 1–3 | revista pp. 1733–1735: definição e atributos da infraestrutura resiliente; medidas de curto e longo prazo e estrutura que liga preparação, absorção, recuperação e adaptação.
+• PDF pp. 4–6 | revista pp. 1736–1738: metodologia Monte Carlo temporal, regiões meteorológicas, curvas de fragilidade, falhas independentes e comuns, reparação, atrasos humanos e cálculo de LOLF e LOLE por fluxo ótimo DC.
+• PDF pp. 6–9 | revista pp. 1738–1741: aplicação ao IEEE 6 barras; comparação das redes normal, robusta, redundante e com resposta rápida sob vento extremo; atrasos de 1, 3 e 5 horas; efeito da preparação na perda de carga; conclusões.
+
+Termos De Pesquisa Em Inglês
+critical power infrastructure; extreme weather resilience; sequential Monte Carlo simulation; fragility curves; wind-dependent failure probability; common-cause failure; human response model; IEEE 6-bus system; DC optimal power flow; loss of load frequency; loss of load expectation; resilience enhancement.
+
+Equivalentes Em Português
+infraestrutura elétrica crítica; resiliência meteorológica extrema; simulação Monte Carlo sequencial; curvas de fragilidade; probabilidade de falha por vento; falha de causa comum; modelo de resposta humana; sistema IEEE de 6 barras; fluxo de potência ótimo DC; frequência de perda de carga; expectativa de perda de carga; reforço da resiliência.
+
+Possíveis Utilizações Na Tese
+Modelar falhas e reparações dependentes do evento, quantificar perda de carga por LOLF e LOLE e testar como robustez, redundância e resposta alteram a resiliência da transmissão.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Código: ART-2016-FERC-NERC
+
+Ficheiro: 2016 Report on the FERC-NERC-Regional Entity Joint Review of Restaration and Recovery Plans-NERC.pdf
+Referência: Federal Energy Regulatory Commission, North American Electric Reliability Corporation e Regional Entities, Report on the FERC-NERC-Regional Entity Joint Review of Restoration and Recovery Plans. Washington, DC, EUA, jan. 2016.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2014%20Report%20on%20the%20FERC-NERC-Regional%20Entity%20Joint%20Review%20of%20Restaration%20and%20Recovery%20Plans-NERC.pdf
+
+Conteúdo Indexado
+Revisão conjunta iniciada em setembro de 2014; nove entidades registadas; oito Regional Entities; EOP-005-2; CIP-008-3; CIP-009-3; recursos blackstart e cranking paths; formação e exercícios de restauração; perda de SCADA, ICCP e EMS; resposta a incidentes cibernéticos; recuperação de ativos cibernéticos críticos; melhoria contínua dos planos.
+
+Localização Do Conteúdo
+• PDF pp. 4–15: objetivo, amostra e processo colaborativo FERC–NERC–Regional Entities; avaliação não sancionatória; planos analisados, simulações e exercícios; constatação de documentação detalhada; normas EOP-005-2, CIP-008-3 e CIP-009-3 e síntese das 15 recomendações.
+• PDF pp. 16–74 | relatório pp. 5–63: estratégias e prioridades de restauração; coordenação, consciência situacional, blackstart, caminhos de arranque, formação de ilhas, sincronização, testes, atualização, exercícios e lições de apagões; a verificação normativa ocorria em ciclos de cinco anos, embora alterações significativas fossem testadas voluntariamente; estudos recomendados para perda de SCADA/EMS e alterações de recursos.
+• PDF pp. 75–113 | relatório pp. 64–102: recursos e ferramentas cibernéticas, deteção e gatilhos, resposta inicial, recuperação, inventários, revisão independente e exercícios operacionais; transferência real para centro alternativo; feedback de testes e eventos; recomendações para planos mais robustos.
+
+Termos De Pesquisa Em Inglês
+system restoration plan; recovery plan; blackstart resources; cranking path; island synchronization; EOP-005-2; CIP-008-3; CIP-009-3; SCADA loss; cyber incident response; critical cyber asset recovery; alternate control center.
+
+Equivalentes Em Português
+plano de restauração do sistema; plano de recuperação; recursos de arranque autónomo; caminho de arranque; sincronização de ilhas; norma EOP-005-2; norma CIP-008-3; norma CIP-009-3; perda do SCADA; resposta a incidente cibernético; recuperação de ativo cibernético crítico; centro de controlo alternativo.
+
+Possíveis Utilizações Na Tese
+Fundamentar fatores operacionais de restauração, testar dependências de SCADA e telecomunicações, estruturar cenários blackstart e incorporar treino, atualização, coordenação e aprendizagem nos tempos de recomposição.
+
+
+Código: ART-2024-GAUTAM
+Ficheiro: 2024 A Resilient Integrated Resource Planning Framework for Transmission Systems-Analysis Using High Impact Low Probability Events-IEEE.pdf
+Referência: M. Gautam, T. McJunkin, T. Phillips e R. Hruska, “A Resilient Integrated Resource Planning Framework for Transmission Systems: Analysis Using High Impact Low Probability Events,” in 2024 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT), Washington, DC, USA, pp. 1–5, 2024. DOI: 10.1109/ISGT59692.2024.10454156.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link completo do PDF:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2024%20A%20Resilient%20Integrated%20Resource%20Planning%20Framework%20for%20Transmission%20Systems-Analysis%20Using%20High%20Impact%20Low%20Probability%20Events-IEEE.pdf
+
+Conteúdo indexado
+Planeamento Integrado de Recursos resiliente; eventos HILP; índice de proximidade entre linhas desligadas e geradores; indisponibilidades múltiplas de linhas; grafo não dirigido da transmissão; componentes conectados e ilhamento; corte de carga por componente; Expected Load Curtailment (ELC); Expected Critical Load Curtailment (ECLC); recursos adicionais; sistema IEEE de 24 barras; níveis-alvo de resiliência.
+
+Localização do conteúdo
+• PDF pp. 1–2: enquadramento do IRP resiliente, diferenças face ao planeamento tradicional de confiabilidade, eventos HILP, estrutura do framework e índice de proximidade para selecionar contingências potencialmente severas.
+• PDF pp. 2–4: rede como grafo não dirigido, componentes conectados, ilhas com ou sem geração, cálculo do corte de carga, definição de ELC/ECLC e aplicação ao sistema IEEE de 24 barras.
+• PDF pp. 4–5: reavaliação da resiliência após incorporação de recursos adicionais, implicações para investimentos e conclusões sobre o uso do framework no planeamento da transmissão.
+
+Termos de pesquisa em inglês
+resilient integrated resource planning; high-impact low-probability events; proximity index; multiple-line outages; undirected graph; connected components; network islanding; load curtailment; expected load curtailment; expected critical load curtailment; additional resources; IEEE 24-bus system.
+
+Equivalentes em português
+planeamento integrado de recursos resiliente; eventos de alto impacto e baixa probabilidade; índice de proximidade; indisponibilidades múltiplas de linhas; grafo não dirigido; componentes conectados; formação de ilhas; corte de carga; corte de carga esperado; corte esperado de carga crítica; recursos adicionais; sistema IEEE de 24 barras.
+
+Possíveis utilizações na tese
+Fundamentar a seleção de cenários HILP; relacionar topologia, ilhamento e corte de carga; comparar ELC/ECLC com energia não suprida; apoiar investimentos e níveis-alvo de resiliência na transmissão.
+
+

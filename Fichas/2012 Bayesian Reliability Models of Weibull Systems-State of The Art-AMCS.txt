@@ -1,0 +1,25 @@
+﻿Código: ART-2012-ZAIDI
+
+Ficheiro: 2012 Bayesian Reliability Models of Weibull Systems-State of The Art-AMCS.pdf
+Referência: A. Zaidi, B. Ould Bouamama e M. Tagina, “Bayesian reliability models of Weibull systems: State of the art,” International Journal of Applied Mathematics and Computer Science, vol. 22, n.º 3, pp. 585–600, set. 2012, doi: 10.2478/v10006-012-0045-2.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2012%20Bayesian%20Reliability%20Models%20of%20Weibull%20Systems-State%20of%20The%20Art-AMCS.pdf
+
+Conteúdo Indexado
+Redes Bayesianas (BNs); distribuição Weibull; estimação Bayesiana hierárquica; prior informativa e não informativa; Markov Chain Monte Carlo (MCMC); WinBUGS e linguagem R; posterior predictive p-value e Deviance Information Criterion (DIC); intervalo de credibilidade de 90%; fator de cobertura c; Common Cause of Failure (CCF); sistemas com estrutura desconhecida; Dynamic Bayesian Network (DBN) para Fault Detection and Isolation (FDI).
+
+Localização Do Conteúdo
+• PDF pp. 4–7 | revista pp. 588–591: densidade Weibull, taxa de risco e confiabilidade; distribuições posteriores dos parâmetros; prior de Jeffreys; MCMC; verificação do ajuste. O modelo Weibull com prior não informativa apresenta p-value 0,607 e menor DIC, 452,416.
+• PDF pp. 7–10 | revista pp. 591–594: formulação BN para sistemas série e paralelo; redundância com fator de cobertura; probabilidade αCCF para falha de causa comum; estruturas desconhecidas não representáveis por árvores de falhas ou diagramas de confiabilidade.
+• PDF pp. 10–14 | revista pp. 594–598: aplicação das BNs ao diagnóstico; modelo híbrido com confiabilidades e resíduos; DBN/IOHMM do sistema de dois tanques; redução de falsos alarmes; conclusões sobre estruturas complexas e FDI.
+
+Termos De Pesquisa Em Inglês
+Bayesian reliability model; Weibull distribution; hierarchical Bayesian estimation; non-informative prior; posterior predictive p-value; Deviance Information Criterion; Markov Chain Monte Carlo; credibility interval; covering factor; common cause failure; unknown reliability structure; dynamic Bayesian network.
+
+Equivalentes Em Português
+modelo Bayesiano de confiabilidade; distribuição Weibull; estimação Bayesiana hierárquica; prior não informativa; valor-p preditivo posterior; critério de informação do desvio; Monte Carlo via cadeias de Markov; intervalo de credibilidade; fator de cobertura; falha de causa comum; estrutura de confiabilidade desconhecida; rede Bayesiana dinâmica.
+
+Possíveis Utilizações Na Tese
+Apoiar modelação probabilística de falhas, estimação de parâmetros Weibull e tratamento de dependências, causas comuns e estruturas desconhecidas, complementando indicadores de resiliência com probabilidades atualizadas por evidências.
+

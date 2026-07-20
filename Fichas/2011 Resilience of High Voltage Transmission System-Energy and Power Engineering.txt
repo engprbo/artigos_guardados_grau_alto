@@ -1,0 +1,25 @@
+﻿Código: ART-2011-AFGAN
+
+Ficheiro: 2011 Resilience of High Voltage Transmission System-Energy and Power Engineering.pdf
+Referência: N. H. Afgan e D. B. Cvetinovic, “Resilience of High Voltage Transmission System,” Energy and Power Engineering, vol. 3, n.º 5, pp. 600–606, nov. 2011, doi: 10.4236/epe.2011.35075.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2011%20Resilience%20of%20High%20Voltage%20Transmission%20System-Energy%20and%20Power%20Engineering.pdf
+
+Conteúdo Indexado
+Índice de resiliência do sistema de transmissão em alta tensão; alteração súbita e retorno dos indicadores; normalização dos valores amostrados q_i(t); fatores de ponderação w_i; função agregada Q(t); índice integral R; esquema de monitorização da resiliência; aglomeração dos índices parciais; custo da eletricidade; camada de gelo; consumo de potência; comportamento humano.
+
+Localização Do Conteúdo
+• PDF pp. 1–3 | revista pp. 600–602: vulnerabilidade do sistema de alta tensão; indicadores de sustentabilidade; definição da alteração súbita; normalização q_i(t), ponderações w_i, função Q(t)=Σw_iq_i(t) e formulação integral do índice R.
+• PDF pp. 3–6 | revista pp. 602–605: indicadores económicos, técnicos e humanos; limites de variação; esquema de monitorização e aglomeração; comparação de quatro opções considerando cinco indicadores — custo da eletricidade, custo de investimento, camada de gelo, consumo de potência e comportamento humano — e análise de quatro casos de ponderação que priorizam, respetivamente, custo da eletricidade, camada de gelo, consumo de potência ou comportamento humano.
+• PDF pp. 6–7 | revista pp. 605–606: resultados dos quatro casos e conclusões; a prioridade atribuída aos indicadores modifica a classificação das opções; seleção dos indicadores apresentada como requisito central para avaliar estabilidade e proximidade de eventos catastróficos.
+
+Termos De Pesquisa Em Inglês
+high voltage transmission system; resilience index; sudden indicator change; normalized sampled values; weighting factors; aggregate function; resilience monitoring scheme; sustainability indicators; electricity cost; ice layer; power consumption; human behavior.
+
+Equivalentes Em Português
+sistema de transmissão em alta tensão; índice de resiliência; alteração súbita do indicador; valores amostrados normalizados; fatores de ponderação; função agregada; esquema de monitorização da resiliência; indicadores de sustentabilidade; custo da eletricidade; camada de gelo; consumo de potência; comportamento humano.
+
+Possíveis Utilizações Na Tese
+Comparar formulações integrais de resiliência, apoiar a seleção e ponderação de indicadores e discutir como alterações técnicas, económicas e humanas modificam a avaliação da estabilidade do sistema de transmissão.
+

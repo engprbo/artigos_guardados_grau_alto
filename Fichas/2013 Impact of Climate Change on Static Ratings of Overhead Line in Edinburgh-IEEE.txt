@@ -1,0 +1,24 @@
+Código: ART-2013-HU-COTTON
+
+Ficheiro: 2013 Impact of Climate Change on Static Ratings of Overhead Line in Edinburgh-IEEE.pdf
+Referência: X. Hu e I. Cotton, “Impact of Climate Change on Static Ratings of Overhead Line in Edinburgh,” in 2013 48th International Universities’ Power Engineering Conference (UPEC), Dublin, Irlanda, 2–5 set. 2013, pp. 1–6, doi: 10.1109/UPEC.2013.6714985.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2013%20Impact%20of%20Climate%20Change%20on%20Static%20Ratings%20of%20Overhead%20Line%20in%20Edinburgh-IEEE.pdf
+
+Conteúdo Indexado
+Classificação estática de linhas aéreas; ampacidade do condutor; modelo térmico do condutor; equilíbrio térmico em regime permanente; temperatura ambiente; temperatura máxima do condutor; velocidade do vento; radiação solar; projeções climáticas UKCP09; cenários de emissões; classificações sazonais em Edimburgo; redução futura da capacidade de transporte.
+
+Localização Do Conteúdo
+• PDF pp. 1–2: enquadramento das classificações térmicas estáticas e influência das alterações climáticas; variáveis meteorológicas, limites de temperatura do condutor, pressupostos conservadores e formulação do balanço entre aquecimento Joule e solar e arrefecimento convectivo e radiativo.
+• PDF pp. 3–5: utilização das projeções UKCP09 para Edimburgo e de diferentes cenários de emissões e horizontes futuros até ao final do século; geração das condições climáticas, introdução no modelo térmico e comparação das ampacidades sazonais com a referência atual, incluindo a sensibilidade ao aumento da temperatura ambiente.
+• PDF p. 6: resultados finais e conclusões sobre redução das classificações estáticas em climas futuros, implicações para operação, reforços e planeamento e necessidade de considerar projeções locais e incerteza climática na capacidade segura das linhas aéreas.
+
+Termos De Pesquisa Em Inglês
+static line rating; overhead line ampacity; UKCP09 climate projections; steady-state heat balance; ambient temperature; conductor temperature; wind speed; solar radiation; seasonal rating; emission scenario; Edinburgh; line derating.
+
+Equivalentes Em Português
+classificação estática da linha; ampacidade de linha aérea; projeções climáticas UKCP09; equilíbrio térmico estacionário; temperatura ambiente; temperatura do condutor; velocidade do vento; radiação solar; classificação sazonal; cenário de emissões; Edimburgo; redução da capacidade da linha.
+
+Possíveis Utilizações Na Tese
+Apoiar a conversão de projeções climáticas locais em redução da capacidade térmica, justificar deratings dependentes da temperatura e incorporar incerteza meteorológica nos limites operativos das linhas de transmissão.

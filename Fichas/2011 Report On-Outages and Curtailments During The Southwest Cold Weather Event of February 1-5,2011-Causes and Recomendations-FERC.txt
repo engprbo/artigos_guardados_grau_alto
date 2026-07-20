@@ -1,0 +1,25 @@
+﻿Código: ART-2011-FERC-NERC
+
+Ficheiro: 2011 Report On-Outages and Curtailments During The Southwest Cold Weather Event of February 1-5,2011-Causes and Recomendations-FERC.pdf
+Referência: Federal Energy Regulatory Commission e North American Electric Reliability Corporation, Report on Outages and Curtailments During the Southwest Cold Weather Event of February 1–5, 2011: Causes and Recommendations. Washington, DC, EUA, ago. 2011.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2011%20Report%20On-Outages%20and%20Curtailments%20During%20The%20Southwest%20Cold%20Weather%20Event%20of%20February%201-5%2C2011-Causes%20and%20Recomendations-FERC.pdf
+
+Conteúdo Indexado
+Southwest Cold Weather Event de fevereiro de 2011; força-tarefa conjunta FERC/NERC; ERCOT, WECC e SPP; cortes rotativos de carga; 29 729 MW de perda acumulada de capacidade no ERCOT, em 1–2 de fevereiro; 4 000 MW de corte controlado de carga no ERCOT, em 2 de fevereiro; 67% das falhas de geração do Sudoeste, medidas em MWh, diretamente atribuídas a causas meteorológicas; freeze-offs na produção de gás; perda de 14,8 Bcf; interdependência eletricidade–gás natural; winterization de geradores; recomendações de planeamento, reservas e restauração.
+
+Localização Do Conteúdo
+• PDF pp. 8–18 | relatório pp. 1–11: caracterização do frio extremo, metodologia da investigação conjunta e resultados principais; 210 unidades sofreram outage, derate ou failure to start; 4,4 milhões de clientes elétricos foram afetados.
+• PDF pp. 80–201 | relatório pp. 73–194: sequência dos cortes e curtailments; causas técnicas das indisponibilidades; congelamento de linhas de instrumentação, válvulas, água e equipamentos; perdas na produção de gás e interdependências entre eletricidade e combustível.
+• PDF pp. 202–226 | relatório pp. 195–219: conclusões e recomendações; cenários de sensibilidade, reservas entregáveis, limites de temperatura, EOP-001, TOP-002-02, planos obrigatórios de winterization, heat tracing, isolamento, wind breaks, formação, comunicações e proteção de instalações de transmissão.
+
+Termos De Pesquisa Em Inglês
+Southwest cold weather event; rolling blackouts; generation loss; forced outages; load shedding; generator winterization; freeze protection; heat tracing; natural gas freeze-offs; electric-gas interdependency; reserve deliverability; extreme weather planning.
+
+Equivalentes Em Português
+evento de frio extremo no Sudoeste; apagões rotativos; perda de geração; indisponibilidades forçadas; corte de carga; preparação de geradores para o inverno; proteção contra congelamento; aquecimento de tubagens; congelamento na produção de gás; interdependência eletricidade-gás; disponibilidade das reservas; planeamento para tempo extremo.
+
+Possíveis Utilizações Na Tese
+Fundamentar cenários de indisponibilidade por frio extremo, relacionar falhas comuns, perda de geração e corte de carga, e apoiar fatores de preparação, manutenção, reservas operativas, interdependência energética e restauração.
+

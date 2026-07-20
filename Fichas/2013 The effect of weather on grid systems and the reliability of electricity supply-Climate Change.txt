@@ -1,0 +1,24 @@
+Código: ART-2013-WARD
+
+Ficheiro: 2013 The effect of weather on grid systems and the reliability of electricity supply-Climate Change.pdf
+Referência: D. M. Ward, “The Effect of Weather on Grid Systems and the Reliability of Electricity Supply,” Climatic Change, vol. 121, n.º 1, pp. 103–113, nov. 2013, doi: 10.1007/s10584-013-0916-z.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2013%20The%20effect%20of%20weather%20on%20grid%20systems%20and%20the%20reliability%20of%20electricity%20supply-Climate%20Change.pdf
+
+Conteúdo Indexado
+Falhas meteorológicas da rede elétrica; confiabilidade do fornecimento; transmissão em alta tensão; redes de distribuição; diferenças de exposição e consequências; ventos fortes como ameaça dominante; tempestades e furacões; raios; neve e gelo; inundações; contacto de árvores e vegetação; medidas preventivas e de recuperação.
+
+Localização Do Conteúdo
+• PDF pp. 1–3 | revista pp. 103–105: estrutura da rede e relação entre falhas de componentes e continuidade do fornecimento; exposição de linhas, torres, postes, cabos e subestações; distinção entre impactos meteorológicos nas redes de transmissão e distribuição e enquadramento das alterações climáticas.
+• PDF pp. 4–8 | revista pp. 106–110: experiência observada na Europa e América do Norte; mecanismos de dano, curto-circuito e perda de componentes associados a vento, tempestades, raios, gelo, neve, inundação e vegetação; identificação dos ventos fortes como evento extremo geralmente mais significativo.
+• PDF pp. 9–11 | revista pp. 111–113: medidas para reduzir vulnerabilidade, frequência e duração das interrupções; projeto e reforço, manutenção e gestão da vegetação, monitorização meteorológica, preparação operacional, redundância e restauração; conclusões sobre adaptação da rede a alterações na frequência e severidade dos eventos.
+
+Termos De Pesquisa Em Inglês
+weather-related grid faults; electricity supply reliability; high-voltage transmission; distribution networks; high winds; storm damage; lightning faults; ice loading; flooding; vegetation contact; climate change; mitigation measures.
+
+Equivalentes Em Português
+falhas da rede relacionadas com o tempo; confiabilidade do fornecimento elétrico; transmissão em alta tensão; redes de distribuição; ventos fortes; danos por tempestade; falhas por raios; carga de gelo; inundações; contacto de vegetação; alterações climáticas; medidas de mitigação.
+
+Possíveis Utilizações Na Tese
+Fundamentar a seleção de ameaças meteorológicas e mecanismos de falha, distinguir vulnerabilidades da transmissão e distribuição e justificar medidas de prevenção, reforço e recuperação na avaliação da resiliência.

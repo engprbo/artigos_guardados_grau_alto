@@ -1,0 +1,24 @@
+Código: ART-2013-ALIZADEH
+
+Ficheiro: 2013 Robust transmission system expansion considering planning uncertainties-IET.pdf
+Referência: B. Alizadeh, S. Dehghan, N. Amjady, S. Jadid e A. Kazemi, “Robust Transmission System Expansion Considering Planning Uncertainties,” IET Generation, Transmission & Distribution, vol. 7, n.º 11, pp. 1318–1331, nov. 2013, doi: 10.1049/iet-gtd.2012.0137.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2013%20Robust%20transmission%20system%20expansion%20considering%20planning%20uncertainties-IET.pdf
+
+Conteúdo Indexado
+Transmission Expansion Planning (TEP); Robust TEP (RTEP); Mixed-Integer Linear Programming (MILP); fluxo de potência DC; barras isoladas; incerteza dos custos de investimento; incerteza da previsão de procura; intervalos de incerteza sem distribuição; a priori chance constraints; nível de conservação Γm; linearização big-M; sistemas Garver, IEEE 30 e IEEE 118 barras.
+
+Localização Do Conteúdo
+• PDF pp. 1–6 | revista pp. 1318–1323: modelo TEP determinístico, função de custo, balanço nodal e fluxo DC; reformulação MILP para barras desconectadas; conjuntos de incerteza, contraparte robusta, restrições probabilísticas e controlo do conservadorismo.
+• PDF pp. 7–13 | revista pp. 1324–1330: aplicações aos sistemas Garver, IEEE 30 e IEEE 118 barras; comparação entre planos determinísticos e robustos, sensibilidades dos custos e da procura e efeito de Γm sobre investimento, capacidade adicionada e tempo computacional.
+• PDF p. 14 | revista p. 1331: conclusões; importância da precisão da previsão de carga, aplicabilidade a redes práticas e indicação da indisponibilidade futura de linhas como fonte adicional de incerteza.
+
+Termos De Pesquisa Em Inglês
+transmission expansion planning; robust optimization; mixed-integer linear programming; investment cost uncertainty; load forecast uncertainty; uncertainty set; conservation level; a priori chance constraint; DC power flow; big-M linearization; Garver 6-bus; IEEE 118-bus.
+
+Equivalentes Em Português
+planeamento da expansão da transmissão; otimização robusta; programação linear inteira mista; incerteza do custo de investimento; incerteza da previsão de carga; conjunto de incerteza; nível de conservação; restrição probabilística prévia; fluxo de potência DC; linearização big-M; sistema Garver de 6 barras; sistema IEEE de 118 barras.
+
+Possíveis Utilizações Na Tese
+Fundamentar planeamento robusto da expansão, representar incertezas de procura e investimento por intervalos controláveis e comparar custo, capacidade adicional e conservadorismo na preparação da transmissão para cenários adversos.

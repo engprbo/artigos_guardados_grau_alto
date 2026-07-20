@@ -1,0 +1,25 @@
+﻿Código: ART-2010-CIMELLARO
+
+Ficheiro: 2010 Framework for analytical quantification of disaster resilience-ELSEVIER.pdf
+Referência: G. P. Cimellaro, A. M. Reinhorn e M. Bruneau, “Framework for analytical quantification of disaster resilience,” Engineering Structures, vol. 32, n.º 11, pp. 3639–3649, nov. 2010, doi: 10.1016/j.engstruct.2010.08.008.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2010%20Framework%20for%20analytical%20quantification%20of%20disaster%20resilience-ELSEVIER.pdf
+
+Conteúdo Indexado
+Função analítica de resiliência R; funcionalidade adimensional Q(t); tempo de controlo TLC; tempo de recuperação TRE; função de perdas L(I,TRE); funções de recuperação linear, exponencial e trigonométrica; dimensões robustez, rapidez, redundância e capacidade de mobilização; perdas diretas e indiretas; curvas de fragilidade; multidimensional performance limit state; hospital da Califórnia; rede hospitalar de Memphis.
+
+Localização Do Conteúdo
+• PDF pp. 2–7 | revista pp. 3640–3645: definições e formulação; resiliência como área normalizada sob Q(t), Equações (1)–(2); rapidez e robustez; decomposição das perdas económicas e humanas; modelos simplificados de recuperação; fragilidade e função multidimensional de estados-limite.
+• PDF pp. 7–10 | revista pp. 3645–3648: aplicações a um hospital do San Fernando Valley e a uma rede de seis hospitais em Memphis; análise dinâmica não linear, HAZUS e estratégias de reabilitação; a opção de reconstrução alcança 98,7% de resiliência, contra 65,0% sem intervenção.
+• PDF pp. 10–11 | revista pp. 3648–3649: conclusões; integração de engenharia sísmica, economia, ciências sociais e organização numa função comum; utilidade do indicador para comparar alternativas, investimentos, preparação, resposta, recuperação e restabelecimento da funcionalidade.
+
+Termos De Pesquisa Em Inglês
+analytical resilience function; system functionality; control time; recovery time; loss function; recovery function; four dimensions of resilience; direct and indirect losses; fragility curves; multidimensional limit state; hospital resilience; rehabilitation strategies.
+
+Equivalentes Em Português
+função analítica de resiliência; funcionalidade do sistema; tempo de controlo; tempo de recuperação; função de perdas; função de recuperação; quatro dimensões da resiliência; perdas diretas e indiretas; curvas de fragilidade; estado-limite multidimensional; resiliência hospitalar; estratégias de reabilitação.
+
+Possíveis Utilizações Na Tese
+Fundamentar a métrica baseada na área sob a curva de funcionalidade, relacionar impacto e recuperação e comparar o índice proposto com uma formulação clássica que integra perdas, fragilidade, robustez e rapidez.
+

@@ -1,0 +1,24 @@
+﻿Código: ART-2013-CEA-DOE
+
+Ficheiro: 2013 Economic Benefits of Increasing Electric Grid Resilience to Weather Outages-U.S. Department of Energy.pdf
+Referência: Executive Office of the President, President’s Council of Economic Advisers e U.S. Department of Energy, Economic Benefits of Increasing Electric Grid Resilience to Weather Outages. Washington, DC, EUA, ago. 2013.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2013%20Economic%20Benefits%20of%20Increasing%20Electric%20Grid%20Resilience%20to%20Weather%20Outages-U.S.%20Department%20of%20Energy.pdf
+
+Conteúdo Indexado
+Eventos meteorológicos severos de 2003–2012; 679 interrupções generalizadas; formulário DOE OE-417; Value of Service (VOS); willingness to pay residencial; custos diretos comerciais e industriais; prejuízo anual de 18–33 mil milhões de dólares; furacões Ike e Sandy; grid hardening; Advanced Metering Infrastructure (AMI); Phasor Measurement Units (PMUs); automação, microrredes e armazenamento.
+
+Localização Do Conteúdo
+• PDF pp. 3–10: resultados executivos, tendências das interrupções meteorológicas e custos nacionais; 58% das interrupções desde 2002 e 87% das que afetaram pelo menos 50 000 clientes foram associadas ao tempo; investimento de 4,5 mil milhões de dólares do Recovery Act na modernização da rede.
+• PDF pp. 12–17: seis prioridades de resiliência — gestão do risco, reforço custo-eficaz, flexibilidade e robustez, visualização e consciência situacional, controlo avançado e disponibilidade de componentes e software críticos — e aplicações de contadores inteligentes, comutação automática, sincrofasores, microrredes e armazenamento.
+• PDF pp. 19–24: metodologia económica; associação dos registos OE-417 a valores de serviço por classe de consumidor; dois esquemas de ponderação, incertezas, estimativas anuais, parcela de produção perdida e conclusão sobre benefícios económicos potenciais dos investimentos em resiliência e modernização.
+
+Termos De Pesquisa Em Inglês
+weather-related outages; electric grid resilience; value of service; willingness to pay; direct cost estimation; DOE OE-417; annual outage cost; grid hardening; smart meters; automated feeder switching; synchrophasors; microgrids.
+
+Equivalentes Em Português
+interrupções relacionadas com o tempo; resiliência da rede elétrica; valor do serviço; disposição a pagar; estimação de custos diretos; formulário DOE OE-417; custo anual das interrupções; reforço da rede; contadores inteligentes; comutação automática de alimentadores; sincrofasores; microrredes.
+
+Possíveis Utilizações Na Tese
+Fundamentar custos económicos das interrupções meteorológicas, relacionar duração e clientes afetados com impactos e justificar investimentos em reforço, monitorização, automação, flexibilidade, microrredes e restauração da rede.

@@ -1,0 +1,25 @@
+﻿Código: ART-2015-PANTELI-REVIEW
+
+Ficheiro: 2015 Influence of extreme weather and climate change on the resilience of power systems Impacts and possible mitigation strategies-ELSEVIER.pdf
+Referência: M. Panteli e P. Mancarella, “Influence of extreme weather and climate change on the resilience of power systems: Impacts and possible mitigation strategies,” Electric Power Systems Research, vol. 127, pp. 259–270, out. 2015, doi: 10.1016/j.epsr.2015.06.012.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2015%20Influence%20of%20extreme%20weather%20and%20climate%20change%20on%20the%20resilience%20of%20power%20systems%20Impacts%20and%20possible%20mitigation%20strategies-ELSEVIER.pdf
+
+Conteúdo Indexado
+Eventos High-Impact Low-Probability (HILP); alterações climáticas; falhas meteorológicas em geração, transmissão e distribuição; vento, gelo, neve, raios, inundações e calor; taxas de falha dependentes do tempo; modelos analíticos de Markov; Sequential Monte Carlo Simulation; regiões meteorológicas; falhas de causa comum; recuperação e resposta humana; medidas de hardening e smart grid; estrutura integrada de modelação da resiliência.
+
+Localização Do Conteúdo
+• PDF pp. 1–4 | revista pp. 259–262: influência do tempo e do clima nos componentes, operação e apagões; tendências de eventos extremos, mecanismos de falha e distinção entre confiabilidade tradicional e resiliência perante eventos HILP.
+• PDF pp. 4–8 | revista pp. 262–266: revisão das metodologias probabilísticas e temporais; modelos Markov, simulação Monte Carlo sequencial, representação espacial das frentes meteorológicas, dependência das taxas de falha e reparação, causas comuns e intervenção dos operadores.
+• PDF pp. 8–12 | revista pp. 266–270: estratégias preventivas, corretivas e adaptativas; reforço físico, redundância, monitorização, previsão, recursos distribuídos, microrredes e restauração; estrutura de investigação que integra perigo, vulnerabilidade, impacto sistémico, recuperação e aprendizagem.
+
+Termos De Pesquisa Em Inglês
+power system resilience; extreme weather events; climate change impacts; high-impact low-probability; weather-dependent failure rate; Markov model; sequential Monte Carlo simulation; weather regions; common-cause failures; human response; mitigation strategies; resilience modelling framework.
+
+Equivalentes Em Português
+resiliência do sistema elétrico; eventos meteorológicos extremos; impactos das alterações climáticas; alto impacto e baixa probabilidade; taxa de falha meteorológica; modelo de Markov; simulação Monte Carlo sequencial; regiões meteorológicas; falhas de causa comum; resposta humana; estratégias de mitigação; estrutura de modelação da resiliência.
+
+Possíveis Utilizações Na Tese
+Fundamentar cenários climáticos e taxas de falha, selecionar métodos probabilísticos e temporais e organizar medidas de prevenção, resposta, restauração e adaptação numa estrutura integrada de avaliação da resiliência.
+

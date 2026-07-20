@@ -1,0 +1,25 @@
+﻿Código: ART-2016-FERC-NERC
+
+Ficheiro: 2016 Report on the FERC-NERC-Regional Entity Joint Review of Restaration and Recovery Plans-NERC.pdf
+Referência: Federal Energy Regulatory Commission, North American Electric Reliability Corporation e Regional Entities, Report on the FERC-NERC-Regional Entity Joint Review of Restoration and Recovery Plans. Washington, DC, EUA, jan. 2016.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2014%20Report%20on%20the%20FERC-NERC-Regional%20Entity%20Joint%20Review%20of%20Restaration%20and%20Recovery%20Plans-NERC.pdf
+
+Conteúdo Indexado
+Revisão conjunta iniciada em setembro de 2014; nove entidades registadas; oito Regional Entities; EOP-005-2; CIP-008-3; CIP-009-3; recursos blackstart e cranking paths; formação e exercícios de restauração; perda de SCADA, ICCP e EMS; resposta a incidentes cibernéticos; recuperação de ativos cibernéticos críticos; melhoria contínua dos planos.
+
+Localização Do Conteúdo
+• PDF pp. 4–15: objetivo, amostra e processo colaborativo FERC–NERC–Regional Entities; avaliação não sancionatória; planos analisados, simulações e exercícios; constatação de documentação detalhada; normas EOP-005-2, CIP-008-3 e CIP-009-3 e síntese das 15 recomendações.
+• PDF pp. 16–74 | relatório pp. 5–63: estratégias e prioridades de restauração; coordenação, consciência situacional, blackstart, caminhos de arranque, formação de ilhas, sincronização, testes, atualização, exercícios e lições de apagões; a verificação normativa ocorria em ciclos de cinco anos, embora alterações significativas fossem testadas voluntariamente; estudos recomendados para perda de SCADA/EMS e alterações de recursos.
+• PDF pp. 75–113 | relatório pp. 64–102: recursos e ferramentas cibernéticas, deteção e gatilhos, resposta inicial, recuperação, inventários, revisão independente e exercícios operacionais; transferência real para centro alternativo; feedback de testes e eventos; recomendações para planos mais robustos.
+
+Termos De Pesquisa Em Inglês
+system restoration plan; recovery plan; blackstart resources; cranking path; island synchronization; EOP-005-2; CIP-008-3; CIP-009-3; SCADA loss; cyber incident response; critical cyber asset recovery; alternate control center.
+
+Equivalentes Em Português
+plano de restauração do sistema; plano de recuperação; recursos de arranque autónomo; caminho de arranque; sincronização de ilhas; norma EOP-005-2; norma CIP-008-3; norma CIP-009-3; perda do SCADA; resposta a incidente cibernético; recuperação de ativo cibernético crítico; centro de controlo alternativo.
+
+Possíveis Utilizações Na Tese
+Fundamentar fatores operacionais de restauração, testar dependências de SCADA e telecomunicações, estruturar cenários blackstart e incorporar treino, atualização, coordenação e aprendizagem nos tempos de recomposição.
+

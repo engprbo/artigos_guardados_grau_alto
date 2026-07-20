@@ -1,0 +1,24 @@
+Código: ART-2012-LIU
+
+Ficheiro: 2012 Towards understanding the robustness of energy distribution networks based on macroscopic and microscopic evaluations-ELSEVIER.pdf
+Referência: J. Liu e B. Shi, “Towards understanding the robustness of energy distribution networks based on macroscopic and microscopic evaluations,” Energy Policy, vol. 49, pp. 318–327, out. 2012, doi: 10.1016/j.enpol.2012.06.037.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2012%20Towards%20understanding%20the%20robustness%20of%20energy%20distribution%20networks%20based%20on%20macroscopic%20and%20microscopic%20evaluations-ELSEVIER.pdf
+
+Conteúdo Indexado
+Robustez da rede de distribuição; equilíbrio oferta–procura nos nós; entropia da rede; fluxos energéticos como passeios aleatórios; teoria de Ruelle–Bowens; otimização da entropia sob restrições; fluxos robustos; gargalos de transmissão; modelo de propagação de falhas; classificação da importância e vulnerabilidade dos nós; rede interestadual de gasodutos dos EUA; planeamento de armazenamento de gás natural.
+
+Localização Do Conteúdo
+• PDF pp. 1–4 | revista pp. 318–321: definição funcional da robustez; formulação macroscópica da entropia da rede com fluxos representados por passeios aleatórios de Ruelle–Bowens; problema de otimização condicionado pelas capacidades e pelo equilíbrio oferta–procura.
+• PDF pp. 5–9 | revista pp. 322–326: aplicação à rede de gás natural dos Estados Unidos; comparação entre fluxos observados e robustos; identificação de gargalos dos gasodutos, classificação dos estados segundo importância e vulnerabilidade e seleção de localizações vantajosas para armazenamento.
+• PDF p. 10 | revista p. 327: conclusões; complementaridade entre avaliação macroscópica e modelo microscópico de propagação de falhas; implicações para gestão dos fluxos, proteção de nós críticos, capacidade de transmissão, armazenamento e planeamento de emergência.
+
+Termos De Pesquisa Em Inglês
+distribution robustness; network entropy; supply-demand balance; energy flow dynamics; Ruelle-Bowens random walk; entropy optimization; failure spreading model; theoretically robust flow; transmission bottleneck; node importance ranking; node vulnerability; natural gas storage location.
+
+Equivalentes Em Português
+robustez da distribuição; entropia da rede; equilíbrio oferta–procura; dinâmica dos fluxos energéticos; passeio aleatório de Ruelle–Bowens; otimização da entropia; modelo de propagação de falhas; fluxo teoricamente robusto; gargalo de transmissão; classificação da importância dos nós; vulnerabilidade dos nós; localização de armazenamento de gás natural.
+
+Possíveis Utilizações Na Tese
+Apoiar métricas de robustez baseadas em fluxos, identificar gargalos e nós críticos, representar propagação de indisponibilidades e comparar avaliações globais e locais da rede perante perturbações na oferta.

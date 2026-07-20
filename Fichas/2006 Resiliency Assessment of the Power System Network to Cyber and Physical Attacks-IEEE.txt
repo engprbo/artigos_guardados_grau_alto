@@ -1,0 +1,25 @@
+﻿Código: ART-2006-AL-AMMAR
+
+Ficheiro: 2006 Resiliency Assessment of the Power System Network to Cyber and Physical Attacks-IEEE.pdf
+Referência: E. A. Al-Ammar e J. Fisher, “Resiliency Assessment of the Power System Network to Cyber and Physical Attacks,” in 2006 IEEE Power Engineering Society General Meeting, Montreal, QC, Canadá, 18–22 junho 2006, pp. 1–7, doi: 10.1109/PES.2006.1709089.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2006%20Resiliency%20Assessment%20of%20the%20Power%20System%20Network%20to%20Cyber%20and%20Physical%20Attacks-IEEE.pdf
+
+Conteúdo Indexado
+Conectividade clássica de grafos; tolerância a falhas de redes; grau de vulnerabilidade topológica; resiliência a ataques cibernéticos; resiliência a ataques físicos; representação por nós e ligações; elementos de processamento; meios de comunicação; interligações regionais NERC; áreas de controlo; perda de conectividade por remoção de componentes; identificação de nós e ligações críticos.
+
+Localização Do Conteúdo
+• PDF p. 1: resumo e introdução; enquadramento da tolerância a falhas mediante conectividade de grafos; relação entre vulnerabilidade da topologia e resiliência das redes de informação, comunicação e potência perante ataques físicos ou cibernéticos.
+• PDF pp. 2–6: formulação da rede por nós, elementos de processamento e ligações de comunicação; interpretação do grau de vulnerabilidade; aplicação à estrutura interligada do sistema elétrico norte-americano, às regiões e áreas de controlo da NERC; análise da perda de conectividade provocada pela indisponibilidade ou remoção intencional de componentes.
+• PDF p. 7: conclusões e referências; utilização da vulnerabilidade topológica para reconhecer elementos críticos, comparar a capacidade de conservação da conectividade e orientar medidas de redundância, proteção e reforço da rede contra ataques coordenados.
+
+Termos De Pesquisa Em Inglês
+classical graph connectivity; network fault tolerance; topological vulnerability; power system resiliency; cyber attacks; physical attacks; North American power grid; NERC interconnections; control areas; network nodes; communication links; critical nodes.
+
+Equivalentes Em Português
+conectividade clássica de grafos; tolerância a falhas de redes; vulnerabilidade topológica; resiliência do sistema elétrico; ataques cibernéticos; ataques físicos; rede elétrica norte-americana; interligações NERC; áreas de controlo; nós de rede; ligações de comunicação; nós críticos.
+
+Possíveis Utilizações Na Tese
+Referenciar uma abordagem inicial de avaliação topológica da resiliência, apoiar indicadores de conectividade e vulnerabilidade e justificar a identificação de nós e interligações críticas sujeitos a ataques físicos ou cibernéticos.
+

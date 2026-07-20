@@ -1,0 +1,25 @@
+﻿Código: ART-2011-MCCONNACH
+
+Ficheiro: 2011 Impacts of Climate Change on the Power Industry and How It is Adapting-Intech.pdf
+Referência: J. S. McConnach, A. F. Zobaa e D. Lapp, “Impacts of Climate Change on the Power Industry and How It is Adapting,” in Climate Change - Research and Technology for Adaptation and Mitigation, J. A. Blanco e H. Kheradmand, Eds. Rijeka, Croácia: InTech, 2011, pp. 345–356, doi: 10.5772/24738.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2011%20Impacts%20of%20Climate%20Change%20on%20the%20Power%20Industry%20and%20How%20It%20is%20Adapting-Intech.pdf
+
+Conteúdo Indexado
+PIEVC Engineering Protocol; National Engineering Vulnerability Assessment Project (NEVAP); risco R = P × S; probabilidade e severidade; vulnerabilidade de engenharia; capacidade adaptativa; processo PIEVC em cinco etapas; interação entre parâmetros climáticos e elementos de infraestrutura; redução da ampacidade por temperatura; hardening da rede elétrica; Smart Grid e telecomunicações de reserva; resposta de emergência e restauração.
+
+Localização Do Conteúdo
+• PDF pp. 1–4 | livro pp. 345–348: definição de adaptação proativa e reativa; evidências climáticas canadianas; impactos sobre procura, capacidade nominal, fiabilidade, produção hidroelétrica, linhas e torres; conceitos de vulnerabilidade e capacidade adaptativa.
+• PDF pp. 5–8 | livro pp. 349–352: NEVAP e PIEVC; princípios de avaliação; margem entre capacidade e solicitação climática; risco R = P × S; protocolo de cinco etapas; seleção das interações clima-infraestrutura e utilização de equipas multidisciplinares.
+• PDF pp. 9–12 | livro pp. 353–356: medidas de adaptação, incluindo reforço da rede, revisão de códigos, enterramento de circuitos, monitorização climática e planos de restauração; conclusões, lacunas de dados, manutenção, interdependências e recomendações.
+
+Termos De Pesquisa Em Inglês
+PIEVC Engineering Protocol; engineering vulnerability; adaptive capacity; climate risk assessment; risk level; probability and severity; five-step process; infrastructure resilience; ampacity derating; grid hardening; emergency restoration; climate-infrastructure interaction.
+
+Equivalentes Em Português
+Protocolo de Engenharia PIEVC; vulnerabilidade de engenharia; capacidade adaptativa; avaliação do risco climático; nível de risco; probabilidade e severidade; processo em cinco etapas; resiliência da infraestrutura; redução da ampacidade; reforço da rede; restauração de emergência; interação clima-infraestrutura.
+
+Possíveis Utilizações Na Tese
+Fundamentar a avaliação de vulnerabilidade climática, relacionar probabilidade e severidade, justificar redução de capacidade por temperatura e apoiar medidas de reforço, monitorização, manutenção e restauração da rede.
+

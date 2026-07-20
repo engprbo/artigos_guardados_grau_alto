@@ -1,0 +1,27 @@
+CÓDIGO: ART-2004-HEVNER
+
+FICHEIRO: 2004 Design Science in Information Systems Research-MIS Quarterly.pdf
+
+REFERÊNCIA: A. R. Hevner, S. T. March, J. Park e S. Ram, “Design Science in Information Systems Research,” MIS Quarterly, vol. 28, n.º 1, pp. 75–105, 2004. DOI: 10.2307/25148625.
+
+REPOSITÓRIO: engprbo/artigos_guardados_grau_alto
+
+LINK COMPLETO DO PDF:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2004%20Design%20Science%20in%20Information%20Systems%20Research-MIS%20Quarterly.pdf
+
+CONTEÚDO INDEXADO:
+Design science research; paradigma behavioral science; artefactos de sistemas de informação; constructs, models, methods e instantiations; ciclo build-and-evaluate; framework Environment–IS Research–Knowledge Base; relevância e rigor científico; sete guidelines de Hevner; métodos de avaliação de artefactos; design como processo de procura; wicked problems; exemplares GDSS, XRL e TOP Modeler.
+
+LOCALIZAÇÃO DO CONTEÚDO:
+• PDF pp. 4–16 | Revista pp. 78–90: framework de investigação em sistemas de informação; articulação entre ambiente, necessidades organizacionais, base de conhecimento, relevância e rigor; ciclos build/evaluate e justify/evaluate; definição dos quatro tipos de artefacto; apresentação das sete guidelines para criação, avaliação e comunicação da design science.
+• PDF pp. 16–24 | Revista pp. 90–98: aplicação das guidelines a três exemplares — anonimato em Group Decision Support Systems, eXchangeable Routing Language para comércio eletrónico e TOP Modeler para emergent knowledge processes; identificação das contribuições, processos de construção e formas de avaliação.
+• PDF pp. 24–26 | Revista pp. 98–100: discussão e conclusões; complementaridade entre design science e behavioral science; equilíbrio entre utilidade, qualidade, eficácia, rigor e relevância; defesa da colaboração entre investigadores, profissionais e organizações, e enquadramento explícito das contribuições científicas e profissionais.
+
+TERMOS DE PESQUISA EM INGLÊS:
+design science research; behavioral science; information systems research; IT artifact; build-and-evaluate loop; IS research framework; design-science guidelines; artifact evaluation; problem relevance; research rigor; design as a search process; wicked problems.
+
+EQUIVALENTES EM PORTUGUÊS:
+investigação em ciência do design; ciência comportamental; investigação em sistemas de informação; artefacto de TI; ciclo construir-avaliar; framework de investigação em SI; diretrizes da ciência do design; avaliação de artefactos; relevância do problema; rigor científico; design como processo de procura; problemas complexos.
+
+POSSÍVEIS UTILIZAÇÕES NA TESE:
+Fundamentar metodologicamente a criação e avaliação do índice proposto como artefacto científico, demonstrando relevância, rigor, utilidade, processo de procura, avaliação verificável, contribuição para o conhecimento e comunicação adequada dos resultados.

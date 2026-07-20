@@ -1,0 +1,24 @@
+﻿Código: ART-1999-MODARRES
+Ficheiro: 1999 Reliability Engineering and Risk Analysis-A Practical Guide-Marcel Dekker.pdf
+Referência: M. Modarres, M. Kaminskiy e V. Krivtsov, Reliability Engineering and Risk Analysis: A Practical Guide. New York, NY, USA: Marcel Dekker, 1999. ISBN: 0-8247-2000-8.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link completo do PDF:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/1999%20Reliability%20Engineering%20and%20Risk%20Analysis-A%20Practical%20Guide-Marcel%20Dekker.pdf
+
+Conteúdo indexado
+Função de confiabilidade e taxa de falha; distribuições exponencial e Weibull; estimação Bayesiana e dados censurados; diagramas de blocos de confiabilidade; árvores de falhas e de eventos; FMEA e FMECA; sistemas reparáveis e disponibilidade; processos HPP e NHPP; métodos de Markov; falhas dependentes e de causa comum; propagação de incerteza; avaliação probabilística de risco.
+
+Localização do conteúdo
+• PDF pp. 21–196: fundamentos de probabilidade e estatística, teorema de Bayes, distribuições, função de confiabilidade, taxa de falha, modelos exponencial e Weibull, dados completos ou censurados e estimação paramétrica, não paramétrica e Bayesiana.
+• PDF pp. 197–388: confiabilidade de sistemas, diagramas de blocos, árvores de falhas e eventos, conjuntos mínimos de corte, FMEA/FMECA, sistemas reparáveis, disponibilidade, processos homogéneos e não homogéneos de Poisson, métodos de Markov e medidas de importância para identificar componentes críticos.
+• PDF pp. 389–504: falhas dependentes e de causa comum, incertezas de parâmetros e modelos, propagação de incerteza, julgamento de especialistas, análise de causa raiz, eventos iniciadores, sequências de acidentes e avaliação probabilística de risco.
+
+Termos de pesquisa em inglês
+reliability function; failure rate; Weibull distribution; Bayesian estimation; censored data; reliability block diagram; fault tree analysis; event tree analysis; repairable system; nonhomogeneous Poisson process; common cause failure; probabilistic risk assessment.
+
+Equivalentes em português
+função de confiabilidade; taxa de falha; distribuição Weibull; estimação Bayesiana; dados censurados; diagrama de blocos; árvore de falhas; árvore de eventos; sistema reparável; processo de Poisson não homogéneo; falha de causa comum; avaliação probabilística de risco.
+
+Possíveis utilizações na tese
+Fundamentar probabilidades e taxas de falha; modelar falhas dependentes e causas comuns; representar reparação, disponibilidade e incertezas; apoiar prioridades de manutenção; distinguir confiabilidade, risco e resiliência na avaliação do sistema de transmissão.
+

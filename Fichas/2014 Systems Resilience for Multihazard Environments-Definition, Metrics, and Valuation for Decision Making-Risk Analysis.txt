@@ -1,0 +1,25 @@
+﻿Código: ART-2014-AYYUB
+
+Ficheiro: 2014 Systems Resilience for Multihazard Environments-Definition, Metrics, and Valuation for Decision Making-Risk Analysis.pdf
+Referência: B. M. Ayyub, “Systems Resilience for Multihazard Environments: Definition, Metrics, and Valuation for Decision Making,” Risk Analysis, vol. 34, n.º 2, pp. 340–355, fev. 2014, doi: 10.1111/risa.12093.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2014%20Systems%20Resilience%20for%20Multihazard%20Environments-Definition%2C%20Metrics%2C%20and%20Valuation%20for%20Decision%20Making-Risk%20Analysis.pdf
+
+Conteúdo Indexado
+Definição operacional de resiliência e dez requisitos; desempenho, incerteza e persistência; relação com risco e confiabilidade; teoria das medidas monotónicas; álgebra e σ-álgebra; triângulo de resiliência; robustez e perfil de recuperação; tempos de falha e recuperação; agregação da resiliência de componentes; unidades de desempenho; valorização económica; índice benefício–custo βB/C.
+
+Localização Do Conteúdo
+• PDF pp. 1–5 | revista pp. 340–344: revisão das definições existentes, requisitos da definição proposta e formulação baseada na persistência do desempenho sob incerteza; relação com a definição de risco ISO e fundamentos de teoria da medida.
+• PDF pp. 6–12 | revista pp. 345–351: propriedades e triângulo de resiliência; métricas de robustez, degradação, recuperação e duração; índice integral da qualidade Q(t), incluindo o instante da perturbação e o retorno ao desempenho-alvo; unidades de desempenho e agregação da resiliência de componentes para sistemas.
+• PDF pp. 12–16 | revista pp. 351–355: valorização social, perdas diretas e indiretas, custos de recuperação e análise de alternativas; índice probabilístico benefício–custo βB/C e probabilidade de o custo exceder o benefício, P(C>B), baseado nas distribuições de benefícios e custos, e probabilidade de os benefícios excederem os custos e conclusões sobre decisões em ambientes multirriscos.
+
+Termos De Pesquisa Em Inglês
+systems resilience; multihazard environment; performance persistence; monotone measure; sigma algebra; resilience triangle; robustness; recovery profile; time to recovery; system aggregation; economic valuation; benefit-cost index.
+
+Equivalentes Em Português
+resiliência de sistemas; ambiente multirriscos; persistência do desempenho; medida monotónica; sigma-álgebra; triângulo de resiliência; robustez; perfil de recuperação; tempo de recuperação; agregação do sistema; valorização económica; índice benefício–custo.
+
+Possíveis Utilizações Na Tese
+Fundamentar a definição e quantificação do índice de resiliência, relacionar desempenho, impacto, robustez e recuperação, agregar trechos ou componentes e apoiar a comparação económica de alternativas de reforço perante eventos extremos múltiplos.
+

@@ -1,0 +1,24 @@
+﻿Código: ART-2004-BRUNEAU
+Ficheiro: 2004 A Framework to Quantitatively Assess and Enhance the Seismic Resilience of Communities-WCEE.pdf
+Referência: M. Bruneau et al., “A Framework to Quantitatively Assess and Enhance the Seismic Resilience of Communities,” 13th World Conference on Earthquake Engineering, Vancouver, Canada, Paper No. 2575, 2004.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link completo do PDF:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2004%20A%20Framework%20to%20Quantitatively%20Assess%20and%20Enhance%20the%20Seismic%20Resilience%20of%20Communities-WCEE.pdf
+
+Conteúdo indexado
+Resiliência sísmica comunitária; função de desempenho Q(t); perda de resiliência como área de degradação; robustez; redundância; mobilização de recursos; rapidez; quatro Rs; dimensões TOSE; infraestruturas críticas interdependentes; cenários sísmicos; critérios de desempenho; metas de resiliência; monitorização e deteção; modelos de fragilidade; apoio à decisão; controlo pré-evento e pós-evento; análise custo-benefício.
+
+Localização do conteúdo
+• PDF pp. 1–4: definição da resiliência sísmica, objetivos do enquadramento, curva de desempenho Q(t) e formulação da perda de resiliência pela área entre o desempenho de referência e o desempenho degradado até à recuperação.
+• PDF pp. 5–7: apresentação das dimensões técnica, organizacional, social e económica — TOSE — e das quatro propriedades da resiliência: robustez, redundância, mobilização de recursos e rapidez.
+• PDF pp. 8–12: estrutura de avaliação e melhoria da resiliência, incluindo cenários sísmicos, modelação de componentes e sistemas, monitorização, critérios, metas, apoio à decisão, controlo antes e depois do evento e análise custo-benefício.
+
+Termos de pesquisa em inglês
+seismic resilience; community resilience; performance function Q(t); loss of resilience; resilience triangle; robustness; redundancy; resourcefulness; rapidity; four Rs; TOSE dimensions; critical infrastructure; infrastructure interdependency; resilience criteria; resilience target; fragility model; decision support system; pre-event control.
+
+Equivalentes em português
+resiliência sísmica; resiliência comunitária; função de desempenho Q(t); perda de resiliência; triângulo da resiliência; robustez; redundância; mobilização de recursos; rapidez; quatro Rs; dimensões TOSE; infraestrutura crítica; interdependência de infraestruturas; critérios de resiliência; meta de resiliência; modelo de fragilidade; sistema de apoio à decisão; controlo pré-evento.
+
+Possíveis utilizações na tese
+Fundamentar a representação temporal da resiliência; justificar o cálculo do impacto como área entre carga prevista e atendida; relacionar robustez, redundância, resposta operacional e rapidez de recomposição; apoiar a definição de critérios, metas e cenários de recuperação.
+

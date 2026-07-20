@@ -1,0 +1,27 @@
+Código: ART-2004-SHINOZUKA
+
+Ficheiro: 2004 Resilience of Integrated Power and Water Systems.pdf
+
+Referência: M. Shinozuka et al., “Resilience of Integrated Power and Water Systems,” in Research Progress and Accomplishments 2003-2004, MCEER-04-SP01, Multidisciplinary Center for Earthquake Engineering Research, Buffalo, NY, pp. 65-86, 2004.
+
+Repositório: engprbo/artigos_guardados_grau_alto
+
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2004%20Resilience%20of%20Integrated%20Power%20and%20Water%20Systems.pdf
+
+Conteúdo Indexado
+Sistemas integrados de energia elétrica e abastecimento de água; resiliência sísmica de infraestruturas interdependentes; Los Angeles Department of Water and Power (LADWP); sismo de Northridge de 1994; procedimento de análise e base de dados; curvas temporais de restauração; índices de robustez e rapidez; Electric Power Engineering Data Base (EPEDAT); programa de fluxo de potência IPFLOW; simulação de danos e recomposição; Geographic Information System (GIS); estações de bombeamento e poços subterrâneos.
+
+Localização Do Conteúdo
+• PDF pp. 1-6 | Relatório pp. 65-70: objetivos e definição da resiliência pelo desempenho do sistema;  distinção entre robustez, associada ao nível residual de serviço, e rapidez, relacionada com a taxa de recuperação; utilização dos sistemas LADWP como aplicação.
+• PDF pp. 7-17 | Relatório pp. 71-81: representação da rede elétrica, dados EPEDAT, análise IPFLOW, cenários de danos e sequência de restauração; aplicação ao sismo de Northridge; comparação entre estados simulados e registados seis horas após o evento.
+• PDF pp. 17-22 | Relatório pp. 81-86: integração em GIS dos tempos de recomposição elétrica com estações de bombeamento e poços; dependência da capacidade normal de bombeamento em relação ao restabelecimento da energia; implicações para avaliação conjunta, planeamento integrado e resiliência comunitária.
+
+Termos De Pesquisa Em Inglês
+integrated power and water systems; seismic resilience; infrastructure interdependency; LADWP; Northridge earthquake; restoration curves; robustness index; rapidity index; EPEDAT; IPFLOW; power supply restoration; GIS integration.
+
+Equivalentes Em Português
+sistemas integrados de energia e água; resiliência sísmica; interdependência de infraestruturas; LADWP; sismo de Northridge; curvas de restauração; índice de robustez; índice de rapidez; base EPEDAT; programa IPFLOW; recomposição do fornecimento elétrico; integração em GIS.
+
+Possíveis Utilizações Na Tese
+Fundamentar robustez e rapidez; apoiar a representação temporal da recomposição; justificar interdependências; relacionar restauração elétrica, continuidade de serviços críticos e resiliência comunitária pelo caso LADWP.

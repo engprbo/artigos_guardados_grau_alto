@@ -1,0 +1,25 @@
+﻿Código: ART-2014-AIEN
+
+Ficheiro: 2014 On possibilistic and probabilistic uncertainty assessment of power flow problem-A review and a new approach-ELSEVIER.pdf
+Referência: M. Aien, M. Rashidinejad e M. Fotuhi-Firuzabad, “On possibilistic and probabilistic uncertainty assessment of power flow problem: A review and a new approach,” Renewable and Sustainable Energy Reviews, vol. 37, pp. 883–895, set. 2014, doi: 10.1016/j.rser.2014.05.063.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2014%20On%20possibilistic%20and%20probabilistic%20uncertainty%20assessment%20of%20power%20flow%20problem-A%20review%20and%20a%20new%20approach-ELSEVIER.pdf
+
+Conteúdo Indexado
+Uncertain Power Flow (UPF); incerteza probabilística; incerteza possibilística; distribuições de probabilidade; funções de pertença; Unscented Transformation (UT); teoria da evidência de Dempster–Shafer; propagação conjunta de incertezas; Monte Carlo Simulation (MCS); cargas, geração eólica e solar; geração distribuída a turbina a gás e veículos elétricos; sistemas IEEE 9 barras e distribuição de 574 nós.
+
+Localização Do Conteúdo
+• PDF pp. 1–5 | revista pp. 883–887: formulação do fluxo de potência incerto; revisão de técnicas probabilísticas e possibilísticas; condições para usar densidades de probabilidade ou funções de pertença; princípios e pontos sigma da Unscented Transformation.
+• PDF pp. 6–9 | revista pp. 888–891: classificação das entradas incertas; modelação probabilística de carga e renováveis e possibilística de variáveis com dados insuficientes; teoria Dempster–Shafer e algoritmo para propagação conjunta no UPF.
+• PDF pp. 10–13 | revista pp. 892–895: aplicações aos sistemas IEEE 9 barras e de 574 nós; implementação em MATPOWER; comparação com o método baseado em MCS; redução do esforço computacional mantendo precisão; conclusões sobre utilização híbrida de informação aleatória e imprecisa.
+
+Termos De Pesquisa Em Inglês
+uncertain power flow; probabilistic uncertainty; possibilistic uncertainty; probability density function; membership function; Unscented Transformation; Dempster-Shafer evidence theory; joint uncertainty propagation; Monte Carlo Simulation; distributed energy resources; IEEE 9-bus; 574-node distribution system.
+
+Equivalentes Em Português
+fluxo de potência incerto; incerteza probabilística; incerteza possibilística; função densidade de probabilidade; função de pertença; transformação unscented; teoria da evidência de Dempster–Shafer; propagação conjunta de incertezas; simulação de Monte Carlo; recursos energéticos distribuídos; sistema IEEE de 9 barras; sistema de distribuição de 574 nós.
+
+Possíveis Utilizações Na Tese
+Apoiar a representação conjunta de incertezas probabilísticas e possibilísticas, reduzir o custo computacional dos cenários e tratar variáveis climáticas, operativas ou de falha quando os dados forem insuficientes.
+
