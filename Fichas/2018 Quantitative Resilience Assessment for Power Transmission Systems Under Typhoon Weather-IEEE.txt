@@ -1,0 +1,24 @@
+Código: ART-2018-YANG-TYPHOON
+
+Ficheiro: 2018 Quantitative Resilience Assessment for Power Transmission Systems Under Typhoon Weather-IEEE.pdf
+Referência: Y. Yang, W. Tang, Y. Liu, Y. Xin e Q. Wu, “Quantitative Resilience Assessment for Power Transmission Systems Under Typhoon Weather,” IEEE Access, vol. 6, pp. 40747–40756, 2018, doi: 10.1109/ACCESS.2018.2858860.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2018%20Quantitative%20Resilience%20Assessment%20for%20Power%20Transmission%20Systems%20Under%20Typhoon%20Weather-IEEE.pdf
+
+Conteúdo Indexado
+Estrutura quantitativa de resiliência a tufões; modelo de campo de vento Yang Meng; efeitos espaciais e temporais; modelação por elementos finitos; probabilidade de falha dos componentes; índice Resilience considering Impact Characteristic and Duration (RICD); modelo de restauração; recursos e deslocação das equipas; Optimal Power Flow; tufão Vicente de 2012; sistema IEEE RBTS de seis barras; comparação com índices Rt e Rr.
+
+Localização Do Conteúdo
+• PDF pp. 1–5: modelo do campo de vento, solução numérica, tensão estrutural e resistência; cálculo das probabilidades de falha; trapézio de resiliência, índice RICD e modelos de duração da reparação e deslocação.
+• PDF pp. 6–9: procedimento de simulação temporal e aplicação ao IEEE RBTS de seis barras sob o tufão Vicente; velocidades por barra, taxas de falha das nove linhas, trajetórias da carga e quatro configurações de recursos e resposta.
+• PDF pp. 9–10: comparação de RICD com Rt e Rr; Rr produz ordenação incoerente no caso com recursos insuficientes, enquanto RICD considera intensidade e duração; conclusões sobre reforço, eficiência de reparação e planeamento emergencial.
+
+Termos De Pesquisa Em Inglês
+typhoon resilience assessment; Yang Meng wind field; spatial-temporal impact; finite element model; component failure probability; RICD; restoration resource; repair crew travel; optimal power flow; Typhoon Vicente; IEEE six-bus RBTS; resilience index comparison.
+
+Equivalentes Em Português
+avaliação da resiliência a tufões; campo de vento Yang Meng; impacto espaço-temporal; modelo de elementos finitos; probabilidade de falha; índice RICD; recursos de restauração; deslocação das equipas; fluxo de potência ótimo; tufão Vicente; RBTS IEEE de seis barras; comparação de índices.
+
+Possíveis Utilizações Na Tese
+Apoiar cenários de vento móvel, converter intensidade em probabilidades de falha, representar recursos e deslocação na recomposição e comparar o índice proposto com RICD, Rt e Rr.

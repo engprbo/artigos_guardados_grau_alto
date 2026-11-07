@@ -1,0 +1,24 @@
+Código: ART-2017-LIU-RESILIENCE
+
+Ficheiro: 2017 A Quantified Resilience Assessment Approach for Electrical Power Systems Considering Multiple Transmission Line Outages-IEEE.pdf
+Referência: X. Liu, K. Hou, H. Jia, Y. Mu, X. Yu, Y. Wang e J. Dong, “A Quantified Resilience Assessment Approach for Electrical Power Systems Considering Multiple Transmission Line Outages,” in 2017 IEEE Electrical Power and Energy Conference (EPEC), Saskatoon, Canadá, 2017, pp. 1–5, doi: 10.1109/EPEC.2017.8286183.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2017%20A%20Quantified%20Resilience%20Assessment%20Approach%20for%20Electrical%20Power%20Systems%20Considering%20Multiple%20Transmission%20Line%20Outages-IEEE.pdf
+
+Conteúdo Indexado
+Indisponibilidades múltiplas de linhas de transmissão; eventos disruptivos; resiliência do sistema elétrico; índices quantitativos de resiliência; índices ao nível do sistema; índices ao nível dos componentes; desempenho global da rede; cenários de falha; impacto das indisponibilidades; identificação de pontos fracos; contribuição individual das linhas; abordagem de avaliação sistémica e por componente.
+
+Localização Do Conteúdo
+• PDF pp. 1–2: enquadramento de desastres naturais, ataques e operações impróprias capazes de provocar indisponibilidades simultâneas; definição do problema e desenvolvimento da família de índices quantitativos nos níveis sistémico e de componente.
+• PDF pp. 3–4: procedimento de avaliação dos cenários com múltiplas linhas fora de serviço; utilização dos índices sistémicos para estimar a resiliência global e dos índices por componente para localizar as linhas que mais condicionam o desempenho da rede.
+• PDF p. 5: aplicação e conclusões; síntese da capacidade do método para comparar impactos, reconhecer pontos fracos e apoiar decisões de reforço ou recuperação perante contingências múltiplas.
+
+Termos De Pesquisa Em Inglês
+quantified resilience assessment; multiple transmission line outages; disruptive events; system-level resilience index; component-level resilience index; power system performance; outage scenarios; system impact; weak-point identification; transmission components; overall resilience; resilience assessment approach.
+
+Equivalentes Em Português
+avaliação quantitativa da resiliência; indisponibilidades múltiplas de linhas; eventos disruptivos; índice sistémico de resiliência; índice de resiliência por componente; desempenho do sistema elétrico; cenários de indisponibilidade; impacto sistémico; identificação de pontos fracos; componentes da transmissão; resiliência global; abordagem de avaliação da resiliência.
+
+Possíveis Utilizações Na Tese
+Apoiar índices sistémicos e por linha, localizar trechos críticos e definir prioridades de reforço ou recuperação após indisponibilidades múltiplas, complementando métricas agregadas de impacto e recomposição.

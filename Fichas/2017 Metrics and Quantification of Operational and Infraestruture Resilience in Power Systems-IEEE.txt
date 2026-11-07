@@ -1,0 +1,24 @@
+Código: ART-2017-PANTELI-FLEP
+
+Ficheiro: 2017 Metrics and Quantification of Operational and Infraestruture Resilience in Power Systems-IEEE.pdf
+Referência: M. Panteli, P. Mancarella, D. N. Trakas, E. Kyriakides e N. D. Hatziargyriou, “Metrics and Quantification of Operational and Infrastructure Resilience in Power Systems,” IEEE Transactions on Power Systems, vol. 32, n.º 6, pp. 4732–4742, nov. 2017, doi: 10.1109/TPWRS.2017.2664141.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2017%20Metrics%20and%20Quantification%20of%20Operational%20and%20Infraestruture%20Resilience%20in%20Power%20Systems-IEEE.pdf
+
+Conteúdo Indexado
+Resilience trapezoid; fases de degradação, estado degradado e recuperação; métricas ΦΛEΠ; Φ rate of degradation; Λ degradation level; E degraded-state duration; Π recovery rate; área de perda de desempenho; resiliência operacional; resiliência da infraestrutura; rede britânica de 29 barras; tempestades de vento únicas e múltiplas.
+
+Localização Do Conteúdo
+• PDF pp. 1–4 | revista pp. 4732–4735: evolução do triângulo para o resilience trapezoid; fases temporais do evento; definição matemática das métricas Φ, Λ, E e Π e da área acumulada de perda de desempenho.
+• PDF pp. 4–7 | revista pp. 4735–4738: distinção entre resiliência operacional e da infraestrutura; indicadores de corte de carga e componentes indisponíveis; modelação dos perfis meteorológicos, fragilidade das linhas e processo de restauração.
+• PDF pp. 7–11 | revista pp. 4738–4742: aplicações à rede de transmissão britânica de 29 barras sob tempestades únicas e sucessivas; comparação das métricas, estratégias estruturais e operacionais e conclusão sobre a necessidade de quantificação multidimensional para distinguir intensidade, duração e rapidez da recuperação.
+
+Termos De Pesquisa Em Inglês
+resilience trapezoid; ΦΛEΠ metrics; rate of degradation; degradation level; degraded-state duration; recovery rate; performance loss area; operational resilience; infrastructure resilience; multiple windstorms; GB 29-bus network; resilience quantification.
+
+Equivalentes Em Português
+trapézio de resiliência; métricas ΦΛEΠ; taxa de degradação; nível de degradação; duração do estado degradado; taxa de recuperação; área de perda de desempenho; resiliência operacional; resiliência da infraestrutura; tempestades múltiplas; rede britânica de 29 barras; quantificação da resiliência.
+
+Possíveis Utilizações Na Tese
+Apoiar métricas separadas de degradação, impacto, duração e recuperação, comparar resiliência operacional e estrutural e relacionar a área de perda de desempenho com a energia não fornecida.

@@ -1,0 +1,24 @@
+Código: ART-2018-KHALIL-RESTORE
+
+Ficheiro: 2018 Transmission Lines Restoration Using Resilience Analysis-IEEE.pdf
+Referência: Y. Khalil, R. El-Azab, M. A. Abu Adma e S. Elmasry, “Transmission Lines Restoration Using Resilience Analysis,” in 2018 Twentieth International Middle East Power Systems Conference (MEPCON), Cairo, Egito, 2018, pp. 249–253, doi: 10.1109/MEPCON.2018.8635103.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2018%20Transmission%20Lines%20Restoration%20Using%20Resilience%20Analysis-IEEE.pdf
+
+Conteúdo Indexado
+Restauração após black-out total; seleção do caminho de energização; análise de resiliência; capacitância das linhas de transmissão; efeito de carga capacitiva; sobretensão durante a energização; fonte black-start; sequência de manobras; limites de tensão dos barramentos; tempo de restauração; caminho de transmissão ótimo; dois sistemas de teste IEEE.
+
+Localização Do Conteúdo
+• PDF pp. 1–2 | conferência pp. 249–250: problema da restauração após black-out, fatores de resiliência e utilização da capacitância da linha como indicador para comparar caminhos de energização a partir da fonte black-start.
+• PDF pp. 2–4 | conferência pp. 250–252: algoritmo de seleção do caminho, sequência de ligação das linhas, efeito da corrente capacitiva e restrições de tensão; aplicações a dois sistemas de teste IEEE e comparação das alternativas de restauração.
+• PDF pp. 4–5 | conferência pp. 252–253: identificação do caminho mais resiliente, capaz de manter tensões aceitáveis com menor tempo de reposição; conclusões sobre utilização conjunta da capacitância, dos limites operativos e da duração das manobras, com redução do risco de sobretensão e da complexidade das operações de recomposição.
+
+Termos De Pesquisa Em Inglês
+transmission line restoration; total blackout; energization path; resilience analysis; line capacitance; charging current; switching overvoltage; black-start source; restoration sequence; bus voltage limits; restoration time; optimal transmission path.
+
+Equivalentes Em Português
+restauração de linhas de transmissão; apagão total; caminho de energização; análise de resiliência; capacitância da linha; corrente de carga; sobretensão de manobra; fonte de arranque autónomo; sequência de restauração; limites de tensão; tempo de restauração; caminho ótimo de transmissão.
+
+Possíveis Utilizações Na Tese
+Apoiar a modelação da recomposição por sequências, incorporar limites de tensão e tempo de manobra e comparar caminhos de energização segundo rapidez, segurança operativa e resiliência.

@@ -1,0 +1,24 @@
+Código: ART-2016-BOLLINGER-NL
+
+Ficheiro: 2016 Evaluating infrastructure resilience to extreme weather–the case of the Dutch electricity transmission network-EJTIR.pdf
+Referência: L. A. Bollinger e G. P. J. Dijkema, “Evaluating Infrastructure Resilience to Extreme Weather—The Case of the Dutch Electricity Transmission Network,” European Journal of Transport and Infrastructure Research, vol. 16, n.º 1, pp. 214–239, jan. 2016, doi: 10.18757/ejtir.2016.16.1.3122.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2016%20Evaluating%20infrastructure%20resilience%20to%20extreme%20weather%E2%80%93the%20case%20of%20the%20Dutch%20electricity%20transmission%20network-EJTIR.pdf
+
+Conteúdo Indexado
+Rede de transmissão neerlandesa; modelo de resiliência; cheias e ondas de calor; fração da procura servida; fluxo de potência e falhas em cascata; 1000 simulações por magnitude; vulnerabilidade e criticidade das subestações; proteção contra cheias; demand-side management; validação com o plano TenneT 2010–2016; métrica de resiliência.
+
+Localização Do Conteúdo
+• PDF pp. 4–12 | revista pp. 217–225: dois modelos para cheias e ondas de calor; instanciação da rede, cálculo do fluxo e cascatas, fração da procura servida em 1000 cenários; medidas de adaptação e priorização por vulnerabilidade ou criticidade.
+• PDF pp. 13–18 | revista pp. 226–231: validação com utilizações de linhas da TenneT e resultados; resiliência de base às cheias próxima de 0,88; proteção de subestações críticas produz aumento médio de 7,8% com 20% protegidas; comparação com proteção apenas pela vulnerabilidade.
+• PDF pp. 18–20 | revista pp. 231–233: benefício reduzido da gestão da procura em ondas de calor — 0,08% para redução de 5% e 0,10% para 15%; limitações e conclusões; maior vulnerabilidade a cheias e eficácia da proteção das subestações.
+
+Termos De Pesquisa Em Inglês
+Dutch transmission network; infrastructure resilience; flood resilience; heat wave resilience; fraction of demand served; cascading failure analysis; power flow model; substation vulnerability; substation criticality; flood protection; demand-side management; adaptation assessment.
+
+Equivalentes Em Português
+rede de transmissão neerlandesa; resiliência da infraestrutura; resiliência a cheias; resiliência a ondas de calor; fração da procura servida; análise de falhas em cascata; modelo de fluxo de potência; vulnerabilidade da subestação; criticidade da subestação; proteção contra cheias; gestão da procura; avaliação da adaptação.
+
+Possíveis Utilizações Na Tese
+Comparar métricas de procura servida, modelar cascatas sob cheias e calor e priorizar reforços pela criticidade, relacionando custos de adaptação, vulnerabilidade dos componentes e melhoria da resiliência.

@@ -1,0 +1,24 @@
+Código: ART-2016-BIALEK-CASCADE
+
+Ficheiro: 2016 Benchmarking and Validation of Cascading Failure Analysis Tools-IEEE.pdf
+Referência: J. Bialek et al., “Benchmarking and Validation of Cascading Failure Analysis Tools,” IEEE Transactions on Power Systems, vol. 31, n.º 6, pp. 4887–4900, nov. 2016, doi: 10.1109/TPWRS.2016.2518660.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2016%20Benchmarking%20and%20Validation%20of%20Cascading%20Failure%20Analysis%20Tools-IEEE.pdf
+
+Conteúdo Indexado
+IEEE PES Working Group on Cascading Failure; definição NERC de cascading blackout; benchmarking versus validation; face validation; validation by event reconstruction; parameter sensitivity; probabilistic cascading analysis; OPA simulation; WECC, NERC e BPA TADS data; IEEE RTS 1979/1996; IEEE 118/300 e MATPOWER Polish cases; requisitos para novos test cases.
+
+Localização Do Conteúdo
+• PDF pp. 1–5 | revista pp. 4887–4891: conceitos e requisitos de benchmarking e validação; cascatas iniciadas por múltiplas contingências; comparação com dados reais ou modelos de referência; análise de sensibilidade, transparência, reprodutibilidade e documentação dos pressupostos.
+• PDF pp. 5–12 | revista pp. 4891–4898: recomendações para estudos de alta qualidade; exemplos de validação, incluindo OPA num modelo WECC de 1553 barras; fontes de dados históricos; catálogo de casos públicos, industriais e restritos, com IEEE RTS, IEEE 14–300, NETS-NYPS, Polish e outros.
+• PDF pp. 12–14 | revista pp. 4898–4900: lacunas e conclusões; nenhum caso reúne todos os dados necessários; necessidade de limites, proteções, probabilidades de falha, topologia node-breaker, carregamento, perigos, meteorologia e dados de sequência de eventos.
+
+Termos De Pesquisa Em Inglês
+cascading failure validation; benchmarking analysis; event reconstruction; parameter sensitivity; probabilistic cascade; OPA simulation; WECC historical data; TADS outage data; public test cases; MATPOWER Polish cases; node-breaker topology; cascading benchmark dataset.
+
+Equivalentes Em Português
+validação de falhas em cascata; análise de benchmarking; reconstrução de eventos; sensibilidade de parâmetros; cascata probabilística; simulação OPA; dados históricos WECC; dados de indisponibilidade TADS; casos de teste públicos; casos polacos MATPOWER; topologia nó-disjuntor; base de benchmarking de cascatas.
+
+Possíveis Utilizações Na Tese
+Definir critérios de validação do modelo, selecionar redes e dados de indisponibilidade, testar sensibilidade dos parâmetros e demonstrar reprodutibilidade na simulação de cascatas, impacto e restauração, apoiando decisões técnicas de investimento consistentes.

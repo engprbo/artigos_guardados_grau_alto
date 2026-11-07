@@ -1,0 +1,24 @@
+Código: ART-2017-MALLA-EPDS
+
+Ficheiro: 2018 Resilience of Electrical Power Delivery System in Response to Natural Disasters-IEEE.pdf
+Referência: N. Malla, S. Poudel, N. R. Karki e N. Gyawali, “Resilience of Electrical Power Delivery System in Response to Natural Disasters,” in 2017 7th International Conference on Power Systems (ICPS), Pune, Índia, 2017, pp. 806–811, doi: 10.1109/ICPES.2017.8387400.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2018%20Resilience%20of%20Electrical%20Power%20Delivery%20System%20in%20Response%20to%20Natural%20Disasters-IEEE.pdf
+
+Conteúdo Indexado
+Resiliência do sistema de entrega elétrica; análise de falhas em cascata; tolerância sistémica α; capacidade nodal C(v)=αL(v); Percentage of Failure (PoF); Risk Quantification Criterion (RCR); classificação de linhas críticas; deteção de ilhamento; residual vector method; sistema IEEE de 14 barras; contingências de linhas; operação em ilhas.
+
+Localização Do Conteúdo
+• PDF pp. 1–3 | conferência pp. 806–808: estrutura de avaliação, sistema IEEE de 14 barras, modelo de sobrecarga em cascata, parâmetro α, capacidade dos nós, PoF, cálculo do risco e método vetorial residual para identificar separação da rede.
+• PDF pp. 3–5 | conferência pp. 808–810: simulações de contingências, propagação das falhas e ranking RCR; a linha 1–2 apresenta o maior valor, 0,178, e valores de α superiores a 1,45 evitam a cascata considerada.
+• PDF pp. 5–6 | conferência pp. 810–811: deteção de ilhamento após indisponibilidades das linhas 5–6, 4–9 e 7–9; interpretação dos vetores residuais e conclusões sobre tolerância, criticidade e operação separada.
+
+Termos De Pesquisa Em Inglês
+power delivery resilience; cascading failure analysis; system tolerance; nodal capacity; percentage of failure; risk quantification criterion; critical line ranking; islanding detection; residual vector method; IEEE 14-bus system; line contingency; islanded operation.
+
+Equivalentes Em Português
+resiliência da entrega elétrica; análise de falhas em cascata; tolerância do sistema; capacidade nodal; percentagem de falha; critério de quantificação do risco; classificação de linhas críticas; deteção de ilhamento; método do vetor residual; sistema IEEE de 14 barras; contingência de linha; operação em ilha.
+
+Possíveis Utilizações Na Tese
+Apoiar a identificação de trechos críticos, relacionar tolerância e sobrecarga com cascatas e integrar risco, ilhamento e continuidade do fornecimento na comparação de cenários de indisponibilidade múltipla.

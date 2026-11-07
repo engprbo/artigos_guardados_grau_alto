@@ -1,0 +1,24 @@
+Código: ART-2017-BIE-EXTREME
+
+Ficheiro: 2017 Battling the Extreme-A Study on the Power System Resilience-IEEE.pdf
+Referência: Z. Bie, Y. Lin, G. Li e F. Li, “Battling the Extreme: A Study on the Power System Resilience,” Proceedings of the IEEE, vol. 105, n.º 7, pp. 1253–1266, jul. 2017, doi: 10.1109/JPROC.2017.2679040.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2017%20Battling%20the%20Extreme-A%20Study%20on%20the%20Power%20System%20Resilience-IEEE.pdf
+
+Conteúdo Indexado
+Base mundial de 140 apagões de 1965–2012; etapas antecipar–resistir–absorver–responder–adaptar–recuperar; quadro quantitativo de resiliência; métricas qualitativas e quantitativas; hardening do sistema; smart grid e automação da distribuição; reconfiguração topológica; geração distribuída e microrredes; algoritmo de restauração de carga; Mixed-Integer Second-Order Cone Program (MISOCP); sistema IEEE de 33 barras; sistema urbano chinês de 409 barras.
+
+Localização Do Conteúdo
+• PDF pp. 1–6: definição, distinção relativamente à confiabilidade e análise das causas dos 140 apagões mundiais entre 1965 e 2012; processo temporal, métricas, quadro de avaliação e estratégias governamentais e empresariais de resiliência.
+• PDF pp. 7–11: reforço físico e tecnologias inteligentes; formulação MISOCP para maximizar carga ponderada por reconfiguração e ilhamento de geração distribuída; casos IEEE de 33 barras e sistema urbano chinês de 409 barras no GUROBI. Com cinco falhas, a estratégia ótima forma três áreas e restaura 95,40%.
+• PDF pp. 12–14: desafios de modelação dos extremos, barreiras práticas, falhas em cascata e simultâneas, interdependências com telecomunicações, transportes, água e gás, Integrated Energy Systems, segurança cibernética, aprendizagem e conclusões.
+
+Termos De Pesquisa Em Inglês
+power system resilience; worldwide outage database; resilience evaluation framework; system hardening; smart distribution; topology reconfiguration; distributed generation; microgrid islanding; load restoration; MISOCP; IEEE 33-bus system; critical infrastructure interdependency.
+
+Equivalentes Em Português
+resiliência do sistema elétrico; base mundial de apagões; quadro de avaliação da resiliência; reforço do sistema; distribuição inteligente; reconfiguração topológica; geração distribuída; ilhamento de microrredes; restauração de carga; MISOCP; sistema IEEE de 33 barras; interdependência de infraestruturas críticas.
+
+Possíveis Utilizações Na Tese
+Fundamentar etapas e métricas de resiliência, comparar reforço e ações operacionais, adaptar o quadro de restauração por reconfiguração, geração distribuída e microrredes e considerar interdependências entre infraestruturas críticas.

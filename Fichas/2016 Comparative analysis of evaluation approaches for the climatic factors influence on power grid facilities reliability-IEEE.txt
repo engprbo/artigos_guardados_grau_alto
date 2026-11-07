@@ -1,0 +1,24 @@
+Código: ART-2023-LOKTIONOV-CLIMATE
+
+Ficheiro: 2016 Comparative analysis of evaluation approaches for the climatic factors influence on power grid facilities reliability-IEEE.pdf
+Referência: O. A. Loktionov, M. A. Zabelin e E. A. Belova, “Comparative Analysis of Evaluation Approaches for the Climatic Factors Influence on Power Grid Facilities Reliability,” in 2023 5th International Youth Conference on Radio Electronics, Electrical and Power Engineering (REEPE), Moscovo, Rússia, 2023, pp. 1–6, doi: 10.1109/REEPE57272.2023.10086808.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2016%20Comparative%20analysis%20of%20evaluation%20approaches%20for%20the%20climatic%20factors%20influence%20on%20power%20grid%20facilities%20reliability-IEEE.pdf
+
+Conteúdo Indexado
+Confiabilidade de instalações de rede; linhas aéreas de transmissão; causas climáticas de acidentes; cargas de vento; condições meteorológicas extremas; integridade estrutural; resistência mecânica; indicadores simples e complexos de confiabilidade; número de interrupções; taxa de falha por quilómetro; duração das interrupções; comparação de requisitos russos e estrangeiros.
+
+Localização Do Conteúdo
+• PDF pp. 1–2: revisão de acidentes em redes de vários países; identificação dos fatores climáticos como causa relevante; relação entre dados iniciais, indicadores simples e indicadores complexos de confiabilidade; limitações de avaliações baseadas apenas em estatísticas agregadas.
+• PDF pp. 2–5: comparação de requisitos de climatologia da construção e integridade estrutural; abordagens russas e internacionais para vento e outros carregamentos; análise dos dados necessários para avaliar linhas aéreas, incluindo características do elemento, exposição climática, falhas, interrupções e tempos de indisponibilidade.
+• PDF pp. 5–6: conclusões; necessidade de atualizar requisitos de resistência das instalações segundo cargas climáticas atuais e projetadas e elaborar normas para cálculo harmonizado de indicadores de confiabilidade e priorização da modernização.
+
+Termos De Pesquisa Em Inglês
+power grid facilities; overhead transmission lines; climatic factor influence; equipment reliability; wind loads; extreme weather conditions; structural integrity; mechanical strength; reliability indicators; failure rate per kilometre; outage duration; construction climatology.
+
+Equivalentes Em Português
+instalações da rede elétrica; linhas aéreas de transmissão; influência dos fatores climáticos; confiabilidade do equipamento; cargas de vento; condições meteorológicas extremas; integridade estrutural; resistência mecânica; indicadores de confiabilidade; taxa de falha por quilómetro; duração das interrupções; climatologia da construção.
+
+Possíveis Utilizações Na Tese
+Apoiar a seleção de variáveis climáticas e indicadores de falha, comparar métodos normativos e estatísticos e justificar a atualização dos parâmetros estruturais usados nos cenários de indisponibilidade das linhas.

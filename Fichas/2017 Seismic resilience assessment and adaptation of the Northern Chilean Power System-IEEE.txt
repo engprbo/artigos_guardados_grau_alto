@@ -1,0 +1,24 @@
+Código: ART-2017-ESPINOZA-SEISMIC
+
+Ficheiro: 2017 Seismic resilience assessment and adaptation of the Northern Chilean Power System-IEEE.pdf
+Referência: S. Espinoza et al., “Seismic Resilience Assessment and Adaptation of the Northern Chilean Power System,” in 2017 IEEE Power & Energy Society General Meeting, Chicago, IL, EUA, 2017, pp. 1–5, doi: 10.1109/PESGM.2017.8274288.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2017%20Seismic%20resilience%20assessment%20and%20adaptation%20of%20the%20Northern%20Chilean%20Power%20System-IEEE.pdf
+
+Conteúdo Indexado
+Avaliação sísmica multifásica; geração Monte Carlo de sismos; curvas de fragilidade de subestações; estados None–Minor–Moderate–Major–Collapse; sistema SING de 220 kV; simplificação Unit Commitment e DC Optimal Power Flow; Energy Not Supplied (ENS); Energy Index of Unreliability (EIU); primeira semana de recuperação; curvas de excedência; períodos de retorno; estratégias robusta, redundante e responsiva.
+
+Localização Do Conteúdo
+• PDF pp. 1–3: classificação das avaliações sísmicas e estrutura em perigo, vulnerabilidade, operação, restauração e adaptação; estados de dano das subestações e efeitos sobre geradores e linhas adjacentes.
+• PDF pp. 3–4: aplicação ao Northern Chilean Power System, aproximadamente 32 000 cenários sísmicos, unit commitment simplificado, DC-OPF, corte de carga e cálculo temporal de ENS e EIU durante a primeira semana após o sismo.
+• PDF pp. 4–5: curvas de excedência, períodos de retorno e comparação das adaptações; no sistema-base, um evento superior a 33,4 GWh de ENS ocorre, em média, uma vez por século; conclusões sobre robustez, redundância e rapidez da recuperação.
+
+Termos De Pesquisa Em Inglês
+seismic resilience assessment; Northern Chilean power system; earthquake scenarios; substation fragility curves; damage states; Monte Carlo simulation; DC optimal power flow; energy not supplied; energy index of unreliability; exceedance curve; return period; adaptation strategies.
+
+Equivalentes Em Português
+avaliação da resiliência sísmica; sistema elétrico do norte do Chile; cenários de sismos; curvas de fragilidade de subestações; estados de dano; simulação Monte Carlo; fluxo ótimo DC; energia não fornecida; índice energético de indisponibilidade; curva de excedência; período de retorno; estratégias de adaptação.
+
+Possíveis Utilizações Na Tese
+Estruturar cenários sísmicos, fragilidade, operação e recuperação, comparar ENS e EIU por período de retorno e avaliar como robustez, redundância e rapidez alteram a resiliência da transmissão.

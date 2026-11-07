@@ -1,0 +1,24 @@
+Código: ART-2018-LU-ICE-RICD
+
+Ficheiro: 2018 Resilience Assessment and Its Enhancement in Tackling Adverse Impact of Ice Disasters for Power Transmission Systems-MDPI.pdf
+Referência: J. Lu, J. Guo, Z. Jian, Y. Yang e W. Tang, “Resilience Assessment and Its Enhancement in Tackling Adverse Impact of Ice Disasters for Power Transmission Systems,” Energies, vol. 11, n.º 9, art. 2272, 2018, doi: 10.3390/en11092272.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2018%20Resilience%20Assessment%20and%20Its%20Enhancement%20in%20Tackling%20Adverse%20Impact%20of%20Ice%20Disasters%20for%20Power%20Transmission%20Systems-MDPI.pdf
+
+Conteúdo Indexado
+Trapézio conceptual de resiliência; índice RICD modificado; modelo simplificado de gelo por chuva gelada; curvas genéricas de fragilidade; método de partição celular; Sequential Monte Carlo Simulation; conjunto de contingências probabilístico; modelo de restauração TTR; localização e número de equipas; resposta com separação do sistema; IEEE RTS-79; medidas de reforço estrutural e operacional.
+
+Localização Do Conteúdo
+• PDF pp. 1–7: ciclo pré-desastre–perturbação–degradação–restauração–pós-desastre; formulação do RICD; modelo de gelo, fragilidade, partição celular, reparação dependente do tempo, distância, equipas e estratégia, e resposta do sistema.
+• PDF pp. 8–13: aplicação ao RTS-79 com 24 barras, 38 linhas, 32 unidades e pico de 2850 MW; tempestade móvel geograficamente, 20 equipas limitadas e Monte Carlo; caso-base com RRICD=0,1635.
+• PDF pp. 11–15: comparação das medidas; projeto para gelo igual ou superior a 28 mm evita falhas, melhoria da eficiência eleva exponencialmente RRICD e mais de 100 equipas conduz à saturação próxima de 0,38; conclusões.
+
+Termos De Pesquisa Em Inglês
+ice disaster resilience; resilience trapezoid; modified RICD; freezing rain ice model; generic fragility curve; cell partition method; sequential Monte Carlo; probabilistic contingency set; time to repair; repair crew allocation; system splitting; IEEE RTS-79.
+
+Equivalentes Em Português
+resiliência a desastres de gelo; trapézio de resiliência; RICD modificado; modelo de gelo por chuva gelada; curva genérica de fragilidade; método de partição celular; Monte Carlo sequencial; conjunto probabilístico de contingências; tempo de reparação; alocação de equipas; separação do sistema; IEEE RTS-79.
+
+Possíveis Utilizações Na Tese
+Modelar gelo móvel e contingências probabilísticas, incorporar distância, equipas e intensidade no tempo de reparação e comparar medidas estruturais e operacionais pelo RICD e pela curva de carga.

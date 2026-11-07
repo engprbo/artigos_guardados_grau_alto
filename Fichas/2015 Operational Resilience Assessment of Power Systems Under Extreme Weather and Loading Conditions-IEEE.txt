@@ -1,0 +1,24 @@
+Código: ART-2015-PANTELI-OPRES
+
+Ficheiro: 2015 Operational Resilience Assessment of Power Systems Under Extreme Weather and Loading Conditions-IEEE.pdf
+Referência: M. Panteli e P. Mancarella, “Operational Resilience Assessment of Power Systems Under Extreme Weather and Loading Conditions,” in 2015 IEEE Power & Energy Society General Meeting, Denver, CO, EUA, 26–30 jul. 2015, pp. 1–5, doi: 10.1109/PESGM.2015.7286087.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2015%20Operational%20Resilience%20Assessment%20of%20Power%20Systems%20Under%20Extreme%20Weather%20and%20Loading%20Conditions-IEEE.pdf
+
+Conteúdo Indexado
+Resiliência operacional; condições operativas em tempo real; curvas de fragilidade; probabilidade de falha dependente do vento; probabilidade de falha dependente do carregamento; confiabilidade de linhas de transmissão; interação tempo–carga; sistema simplificado de 29 barras da Grã-Bretanha; cenários de vento extremo; níveis de carregamento das linhas; estados operativos da rede; degradação do desempenho sistémico.
+
+Localização Do Conteúdo
+• PDF pp. 1–2: limitações da avaliação tradicional de confiabilidade; definição da resiliência operacional; influência das condições meteorológicas e do carregamento; formulação das curvas de fragilidade que relacionam a probabilidade de falha das linhas com velocidade do vento e carga.
+• PDF pp. 3–4: aplicação ao sistema simplificado de 29 barras da rede de transmissão da Grã-Bretanha; construção dos cenários combinados de vento e carregamento; cálculo das probabilidades de falha e comparação do comportamento operativo da rede.
+• PDF p. 5: resultados e conclusões; as condições extremas simultâneas aumentam a vulnerabilidade das linhas e reduzem a resiliência, demonstrando a necessidade de incorporar o estado operativo real na avaliação.
+
+Termos De Pesquisa Em Inglês
+operational resilience; real-time operating conditions; fragility curves; wind-dependent failure probability; loading-dependent failure probability; transmission line reliability; extreme wind; line loading; 29-bus Great Britain network; component vulnerability; system performance; resilience assessment.
+
+Equivalentes Em Português
+resiliência operacional; condições operativas em tempo real; curvas de fragilidade; probabilidade de falha dependente do vento; probabilidade de falha dependente do carregamento; confiabilidade de linhas; vento extremo; carregamento da linha; rede britânica de 29 barras; vulnerabilidade do componente; desempenho do sistema; avaliação da resiliência.
+
+Possíveis Utilizações Na Tese
+Apoiar probabilidades de falha dependentes do evento e do carregamento, relacionar limites operativos com vulnerabilidade e justificar avaliações de resiliência que utilizem condições reais da rede durante eventos extremos.

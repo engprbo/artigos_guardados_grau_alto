@@ -1,0 +1,24 @@
+Código: ART-2018-FALABRETTI-VIZZE
+
+Ficheiro: 2018 Power Systems' Resilience Against Ice Sleeves-an Assessment Methodology Tested in the Smart City Vizze Project-IEEE.pdf
+Referência: D. Falabretti, M. Delfanti e M. Merlo, “Power Systems’ Resilience Against Ice Sleeves: An Assessment Methodology Tested in the Smart City Vizze Project,” in 2018 IEEE International Conference on Environment and Electrical Engineering and IEEE Industrial and Commercial Power Systems Europe (EEEIC/I&CPS Europe), Palermo, Itália, 2018, pp. 1354–1359.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2018%20Power%20Systems%27%20Resilience%20Against%20Ice%20Sleeves-an%20Assessment%20Methodology%20Tested%20in%20the%20Smart%20City%20Vizze%20Project-IEEE.pdf
+
+Conteúdo Indexado
+Smart City Vizze Project; rede de média tensão do Vale de Vizze; distribuidor Edyna; formação de mangas de gelo e neve; linhas aéreas de distribuição; continuidade do serviço; cenários meteorológicos severos; vulnerabilidade dos troços; interrupções prolongadas; avaliação da resiliência da rede; medidas corretivas; seleção por benefícios e custos esperados.
+
+Localização Do Conteúdo
+• PDF pp. 1–2 | conferência pp. 1354–1355: enquadramento climático, continuidade do fornecimento e definição do problema; formação de mangas de gelo e neve nas linhas aéreas e caracterização da rede real de média tensão.
+• PDF pp. 2–5 | conferência pp. 1355–1358: metodologia para associar o perigo meteorológico, a exposição dos troços, as falhas e os efeitos sobre os utilizadores; aplicação à rede do Vale de Vizze, gerida pela Edyna.
+• PDF pp. 5–6 | conferência pp. 1358–1359: comparação das condições da rede e das ações corretivas; utilização dos resultados para hierarquizar intervenções segundo redução das interrupções, benefício esperado e custo; conclusões sobre apoio à decisão do DSO.
+
+Termos De Pesquisa Em Inglês
+Smart City Vizze; ice sleeve accretion; snow sleeve; medium-voltage network; overhead distribution lines; continuity of service; severe weather scenario; network vulnerability; prolonged interruption; resilience assessment; corrective actions; benefit-cost selection.
+
+Equivalentes Em Português
+Smart City Vizze; formação de manga de gelo; manga de neve; rede de média tensão; linhas aéreas de distribuição; continuidade do serviço; cenário meteorológico severo; vulnerabilidade da rede; interrupção prolongada; avaliação da resiliência; ações corretivas; seleção benefício–custo.
+
+Possíveis Utilizações Na Tese
+Exemplificar uma avaliação aplicada a rede real, relacionar mangas de gelo com falhas e interrupções e apoiar a priorização de medidas de adaptação segundo benefícios, custos e continuidade do fornecimento.

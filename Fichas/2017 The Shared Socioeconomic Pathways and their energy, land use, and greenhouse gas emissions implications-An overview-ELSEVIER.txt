@@ -1,0 +1,24 @@
+Código: ART-2017-RIAHI-SSP
+
+Ficheiro: 2017 The Shared Socioeconomic Pathways and their energy, land use, and greenhouse gas emissions implications-An overview-ELSEVIER.pdf
+Referência: K. Riahi et al., “The Shared Socioeconomic Pathways and Their Energy, Land Use, and Greenhouse Gas Emissions Implications: An Overview,” Global Environmental Change, vol. 42, pp. 153–168, jan. 2017, doi: 10.1016/j.gloenvcha.2016.05.009.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2017%20The%20Shared%20Socioeconomic%20Pathways%20and%20their%20energy%2C%20land%20use%2C%20and%20greenhouse%20gas%20emissions%20implications-An%20overview-ELSEVIER.pdf
+
+Conteúdo Indexado
+Shared Socioeconomic Pathways (SSPs); Scenario Matrix Architecture; Representative Concentration Pathways (RCPs); Shared Policy Assumptions; SSP1 Sustainability; SSP2 Middle of the Road; SSP3 Regional Rivalry; SSP4 Inequality; SSP5 Fossil-fueled Development; Integrated Assessment Models; marker scenarios; SSP public database.
+
+Localização Do Conteúdo
+• PDF pp. 2–6 | revista pp. 153–157: função dos SSPs na investigação climática, arquitetura matricial SSP–RCP, narrativas dos cinco caminhos, pressupostos políticos partilhados, modelos integrados participantes, harmonização dos dados de entrada e seleção dos marker scenarios representativos.
+• PDF pp. 7–13 | revista pp. 158–164: população, urbanização, rendimento, procura e oferta de energia, tecnologias, uso do solo, emissões de gases com efeito de estufa e poluentes atmosféricos e desafios de mitigação e adaptação; os cenários-base atingem aproximadamente 25 a mais de 120 GtCO₂ anuais em 2100.
+• PDF pp. 14–16 | revista pp. 165–168: comparação dos marker scenarios, custos para alcançar diferentes níveis de forçamento, incertezas, harmonização, disponibilidade pública na base SSP e conclusões sobre aplicação conjunta dos caminhos socioeconómicos e climáticos globais.
+
+Termos De Pesquisa Em Inglês
+Shared Socioeconomic Pathways; Scenario Matrix Architecture; Representative Concentration Pathways; Shared Policy Assumptions; SSP1 Sustainability; SSP2 Middle of the Road; SSP3 Regional Rivalry; SSP4 Inequality; SSP5 Fossil-fueled Development; integrated assessment models; marker scenarios; SSP database.
+
+Equivalentes Em Português
+caminhos socioeconómicos partilhados; arquitetura matricial de cenários; trajetórias de concentração representativas; pressupostos políticos partilhados; sustentabilidade; caminho intermédio; rivalidade regional; desigualdade; desenvolvimento fóssil; modelos de avaliação integrada; cenários representativos; base de dados SSP.
+
+Possíveis Utilizações Na Tese
+Fundamentar os cenários SSP usados na conversão de alterações climáticas em condições futuras da rede e justificar a comparação entre trajetórias de sustentabilidade, transição intermédia, rivalidade e desenvolvimento fóssil.

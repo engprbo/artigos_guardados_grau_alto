@@ -1,0 +1,24 @@
+Código: ART-2016-WANG-GB
+
+Ficheiro: 2016 Assessing the impacts of extreme temperatures and water availability on the resilience of the GB power system-IEEE.pdf
+Referência: B. Wang, Y. Zhou, P. Mancarella e M. Panteli, “Assessing the Impacts of Extreme Temperatures and Water Availability on the Resilience of the GB Power System,” in 2016 IEEE International Conference on Power System Technology (POWERCON), Wollongong, Austrália, 2016, art. 7754047, doi: 10.1109/POWERCON.2016.7754047.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2016%20Assessing%20the%20impacts%20of%20extreme%20temperatures%20and%20water%20availability%20on%20the%20resilience%20of%20the%20GB%20power%20system-IEEE.pdf
+
+Conteúdo Indexado
+Modelo temporal de resiliência; Sequential Monte Carlo Simulation (SMCS); sistema de 29 barras da Grã-Bretanha; arrefecimento de centrais termoelétricas; cooling water scarcity factor φ; temperaturas Thealth e Tshut-down; capacidades dinâmicas das linhas; procura dependente da temperatura; AC Optimal Power Flow; cinco cenários hídricos; índices LOLE, LOLF e EENS; perfis UK Climate Projections.
+
+Localização Do Conteúdo
+• PDF pp. 1–3: efeitos da temperatura na geração, transmissão e procura; estrutura; equações de arrefecimento, fator φ, limiares térmicos e modelos de capacidade utilizável, dynamic line rating e carga dependente da temperatura.
+• PDF pp. 4–5: aplicação à rede de 29 barras, 99 linhas e 50 corredores; SMCS de 168 horas, AC-OPF, cinco cenários hídricos e nove incrementos térmicos de 0–16 °C; cálculo de LOLE, LOLF e EENS.
+• PDF pp. 5–6: resultados e conclusões; boa resiliência até cerca de 35 °C, seguida de aumento dos índices; maior disponibilidade hídrica reduz o impacto, enquanto a temperatura extrema afeta geração, linhas e procura.
+
+Termos De Pesquisa Em Inglês
+extreme temperature resilience; water availability; cooling water scarcity factor; thermoelectric cooling system; dynamic line rating; temperature-dependent demand; Sequential Monte Carlo Simulation; GB 29-bus system; AC optimal power flow; LOLE; LOLF; EENS.
+
+Equivalentes Em Português
+resiliência a temperaturas extremas; disponibilidade hídrica; fator de escassez de água; arrefecimento termoelétrico; classificação dinâmica de linhas; procura dependente da temperatura; simulação Monte Carlo sequencial; sistema britânico de 29 barras; fluxo de potência ótimo AC; expectativa de perda de carga; frequência de perda de carga; energia esperada não fornecida.
+
+Possíveis Utilizações Na Tese
+Converter temperatura e escassez hídrica em deratings, procura e indisponibilidades, aplicar simulação temporal e comparar LOLE, LOLF e EENS com um índice baseado na energia não fornecida.

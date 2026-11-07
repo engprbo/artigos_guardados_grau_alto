@@ -1,0 +1,24 @@
+Código: ART-2018-GHOLAMI-TAXONOMY
+
+Ficheiro: 2018 Toward a Consensus on the Definition and Taxonomy of Power System Resilience-IEEE.pdf
+Referência: A. Gholami, T. Shekari, M. H. Amirioun, F. Aminifar, M. H. Amini e A. Sargolzaei, “Toward a Consensus on the Definition and Taxonomy of Power System Resilience,” IEEE Access, vol. 6, pp. 32035–32053, 2018, doi: 10.1109/ACCESS.2018.2845378.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2018%20Toward%20a%20Consensus%20on%20the%20Definition%20and%20Taxonomy%20of%20Power%20System%20Resilience-IEEE.pdf
+
+Conteúdo Indexado
+Eventos High-Impact Rare (HR); eventos conhecidos, desconhecidos e unknowable; black, gray e white swans; definição unificada de resiliência; relações com confiabilidade, segurança, estabilidade, vulnerabilidade e robustez; aproximação linear em oito pontos; estados operativos orientados à resiliência; restrições de igualdade E* e desigualdade I*; proactive management; estrutura de avaliação em sete etapas; medidas de planeamento e operação; atributos robustez, preparação, redundância, resourcefulness e rapidez.
+
+Localização Do Conteúdo
+• PDF pp. 1–5 | revista pp. 32035–32039: revisão das definições, classificação dos eventos HR pela previsibilidade e consequências e comparação da resiliência com conceitos tradicionais do sistema elétrico.
+• PDF pp. 5–10 | revista pp. 32039–32044: definição consensual proposta, curva de desempenho aproximada por oito pontos e estados normal, robusto, sobrevivência e recuperação; representação das restrições E* e I* e transições provocadas pelo evento.
+• PDF pp. 10–19 | revista pp. 32044–32053: estrutura de avaliação em sete etapas, proactive management e atributos; medidas orientadas ao planeamento e à operação, incluindo hardening, redundância, recursos distribuídos, ações corretivas e aprendizagem; lacunas e conclusões.
+
+Termos De Pesquisa Em Inglês
+power system resilience taxonomy; high-impact rare events; known unknown unknowable; black gray white swans; unified resilience definition; eight-point performance curve; resilience-driven operating states; equality constraints; inequality constraints; proactive management; seven-stage framework; resilience improvement strategies.
+
+Equivalentes Em Português
+taxonomia da resiliência elétrica; eventos raros de alto impacto; conhecido desconhecido incognoscível; cisnes negros cinzentos brancos; definição unificada de resiliência; curva de desempenho em oito pontos; estados orientados à resiliência; restrições de igualdade; restrições de desigualdade; gestão proativa; estrutura em sete etapas; estratégias de reforço.
+
+Possíveis Utilizações Na Tese
+Apoiar uma definição consistente, classificar eventos pela previsibilidade, estruturar estados de degradação e recuperação e posicionar fatores operativos, estruturais e de preparação dentro de uma taxonomia comum.

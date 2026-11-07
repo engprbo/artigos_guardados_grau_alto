@@ -1,0 +1,24 @@
+Código: ART-2018-DUNN-FRAGILITY
+
+Ficheiro: 2017 Fragility Curves for Assessing the Resilience of Electricity Networks Constructed from an Extensive Fault Database-ASCE.pdf
+Referência: S. Dunn, S. Wilkinson, D. Alderson, H. Fowler e C. Galasso, “Fragility Curves for Assessing the Resilience of Electricity Networks Constructed from an Extensive Fault Database,” Natural Hazards Review, vol. 19, n.º 1, art. 04017019, fev. 2018, doi: 10.1061/(ASCE)NH.1527-6996.0000267.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2017%20Fragility%20Curves%20for%20Assessing%20the%20Resilience%20of%20Electricity%20Networks%20Constructed%20from%20an%20Extensive%20Fault%20Database-ASCE.pdf
+
+Conteúdo Indexado
+Catastrophe (CAT) risk modelling; curvas empíricas de fragilidade; linhas aéreas de distribuição; National Fault and Interruption Scheme (NaFIRS); base com mais de 12 000 falhas; ERA-Interim; modelo climático regional RACMO22; limiar de tempestade de 17 m/s; falhas por quilómetro; Method 1 de baixa resolução; Method 2 de alta resolução; Method 3 com uso do solo.
+
+Localização Do Conteúdo
+• PDF pp. 1–5: extensão do modelo CAT às redes de infraestrutura; diferenças entre fragilidade e vulnerabilidade; estrutura da rede britânica, base NaFIRS, dados de vento ERA-Interim/RACMO22 e metodologia empírica.
+• PDF pp. 5–8: identificação das tempestades acima de 17 m/s e construção das curvas; 766 tempestades no Method 1 e 9 168 no Method 2; velocidades acima de 21 m/s são quase certas de produzir pelo menos uma falha.
+• PDF p. 9: conclusões; mais de 12 000 falhas correlacionadas com vento; a maior resolução espacial melhora R² de 0,9271 para 0,9889, enquanto a separação simples urbano–rural não melhora significativamente as curvas.
+
+Termos De Pesquisa Em Inglês
+catastrophe risk modelling; empirical fragility curves; overhead electrical lines; NaFIRS fault database; ERA-Interim; RACMO22; windstorm threshold; faults per kilometre; low-resolution method; high-resolution method; land-use approach; spatial data resolution.
+
+Equivalentes Em Português
+modelação de risco catastrófico; curvas empíricas de fragilidade; linhas elétricas aéreas; base de falhas NaFIRS; ERA-Interim; RACMO22; limiar de tempestade; falhas por quilómetro; método de baixa resolução; método de alta resolução; abordagem por uso do solo; resolução espacial dos dados.
+
+Possíveis Utilizações Na Tese
+Calibrar curvas de fragilidade com dados de falhas e vento, avaliar o efeito da resolução espacial e converter intensidade meteorológica em taxas de falha para simulação.

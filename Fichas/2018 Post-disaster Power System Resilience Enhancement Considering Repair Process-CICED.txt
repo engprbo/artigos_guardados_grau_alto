@@ -1,0 +1,24 @@
+Código: ART-2018-ZHANG-REPAIR
+
+Ficheiro: 2018 Post-disaster Power System Resilience Enhancement Considering Repair Process-CICED.pdf
+Referência: H. Zhang, Z. Bie, C. Yan e G. Li, “Post-disaster Power System Resilience Enhancement Considering Repair Process,” in 2018 China International Conference on Electricity Distribution (CICED), Tianjin, China, 2018, pp. 1550–1554, doi: 10.1109/CICED.2018.8592346.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2018%20Post-disaster%20Power%20System%20Resilience%20Enhancement%20Considering%20Repair%20Process-CICED.pdf
+
+Conteúdo Indexado
+Resiliência pós-desastre; processo de reparação dos componentes; sequência de reparação; recursos de manutenção limitados; evolução temporal da carga restaurada; curva de desempenho do sistema; índice de resiliência durante a recuperação; coordenação entre reparação e operação; prioridade dos componentes danificados; tempo total de restauração; perda de carga acumulada; estratégia de reforço da recuperação.
+
+Localização Do Conteúdo
+• PDF pp. 1–2 | conferência pp. 1550–1551: representação do processo pós-desastre, fases de degradação e recuperação, relação entre estados dos componentes, capacidade de fornecimento e resiliência do sistema.
+• PDF pp. 2–4 | conferência pp. 1551–1553: formulação da sequência de reparação sob restrições de recursos e tempos; atualização da topologia e da carga restaurada à medida que componentes regressam ao serviço; avaliação da trajetória de recuperação.
+• PDF pp. 4–5 | conferência pp. 1553–1554: estudo numérico e comparação de estratégias; efeito da ordem de reparação sobre perda de carga, duração da recuperação e desempenho acumulado; conclusões sobre coordenação das decisões operativas e de manutenção sob diferentes cenários de danos simultâneos.
+
+Termos De Pesquisa Em Inglês
+post-disaster resilience; repair process; component repair sequence; limited repair resources; load restoration curve; system performance trajectory; resilience index; damaged component priority; topology updating; restoration duration; cumulative load loss; resilience enhancement.
+
+Equivalentes Em Português
+resiliência pós-desastre; processo de reparação; sequência de reparação; recursos de reparação limitados; curva de restauração da carga; trajetória de desempenho; índice de resiliência; prioridade de componentes danificados; atualização topológica; duração da restauração; perda acumulada de carga; reforço da resiliência.
+
+Possíveis Utilizações Na Tese
+Apoiar a modelação da recomposição por etapas, testar prioridades de reparação e relacionar recursos, sequência, carga restaurada, duração e perda acumulada com o impacto e o índice de resiliência.

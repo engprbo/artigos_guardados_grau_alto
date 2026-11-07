@@ -1,0 +1,24 @@
+Código: ART-2016-FANG
+
+Ficheiro: 2016 Resilience-Based Component Importance Measures for Critical Infrastructure Networ Systems-IEEE.pdf
+Referência: Y.-P. Fang, N. Pedroni e E. Zio, “Resilience-Based Component Importance Measures for Critical Infrastructure Network Systems,” IEEE Transactions on Reliability, vol. 65, n.º 2, pp. 502–512, jun. 2016, doi: 10.1109/TR.2016.2521761.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2016%20Resilience-Based%20Component%20Importance%20Measures%20for%20Critical%20Infrastructure%20Networ%20Systems-IEEE.pdf
+
+Conteúdo Indexado
+Resilience-Based Component Importance Measures; Optimal Repair Time (ORT); Resilience Reduction Worth (RRW); curva ótima de recuperação; perda de resiliência por atraso; otimização da sequência de reparação; desempenho da rede durante a recuperação; eventos disruptivos estocásticos; simulação Monte Carlo; distribuições probabilísticas dos índices; método de agregação de Copeland; sistema IEEE de 30 barras.
+
+Localização Do Conteúdo
+• PDF pp. 1–4 | revista pp. 502–505: definição do desempenho e da recuperação da rede; formulação da resiliência como área temporal; otimização da sequência de reparação e introdução dos índices ORT e RRW para avaliar componentes falhados.
+• PDF pp. 5–10 | revista pp. 506–511: geração Monte Carlo de eventos e tempos de reparação; obtenção das distribuições de ORT e RRW; ordenação estocástica pelo método de Copeland; aplicação ao sistema IEEE de 30 barras e comparação com medidas topológicas tradicionais.
+• PDF p. 11 | revista p. 512: conclusões; ORT identifica a oportunidade ótima de reinstalação e RRW quantifica a redução potencial da resiliência provocada pelo atraso, apoiando decisões de recuperação sob incerteza.
+
+Termos De Pesquisa Em Inglês
+resilience-based importance measure; optimal repair time; resilience reduction worth; optimal recovery curve; repair delay; restoration sequence; network performance recovery; stochastic disruptive events; Monte Carlo simulation; probabilistic importance ranking; Copeland method; IEEE 30-bus system.
+
+Equivalentes Em Português
+medida de importância baseada na resiliência; tempo ótimo de reparação; valor da redução da resiliência; curva ótima de recuperação; atraso da reparação; sequência de restauração; recuperação do desempenho da rede; eventos disruptivos estocásticos; simulação Monte Carlo; classificação probabilística; método de Copeland; sistema IEEE de 30 barras.
+
+Possíveis Utilizações Na Tese
+Priorizar componentes e trechos pela contribuição para a recuperação, representar efeitos dos atrasos de reparação e comparar uma ordenação probabilística com prioridades baseadas apenas na topologia ou no carregamento.

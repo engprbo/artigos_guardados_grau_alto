@@ -1,0 +1,24 @@
+Código: ART-2017-KUFEOGLU-FINLAND
+
+Ficheiro: 2017 Climate change concerns and finnish electric power supply security performance-IEEE.pdf
+Referência: S. Küfeoğlu, N. Gündüz e M. Lehtonen, “Climate Change Concerns and Finnish Electric Power Supply Security Performance,” in 2016 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT-Europe), Ljubljana, Eslovénia, 2017, pp. 1–5, art. 7856318, doi: 10.1109/ISGTEurope.2016.7856318.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2017%20Climate%20change%20concerns%20and%20finnish%20electric%20power%20supply%20security%20performance-IEEE.pdf
+
+Conteúdo Indexado
+Segurança do fornecimento elétrico finlandês; alterações climáticas; eventos meteorológicos extremos; desastres naturais; System Average Interruption Duration Index (SAIDI); estatísticas de interrupções de 2007–2012; interrupções planeadas e imprevistas; custos diretos e indiretos das falhas; compensação dos consumidores; Electricity Market Act; hardening da infraestrutura; transformação da rede envelhecida em smart grid.
+
+Localização Do Conteúdo
+• PDF pp. 1–2: metas climáticas e energéticas europeias, importância da continuidade de serviço e exposição da Finlândia a desastres naturais; estrutura do fornecimento e enquadramento da análise nacional de confiabilidade e dos indicadores de interrupção.
+• PDF pp. 2–4: evolução do SAIDI entre 2007 e 2012, interrupções planeadas e imprevistas, causas meteorológicas e duração; influência crescente dos eventos naturais e impactos económicos, com custos diretos e indiretos de 2011 estimados em 890 milhões de euros.
+• PDF pp. 4–5: políticas finlandesas, compensação dos clientes, Electricity Market Act, incentivos aos operadores e plano de desenvolvimento da rede; reforço, modernização e transição para smart grid visando segurança do fornecimento e satisfação dos consumidores.
+
+Termos De Pesquisa Em Inglês
+Finnish power supply security; climate change concerns; extreme weather events; natural disasters; SAIDI; outage statistics; planned interruptions; unplanned interruptions; interruption costs; customer compensation; Electricity Market Act; smart grid transition.
+
+Equivalentes Em Português
+segurança do fornecimento finlandês; preocupações climáticas; eventos meteorológicos extremos; desastres naturais; duração média das interrupções; estatísticas de falhas; interrupções planeadas; interrupções imprevistas; custos das interrupções; compensação dos clientes; lei do mercado elétrico; transição para rede inteligente.
+
+Possíveis Utilizações Na Tese
+Relacionar eventos meteorológicos, duração das interrupções, custos e compensações e justificar políticas de reforço, modernização e incentivos regulatórios como fatores institucionais da resiliência e das decisões de investimento de longo prazo.

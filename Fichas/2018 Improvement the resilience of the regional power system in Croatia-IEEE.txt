@@ -1,0 +1,24 @@
+Código: ART-2018-MESIC-HR
+
+Ficheiro: 2018 Improvement the resilience of the regional power system in Croatia-IEEE.pdf
+Referência: M. Mesić, A. Andrić e B. Markota, “Improvement the Resilience of the Regional Power System in Croatia,” in 2018 110th AEIT International Annual Conference, Bari, Itália, 2018, art. 8577417, doi: 10.23919/AEIT.2018.8577417.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2018%20Improvement%20the%20resilience%20of%20the%20regional%20power%20system%20in%20Croatia-IEEE.pdf
+
+Conteúdo Indexado
+Sistema elétrico regional da Ístria; indisponibilidade da central Plomin; pico de carga do verão de 2017; linhas de 220 kV Melina–Pehlin–Plomin; circuitos em torres comuns; tempestades e raios; risco de black-out; medidas de curto e longo prazo; redução do tempo de recuperação; proteção contra raios; reforço da rede de 110 kV; nova linha de 220 kV.
+
+Localização Do Conteúdo
+• PDF pp. 1–2: segurança da Ístria após indisponibilidade inesperada da geração de Plomin antes do pico de 2017; dependência das ligações de alta tensão e risco associado a trovoadas, temperaturas elevadas e procura turística.
+• PDF pp. 3–5: ligações de 220 kV provenientes de Melina e Pehlin, parcialmente instaladas nas mesmas torres e expostas a raios; medidas imediatas para reduzir a probabilidade de apagão e acelerar a recuperação.
+• PDF pp. 5–6: medidas de longo prazo — proteção das linhas de 220 kV, aumento da eficiência da rede de 110 kV e nova linha regional de 220 kV —; análise custo–benefício e justificação dos investimentos.
+
+Termos De Pesquisa Em Inglês
+Istrian regional power system; Plomin thermal power plant; summer peak load; 220 kV transmission lines; common towers; summer thunderstorms; lightning exposure; blackout risk; short-term countermeasures; recovery time; 110 kV network reinforcement; new 220 kV line.
+
+Equivalentes Em Português
+sistema elétrico regional da Ístria; central termoelétrica Plomin; pico de carga de verão; linhas de transmissão de 220 kV; torres comuns; trovoadas de verão; exposição a raios; risco de apagão; contramedidas de curto prazo; tempo de recuperação; reforço da rede de 110 kV; nova linha de 220 kV.
+
+Possíveis Utilizações Na Tese
+Relacionar indisponibilidade de geração e linhas com risco regional, distinguir medidas imediatas e estruturais e incorporar redução do risco, tempo de recuperação e custo–benefício na priorização de reforços.

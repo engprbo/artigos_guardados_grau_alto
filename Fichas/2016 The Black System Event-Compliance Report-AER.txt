@@ -1,0 +1,24 @@
+Código: ART-2018-AER-BSE
+
+Ficheiro: 2016 The Black System Event-Compliance Report-AER.pdf
+Referência: Australian Energy Regulator, The Black System Event Compliance Report: Investigation into the Pre-event, System Restoration, and Market Suspension Aspects Surrounding the 28 September 2016 Event. Melbourne, Austrália, dez. 2018.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2016%20The%20Black%20System%20Event-Compliance%20Report-AER.pdf
+
+Conteúdo Indexado
+Black System Event da Austrália Meridional; 28 de setembro de 2016; danos meteorológicos na transmissão; redução da geração eólica; perda do Heywood Interconnector; National Electricity Rules (NER); Australian Energy Market Operator (AEMO); System Restart Ancillary Services (SRAS); Local Black System Procedures (LBSP); System Restart Plan; suspensão do mercado por 13 dias; recomendações de conformidade e recuperação.
+
+Localização Do Conteúdo
+• PDF pp. 4–30 | relatório pp. 5–31: sequência do evento, perda total do fornecimento, contexto meteorológico, múltiplas falhas de linhas, redução rápida da produção eólica, separação do interconector Heywood, constatações de conformidade pré-evento e síntese das ações corretivas.
+• PDF pp. 101–154 | relatório pp. 102–155: restauração do sistema; utilização de SRAS, LBSP, System Restart Plan e programas de manobra; coordenação entre AEMO, ElectraNet, geradores e distribuidores; a maior parte do fornecimento foi restabelecida em oito horas.
+• PDF pp. 157–194 | relatório pp. 158–195: suspensão e reinício do mercado, preços, FCAS, notificações e comunicações; não conformidades administrativas; implicações regulatórias, 13 recomendações e medidas corretivas para planos, procedimentos, testes, informação e coordenação futura.
+
+Termos De Pesquisa Em Inglês
+Black System Event; South Australia blackout; Heywood Interconnector; National Electricity Rules; AEMO compliance; system restoration; System Restart Ancillary Services; Local Black System Procedures; System Restart Plan; market suspension; FCAS; compliance recommendations.
+
+Equivalentes Em Português
+evento de sistema negro; apagão da Austrália Meridional; interconector Heywood; regras nacionais de eletricidade; conformidade da AEMO; restauração do sistema; serviços auxiliares de arranque; procedimentos locais de sistema negro; plano de reinício; suspensão do mercado; serviços de controlo de frequência; recomendações de conformidade.
+
+Possíveis Utilizações Na Tese
+Analisar um apagão real, estruturar fases de restauração, comparar tempos de recomposição e incorporar comunicação, blackstart, coordenação, conformidade e suspensão de mercado nos fatores operacionais do índice.

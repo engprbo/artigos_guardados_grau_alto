@@ -1,0 +1,24 @@
+Código: ART-2018-CAI-AVAIL
+
+Ficheiro: 2018 Availability-based engineering resilience metric and its corresponding evaluation methodology-ELSEVIER.pdf
+Referência: B. Cai, M. Xie, Y. Liu, Y. Liu e Q. Feng, “Availability-based engineering resilience metric and its corresponding evaluation methodology,” Reliability Engineering & System Safety, vol. 172, pp. 216–224, abr. 2018, doi: 10.1016/j.ress.2017.12.021.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2018%20Availability-based%20engineering%20resilience%20metric%20and%20its%20corresponding%20evaluation%20methodology-ELSEVIER.pdf
+
+Conteúdo Indexado
+Métrica de resiliência baseada na disponibilidade; disponibilidade estacionária A1; disponibilidade transitória pós-choque A2; disponibilidade estacionária pós-choque A3; tempos t1, t2 e t3; equação de resiliência ρ; Dynamic Bayesian Network (DBN); falhas de causa comum; nove níveis de choque; sistemas série, paralelo e votação; rede elétrica de nove barras; análise de sensibilidade a taxas de falha e reparação, estados binários dos componentes e disponibilidade dos nós de carga.
+
+Localização Do Conteúdo
+• PDF pp. 5–8: definição da resiliência como atributo intrínseco; propriedades de desempenho e tempo; formulação de ρ com disponibilidades e tempos estacionários; probabilidades de falha comum e relação entre severidade do choque e taxa de reparação.
+• PDF pp. 8–15: metodologia DBN em cinco etapas; modelação estrutural e paramétrica, inferência da disponibilidade e sensibilidade; aplicações a sistemas série, paralelo e votação, incluindo efeito da redundância.
+• PDF pp. 15–20: aplicação à rede de nove barras com três geradores, três transformadores, seis linhas e três cargas; influência relativa de componentes; discussão, otimização e conclusão sobre comparação entre sistemas com a mesma função.
+
+Termos De Pesquisa Em Inglês
+availability-based resilience; steady-state availability; post-shock availability; steady-state time; resilience metric; dynamic Bayesian network; common-cause failure; repair rate; series system; voting system; nine-bus power grid; sensitivity analysis.
+
+Equivalentes Em Português
+resiliência baseada na disponibilidade; disponibilidade estacionária; disponibilidade pós-choque; tempo estacionário; métrica de resiliência; rede Bayesiana dinâmica; falha de causa comum; taxa de reparação; sistema série; sistema de votação; rede de nove barras; análise de sensibilidade.
+
+Possíveis Utilizações Na Tese
+Comparar o índice proposto com uma métrica baseada em disponibilidade, representar falhas e reparações por DBN e avaliar como redundância, taxas de falha e recursos de manutenção alteram a resiliência.

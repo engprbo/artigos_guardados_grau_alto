@@ -1,0 +1,24 @@
+Código: ART-2015-WANG-REVIEW
+
+Ficheiro: 2015 Research on Resilience of Power Systems Under Natural Disasters-A Review-IEEE.pdf
+Referência: Y. Wang, C. Chen, J. Wang e R. Baldick, “Research on Resilience of Power Systems Under Natural Disasters—A Review,” IEEE Transactions on Power Systems, vol. 31, n.º 2, pp. 1604–1613, mar. 2016, doi: 10.1109/TPWRS.2015.2429656.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2015%20Research%20on%20Resilience%20of%20Power%20Systems%20Under%20Natural%20Disasters-A%20Review-IEEE.pdf
+
+Conteúdo Indexado
+Linha temporal da resposta a desastres; Transmission Availability Data System (TADS); Generalized Linear Models (GLM); Generalized Additive Models (GAM); Accelerated Failure Time (AFT); Classification and Regression Trees (CART); Bayesian Additive Regression Trees (BART); Cascading Outage Analyzer; simulação Monte Carlo de furacões; hardening e preparação pré-tempestade; microrredes para restauração; coordenação descentralizada multiagente.
+
+Localização Do Conteúdo
+• PDF pp. 1–4 | revista pp. 1604–1607: classificação dos desastres, dados TADS e ambientais; modelos GLM, GAM, AFT, CART e BART; métricas MAE/MSE/RMSE; exemplo Katrina, no qual a combinação BART/CART obteve MAE 10,3.
+• PDF pp. 4–8 | revista pp. 1607–1611: simulador de furacões, curvas falha–vento e Cascading Outage Analyzer; ações corretivas, proteção contra inundação e vento, linhas subterrâneas, gestão de vegetação, preparação de equipas, geração distribuída e microrredes.
+• PDF pp. 8–10 | revista pp. 1611–1613: restauração centralizada e descentralizada, automação da distribuição e sistemas multiagente; conclusões e lacunas sobre previsão transferível, otimização do reforço, interdependências com comunicações, gás e transportes e controlo de microrredes danificadas.
+
+Termos De Pesquisa Em Inglês
+natural disaster resilience; TADS; generalized linear model; generalized additive model; accelerated failure time; Bayesian additive regression trees; Cascading Outage Analyzer; hurricane outage forecast; storm hardening; pre-storm preparation; microgrid restoration; decentralized restoration.
+
+Equivalentes Em Português
+resiliência a desastres naturais; sistema TADS; modelo linear generalizado; modelo aditivo generalizado; tempo de falha acelerado; árvores Bayesianas de regressão aditiva; analisador de apagões em cascata; previsão de interrupções por furacão; reforço contra tempestades; preparação pré-tempestade; restauração por microrredes; restauração descentralizada.
+
+Possíveis Utilizações Na Tese
+Apoiar a seleção de dados e modelos de previsão, estruturar fases de preparação e recuperação e comparar métodos estatísticos, simulação de cascatas, hardening, microrredes e restauração descentralizada.

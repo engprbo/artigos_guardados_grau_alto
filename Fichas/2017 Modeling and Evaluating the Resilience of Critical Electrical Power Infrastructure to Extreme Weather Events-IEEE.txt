@@ -1,0 +1,24 @@
+Código: ART-2017-PANTELI-SMCS
+
+Ficheiro: 2017 Modeling and Evaluating the Resilience of Critical Electrical Power Infrastructure to Extreme Weather Events-IEEE.pdf
+Referência: M. Panteli e P. Mancarella, “Modeling and Evaluating the Resilience of Critical Electrical Power Infrastructure to Extreme Weather Events,” IEEE Systems Journal, vol. 11, n.º 3, pp. 1733–1742, set. 2017, doi: 10.1109/JSYST.2015.2389272.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2017%20Modeling%20and%20Evaluating%20the%20Resilience%20of%20Critical%20Electrical%20Power%20Infrastructure%20to%20Extreme%20Weather%20Events-IEEE.pdf
+
+Conteúdo Indexado
+Estrutura conceptual de resiliência; Sequential Monte Carlo Simulation; modelo temporal do evento; curvas de fragilidade; probabilidades de falha dependentes do vento; sistema de sistemas; resposta humana; sistema IEEE de seis barras; duas regiões meteorológicas; perfis de vento normal, elevado e extremo; DC Optimal Power Flow; índices LOLF e LOLE.
+
+Localização Do Conteúdo
+• PDF pp. 1–3 | revista pp. 1733–1735: definição da infraestrutura elétrica crítica resiliente; fases de preparação, absorção, recuperação e adaptação; atributos robustez, redundância e rapidez da resposta.
+• PDF pp. 4–6 | revista pp. 1736–1738: metodologia Monte Carlo sequencial, regiões meteorológicas, curvas de fragilidade, falhas independentes e comuns, reparação, atrasos humanos e cálculo de LOLF e LOLE por fluxo ótimo DC.
+• PDF pp. 6–10 | revista pp. 1738–1742: aplicação ao sistema IEEE de seis barras; comparação das redes base, robusta, redundante e responsiva sob vento extremo; atrasos de resposta de 1, 3 e 5 horas e conclusões sobre medidas de reforço.
+
+Termos De Pesquisa Em Inglês
+critical power infrastructure; extreme weather resilience; sequential Monte Carlo simulation; fragility curves; wind-dependent failure probability; common-cause failure; human response model; IEEE six-bus system; DC optimal power flow; loss of load frequency; loss of load expectation; resilience enhancement.
+
+Equivalentes Em Português
+infraestrutura elétrica crítica; resiliência meteorológica extrema; simulação Monte Carlo sequencial; curvas de fragilidade; probabilidade de falha por vento; falha de causa comum; modelo de resposta humana; sistema IEEE de seis barras; fluxo de potência ótimo DC; frequência de perda de carga; expectativa de perda de carga; reforço da resiliência.
+
+Possíveis Utilizações Na Tese
+Modelar falhas e reparações dependentes do evento, quantificar LOLF e LOLE e comparar como robustez, redundância e rapidez da resposta alteram o desempenho e a recuperação da transmissão.

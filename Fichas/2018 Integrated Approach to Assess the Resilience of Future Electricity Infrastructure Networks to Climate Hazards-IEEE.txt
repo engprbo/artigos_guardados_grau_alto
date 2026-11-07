@@ -1,0 +1,24 @@
+Código: ART-2018-FU-CLIMATE
+
+Ficheiro: 2018 Integrated Approach to Assess the Resilience of Future Electricity Infrastructure Networks to Climate Hazards-IEEE.pdf
+Referência: G. Fu, S. Wilkinson, R. J. Dawson, H. J. Fowler, C. Kilsby, M. Panteli e P. Mancarella, “Integrated Approach to Assess the Resilience of Future Electricity Infrastructure Networks to Climate Hazards,” IEEE Systems Journal, vol. 12, n.º 4, pp. 3169–3180, dez. 2018, doi: 10.1109/JSYST.2017.2700791.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2018%20Integrated%20Approach%20to%20Assess%20the%20Resilience%20of%20Future%20Electricity%20Infrastructure%20Networks%20to%20Climate%20Hazards-IEEE.pdf
+
+Conteúdo Indexado
+Estrutura integrada de resiliência climática; network growth model; complex network theory; hazard model de tempestades; dados ERA-Interim; resolução de 12 km; curvas de fragilidade de torres L2D; time-series network analysis; National Electricity Transmission System da Grã-Bretanha; quatro cenários para 2050; geração centralizada e distribuída; índice de vulnerabilidade.
+
+Localização Do Conteúdo
+• PDF pp. 1–5 | revista pp. 3169–3173: crescimento espacial da rede, procura, geração, custo e eficiência; acoplamento dos modelos de perigo, fragilidade e análise temporal; simulação multissítio de rajadas e fragilidade estrutural das torres.
+• PDF pp. 6–10 | revista pp. 3174–3178: rede britânica atual e quatro configurações de 2050, combinando geração centralizada/distribuída e investimento alto/baixo; 100 realizações submetidas a 100 anos de tempestades e mapeamento da vulnerabilidade.
+• PDF pp. 10–12 | revista pp. 3178–3180: falha no atendimento após aumento de 5–10% da intensidade e frequência; aumento de 50% pode eliminar 85% da procura máxima de inverno; apenas o cenário distribuído com alto investimento melhora a resiliência.
+
+Termos De Pesquisa Em Inglês
+future electricity network; integrated resilience framework; network growth model; complex network theory; wind hazard model; ERA-Interim data; L2D tower fragility; time-series network analysis; Great Britain NETS; infrastructure policy scenarios; distributed generation; component vulnerability index.
+
+Equivalentes Em Português
+rede elétrica futura; estrutura integrada de resiliência; modelo de crescimento da rede; teoria de redes complexas; modelo de perigo de vento; dados ERA-Interim; fragilidade de torre L2D; análise temporal da rede; sistema britânico NETS; cenários de política de infraestrutura; geração distribuída; índice de vulnerabilidade.
+
+Possíveis Utilizações Na Tese
+Integrar evolução da rede, cenários climáticos e fragilidade, avaliar configurações futuras e demonstrar como políticas de expansão alteram vulnerabilidade, energia não fornecida e resiliência da transmissão até 2050.

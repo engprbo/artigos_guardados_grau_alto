@@ -1,0 +1,24 @@
+Código: ART-2016-ESPINOZA
+
+Ficheiro: 2016 Multi-phase assessment and adaptation of power systems resilience to natural hazards-ELSEVIER.pdf
+Referência: S. Espinoza, M. Panteli, P. Mancarella e H. Rudnick, “Multi-phase assessment and adaptation of power systems resilience to natural hazards,” Electric Power Systems Research, vol. 136, pp. 352–361, jul. 2016, doi: 10.1016/j.epsr.2016.03.019.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2016%20Multi-phase%20assessment%20and%20adaptation%20of%20power%20systems%20resilience%20to%20natural%20hazards-ELSEVIER.pdf
+
+Conteúdo Indexado
+Avaliação multifásica da resiliência; caracterização espacial e temporal do perigo; curvas de fragilidade dos componentes; vulnerabilidade da infraestrutura; reação sistémica; restauração do sistema; Sequential Monte Carlo Simulation; teoria de valores extremos e períodos de retorno; rede britânica reduzida de 29 nós; cenários de tempestade de vento e inundação; Expected Energy Not Supplied (EENS); Energy Index of Unreliability (EIU).
+
+Localização Do Conteúdo
+• PDF pp. 1–4 | revista pp. 352–355: estrutura em quatro fases — perigo, vulnerabilidade, reação e restauração —; representação espaço-temporal dos eventos, períodos de retorno, curvas de fragilidade e ligação entre falhas dos componentes e desempenho do sistema.
+• PDF pp. 5–9 | revista pp. 356–360: aplicação à rede britânica com 29 nós, 65 geradores e 81,5 GW; simulação Monte Carlo sequencial de vento e inundação; comparação das configurações normal, robusta, redundante e responsiva por EENS e EIU.
+• PDF p. 10 | revista p. 361: conclusões sobre adaptação “stronger, bigger, smarter”, diferenças entre confiabilidade e resiliência e seleção das medidas segundo o tipo, intensidade e evolução do perigo natural.
+
+Termos De Pesquisa Em Inglês
+multi-phase resilience assessment; natural hazards; hazard characterization; component fragility curves; system reaction; system restoration; Sequential Monte Carlo Simulation; extreme value theory; windstorm scenario; flood scenario; expected energy not supplied; energy index of unreliability.
+
+Equivalentes Em Português
+avaliação multifásica da resiliência; perigos naturais; caracterização do perigo; curvas de fragilidade; reação do sistema; restauração do sistema; simulação Monte Carlo sequencial; teoria de valores extremos; cenário de tempestade; cenário de inundação; energia esperada não fornecida; índice energético de indisponibilidade.
+
+Possíveis Utilizações Na Tese
+Estruturar cenários em perigo, vulnerabilidade, reação e restauração, comparar medidas robustas, redundantes e responsivas e relacionar EENS e EIU com o índice de resiliência proposto.

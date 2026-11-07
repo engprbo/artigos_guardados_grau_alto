@@ -1,0 +1,24 @@
+Código: ART-2016-NAGARAJAN
+
+Ficheiro: 2016 Optimal Resilient Transmission Grid Design-IEEE.pdf
+Referência: H. Nagarajan, E. Yamangil, R. Bent, P. Van Hentenryck e S. Backhaus, “Optimal Resilient Transmission Grid Design,” in 2016 Power Systems Computation Conference (PSCC), Génova, Itália, 2016, pp. 1–7, doi: 10.1109/PSCC.2016.7540988.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2016%20Optimal%20Resilient%20Transmission%20Grid%20Design-IEEE.pdf
+
+Conteúdo Indexado
+Optimal Resilient Grid Design for Transmission (ORGDT); otimização estocástica em duas etapas; Mixed-Integer Nonlinear Programming; relaxação convexa do fluxo AC; envelopes de McCormick; Scenario-Based Decomposition (SBD); Variable Neighborhood Search (VNS); algoritmo híbrido SBD–VNS; Flexible AC Transmission Systems (FACTS); linhas, transformadores e geração distribuída; cargas críticas e não críticas; sistema RTS-96 modificado.
+
+Localização Do Conteúdo
+• PDF pp. 1–3: formulação ORGDT; primeira etapa para selecionar reforços e segunda para avaliar cenários de dano; restrições AC, atendimento mínimo das cargas críticas e não críticas, relaxações convexas e envelopes de McCormick.
+• PDF pp. 4–6: métodos exatos e heurísticos SBD, VNS e SBD–VNS; aplicação ao RTS-96 modificado com 24 barras, 38 linhas e 25 cenários; alternativas de novas linhas, switches, FACTS, hardening, transformadores e geração, incluindo limites térmicos, de tensão e de ângulo de fase.
+• PDF p. 7: resultados e conclusões; dispositivos FACTS reduzem o custo de reforço entre 32,5% e 39,0%; discussão do efeito das restrições de estabilidade angular, da escalabilidade computacional e da qualidade dos limites inferiores obtidos pela decomposição.
+
+Termos De Pesquisa Em Inglês
+optimal resilient grid design; two-stage stochastic optimization; mixed-integer nonlinear programming; AC power flow relaxation; McCormick envelopes; scenario-based decomposition; variable neighborhood search; FACTS devices; critical load service; damage scenarios; RTS-96 system; grid hardening.
+
+Equivalentes Em Português
+projeto ótimo de rede resiliente; otimização estocástica em duas etapas; programação não linear inteira mista; relaxação do fluxo AC; envelopes de McCormick; decomposição por cenários; pesquisa em vizinhança variável; dispositivos FACTS; atendimento de carga crítica; cenários de dano; sistema RTS-96; reforço da rede.
+
+Possíveis Utilizações Na Tese
+Apoiar a otimização de reforços sob múltiplos cenários, comparar linhas, FACTS, hardening e geração e relacionar custo de investimento com atendimento das cargas críticas após danos extensos.

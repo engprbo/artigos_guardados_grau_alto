@@ -1,0 +1,24 @@
+Código: ART-2018-LU-ICE
+
+Ficheiro: 2018 Dynamic Assessment of Resilience of Power Transmission Systems in Ice Disasters-POWERCON.pdf
+Referência: J. Lu, J. Guo, Z. Jian, Y. Yang e W. Tang, “Dynamic Assessment of Resilience of Power Transmission Systems in Ice Disasters,” in 2018 International Conference on Power System Technology (POWERCON), Guangzhou, China, 2018, pp. 7–13, doi: 10.1109/POWERCON.2018.8601802.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2018%20Dynamic%20Assessment%20of%20Resilience%20of%20Power%20Transmission%20Systems%20in%20Ice%20Disasters-POWERCON.pdf
+
+Conteúdo Indexado
+Avaliação dinâmica da resiliência; desastres de gelo; modelo de acumulação por chuva gelada; curvas de fragilidade; falhas de linhas e torres; método de partição celular; Sequential Monte Carlo Simulation; índice RRiCD; trajetória da tempestade; sistema IEEE de seis barras; equipas de reparação; casos base, robusto, rápido e resourceful.
+
+Localização Do Conteúdo
+• PDF pp. 1–3 | conferência pp. 7–9: metodologia; espessura, duração e trajetória do gelo; modelos de indisponibilidade, resposta e restauração; partição espacial por células e índice RRiCD pela área entre desempenhos real e ideal.
+• PDF pp. 4–6 | conferência pp. 10–12: aplicação ao IEEE de seis barras, com nove linhas, 198 MW de carga e 240 MW de geração; quatro casos variando espessura de projeto, eficiência e número de equipas.
+• PDF p. 7 | conferência p. 13: resultados e conclusão; aumentar 5 mm na espessura de projeto apresentou o maior reforço, embora a seleção deva considerar a tempestade, o sistema e o benefício económico.
+
+Termos De Pesquisa Em Inglês
+ice disaster resilience; freezing rain ice load; fragility curve; transmission tower failure; cell partition method; sequential Monte Carlo simulation; dynamic resilience index; ice storm track; restoration model; repair crews; IEEE six-bus system; resilience enhancement measures.
+
+Equivalentes Em Português
+resiliência a desastres de gelo; carga de gelo por chuva gelada; curva de fragilidade; falha de torre; método de partição celular; simulação Monte Carlo sequencial; índice dinâmico de resiliência; trajetória da tempestade; modelo de restauração; equipas de reparação; sistema IEEE de seis barras; medidas de reforço da resiliência.
+
+Possíveis Utilizações Na Tese
+Modelar espacial e temporalmente eventos de gelo, converter intensidade em falhas, representar equipas e tempos de reparação e comparar medidas robustas, rápidas e resourceful pelo impacto acumulado.

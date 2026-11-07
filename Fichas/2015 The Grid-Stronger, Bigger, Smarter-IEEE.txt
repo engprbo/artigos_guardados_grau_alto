@@ -1,0 +1,24 @@
+Código: ART-2015-PANTELI-GRID-PUB
+
+Ficheiro: 2015 The Grid-Stronger, Bigger, Smarter-IEEE.pdf
+Referência: M. Panteli e P. Mancarella, “The Grid: Stronger, Bigger, Smarter? Presenting a Conceptual Framework of Power System Resilience,” IEEE Power & Energy Magazine, vol. 13, n.º 3, pp. 58–66, maio–jun. 2015, doi: 10.1109/MPE.2015.2397334.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2015%20The%20Grid-Stronger%2C%20Bigger%2C%20Smarter-IEEE.pdf
+
+Conteúdo Indexado
+Resiliência de infraestruturas críticas; eventos HILP; confiabilidade versus resiliência; robustez e resistência; redundância e resourcefulness; adaptação e auto-organização; resposta e recuperação; curva de resiliência R(t); níveis R₀, Rpe e Rpr; transições temporais entre estados; curvas de fragilidade meteorológica; combinação de hardening, redes inteligentes e microrredes.
+
+Localização Do Conteúdo
+• PDF pp. 1–3 | revista pp. 58–60: exemplos de desastres meteorológicos, definição de resiliência e diferenças relativamente à confiabilidade; quatro Rs e início da curva conceptual com condições pré-evento, choque e estado degradado; comparação entre interrupção dos clientes e recuperação da infraestrutura.
+• PDF pp. 4–6 | revista pp. 61–63: estados restaurativo e pós-restauração, tempos de recuperação operacional e da infraestrutura; estrutura adaptativa de longo prazo, círculo de reforço, estudos de vulnerabilidade, priorização e análise custo–benefício, com adaptação como aprendizagem contínua baseada em eventos passados e simulações.
+• PDF pp. 7–9 | revista pp. 64–66: quantificação multitemporal, curvas de fragilidade e métricas como energia não fornecida e duração; estratégias stronger, bigger e smarter, reforço físico, flexibilidade, controlo distribuído, microrredes, trade-off custo–eficácia e conclusão sobre redes híbridas.
+
+Termos De Pesquisa Em Inglês
+critical infrastructure resilience; HILP events; reliability comparison; robustness and resistance; redundancy and resourcefulness; adaptive self-organization; response and recovery; resilience curve; degraded state; restoration time; weather fragility curves; hybrid resilient grid.
+
+Equivalentes Em Português
+resiliência de infraestrutura crítica; eventos HILP; comparação com confiabilidade; robustez e resistência; redundância e capacidade de recursos; auto-organização adaptativa; resposta e recuperação; curva de resiliência; estado degradado; tempo de restauração; curvas de fragilidade meteorológica; rede resiliente híbrida.
+
+Possíveis Utilizações Na Tese
+Apoiar a representação gráfica de degradação e recuperação, definir fatores operativos e estruturais e justificar uma estratégia híbrida que combine reforço, flexibilidade inteligente, controlo distribuído e microrredes.

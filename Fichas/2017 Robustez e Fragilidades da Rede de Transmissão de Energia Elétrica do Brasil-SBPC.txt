@@ -1,0 +1,24 @@
+Código: ART-2017-MARTINS-SBPC
+
+Ficheiro: 2017 Robustez e Fragilidades da Rede de Transmissão de Energia Elétrica do Brasil-SBPC.pdf
+Referência: G. C. Martins, A. C. A. Vilas Boas e F. L. Forgerini, “Robustez e fragilidades da rede de transmissão de energia elétrica do Brasil,” apresentado na 69.ª Reunião Anual da Sociedade Brasileira para o Progresso da Ciência (SBPC), Belo Horizonte, Brasil, 2017.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2017%20Robustez%20e%20Fragilidades%20da%20Rede%20de%20Transmiss%C3%A3o%20de%20Energia%20El%C3%A9trica%20do%20Brasil-SBPC.pdf
+
+Conteúdo Indexado
+Sistema Interligado Nacional; rede brasileira de alta tensão; representação por redes complexas; subestações como vértices; linhas de transmissão como arestas; conectividade da rede; distribuição de graus; grau médio; coeficiente de aglomeração; caminho mínimo médio; robustez topológica; falhas aleatórias e remoção direcionada.
+
+Localização Do Conteúdo
+• PDF p. 1: objetivo, enquadramento da transmissão brasileira e conversão do sistema elétrico num grafo, com subestações representadas por nós e linhas por ligações, permitindo caracterizar estruturalmente a rede sem substituir a análise elétrica.
+• PDF p. 2: caracterização topológica pelos graus, conectividade, aglomeração e distâncias; procedimentos de remoção aleatória e dirigida para observar perda de conectividade, aumento dos caminhos, fragmentação e elementos estruturalmente críticos.
+• PDF p. 3: comparação entre robustez e fragilidades, identificação dos efeitos de falhas em componentes mais conectados e conclusões sobre a utilidade da análise de redes complexas no planeamento, manutenção, identificação de vulnerabilidades e prevenção de interrupções extensas de grande abrangência territorial.
+
+Termos De Pesquisa Em Inglês
+Brazilian transmission network; complex network model; high-voltage grid; substations as nodes; transmission lines as edges; degree distribution; average degree; clustering coefficient; average path length; network robustness; random failures; targeted attacks.
+
+Equivalentes Em Português
+rede de transmissão brasileira; modelo de rede complexa; rede de alta tensão; subestações como nós; linhas como arestas; distribuição de graus; grau médio; coeficiente de aglomeração; caminho médio; robustez da rede; falhas aleatórias; ataques direcionados.
+
+Possíveis Utilizações Na Tese
+Apoiar a representação topológica do SIN, identificar trechos e subestações críticos e comparar a degradação causada por falhas aleatórias ou direcionadas com os resultados elétricos e o índice de resiliência proposto para a transmissão.

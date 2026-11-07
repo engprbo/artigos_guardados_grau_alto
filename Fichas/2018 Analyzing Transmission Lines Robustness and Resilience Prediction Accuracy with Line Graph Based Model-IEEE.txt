@@ -1,0 +1,24 @@
+Código: ART-2018-ALBARAKATI-LGBM
+
+Ficheiro: 2018 Analyzing Transmission Lines Robustness and Resilience Prediction Accuracy with Line Graph Based Model-IEEE.pdf
+Referência: A. Albarakati e M. Bikdash, “Analyzing Transmission Lines Robustness and Resilience Prediction Accuracy with Line Graph Based Model,” in SoutheastCon 2018, St. Petersburg, FL, EUA, 19–22 abr. 2018, pp. 1–7, doi: 10.1109/SECON.2018.8479232.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2018%20Analyzing%20Transmission%20Lines%20Robustness%20and%20Resilience%20Prediction%20Accuracy%20with%20Line%20Graph%20Based%20Model-IEEE.pdf
+
+Conteúdo Indexado
+Line Graph Based Model (LGBM); Bus-Based Model (BBM); linhas de transmissão como vértices; redes complexas; degree centrality; betweenness centrality; eigenvector centrality; node degree distribution; robustness metrics; remoção aleatória de linhas; ataques direcionados; precisão da previsão da resiliência.
+
+Localização Do Conteúdo
+• PDF pp. 1–2: transformação da rede elétrica em line graph, no qual cada linha se torna um nó e a adjacência representa barras comuns; comparação das representações line graph e modelo baseado em barras e definição das métricas topológicas de robustez.
+• PDF pp. 3–6: aplicação a diferentes sistemas de teste IEEE, experiências de remoção aleatória e dirigida, seleção dos ramos por diferentes centralidades e comparação entre degradação observada e precisão e capacidade das métricas para antecipar a resiliência das linhas.
+• PDF p. 7: síntese comparativa dos resultados e conclusões; a centralidade de grau produz uma seleção consistente dos ramos-alvo e permite localizar linhas cuja remoção causa maior impacto, evidenciando vantagens do LGBM para análises centradas nas ligações.
+
+Termos De Pesquisa Em Inglês
+line graph based model; bus-based model; transmission line robustness; resilience prediction accuracy; complex networks; degree centrality; betweenness centrality; eigenvector centrality; node degree distribution; random line removal; targeted attacks; critical transmission lines.
+
+Equivalentes Em Português
+modelo baseado em line graph; modelo baseado em barras; robustez das linhas; precisão da previsão da resiliência; redes complexas; centralidade de grau; centralidade de intermediação; centralidade de autovetor; distribuição de graus; remoção aleatória de linhas; ataques direcionados; linhas críticas.
+
+Possíveis Utilizações Na Tese
+Apoiar a identificação topológica de linhas críticas, comparar LGBM e modelos por barras e verificar se centralidades antecipam os trechos com maior impacto elétrico e menor resiliência sob contingências múltiplas.

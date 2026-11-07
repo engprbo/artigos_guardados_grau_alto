@@ -1,0 +1,24 @@
+Código: ART-2016-REZAEI
+
+Ficheiro: 2016 Analysis of the effect of climate change on the reliability of overhead transmission lines-ELSEVIER.pdf
+Referência: S. N. Rezaei, L. E. Chouinard, S. Langlois e F. Légeron, “Analysis of the Effect of Climate Change on the Reliability of Overhead Transmission Lines,” Sustainable Cities and Society, vol. 27, pp. 137–144, nov. 2016, doi: 10.1016/j.scs.2016.01.007.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2016%20Analysis%20of%20the%20effect%20of%20climate%20change%20on%20the%20reliability%20of%20overhead%20transmission%20lines-ELSEVIER.pdf
+
+Conteúdo Indexado
+Confiabilidade estrutural de linhas aéreas; alterações climáticas; velocidade extrema anual do vento; espessura extrema do gelo; média e desvio-padrão climáticos; linha de 120 kV com nove vãos; modelo SAP2000; Statistical Learning Theory (SLT); funções de estado limite implícitas; modelos substitutos polinomiais; probabilidades de falha de componentes e sistema; índice de confiabilidade e sensibilidade climática.
+
+Localização Do Conteúdo
+• PDF pp. 1–3 | revista pp. 137–139: impactos climáticos de vento e gelo, necessidade de combinar dados históricos e modelos futuros; descrição do segmento de 120 kV com nove vãos e modelação SAP2000.
+• PDF pp. 4–6 | revista pp. 140–142: funções de estado limite por SLT, seleção do modelo polinomial com menor erro e cálculo das probabilidades de falha do sistema sob alterações das variáveis climáticas.
+• PDF pp. 7–8 | revista pp. 143–144: sensibilidade do índice de confiabilidade à média e dispersão do vento e gelo; maior sensibilidade à velocidade extrema do vento; conclusões para códigos futuros.
+
+Termos De Pesquisa Em Inglês
+overhead transmission line reliability; climate change sensitivity; extreme wind speed; ice thickness; statistical learning theory; implicit limit state function; polynomial surrogate model; system failure probability; reliability index; nine-span line segment; 120 kV transmission line; SAP2000 model.
+
+Equivalentes Em Português
+confiabilidade de linhas aéreas; sensibilidade às alterações climáticas; velocidade extrema do vento; espessura do gelo; teoria da aprendizagem estatística; função implícita de estado limite; modelo substituto polinomial; probabilidade de falha do sistema; índice de confiabilidade; segmento de nove vãos; linha de transmissão de 120 kV; modelo SAP2000.
+
+Possíveis Utilizações Na Tese
+Fundamentar cenários de vento e gelo, converter alterações climáticas em probabilidades de falha e índices de confiabilidade e justificar reforços baseados em projeções futuras.

@@ -1,0 +1,24 @@
+Código: ART-2017-PANTELI-RAW
+
+Ficheiro: 2017 Power System Resilience to Extreme Weather-Fragility Modeling, Probabilistic Impact Assessment, and Adaptation Measures-IEEE.pdf
+Referência: M. Panteli, C. Pickering, S. Wilkinson, R. Dawson e P. Mancarella, “Power System Resilience to Extreme Weather: Fragility Modeling, Probabilistic Impact Assessment, and Adaptation Measures,” IEEE Transactions on Power Systems, vol. 32, n.º 5, pp. 3747–3757, set. 2017, doi: 10.1109/TPWRS.2016.2641463.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2017%20Power%20System%20Resilience%20to%20Extreme%20Weather-Fragility%20Modeling%2C%20Probabilistic%20Impact%20Assessment%2C%20and%20Adaptation%20Measures-IEEE.pdf
+
+Conteúdo Indexado
+Fragilidade estrutural de torres; modelo multitemporal e multirregional de tempestades; Sequential Monte Carlo Simulation; Optimal Power Flow; índices LOLF e EENS; linhas e geração indisponíveis; Resilience Achievement Worth (RAW); rede britânica de 29 barras; perfis de vento de 40, 50 e 60 m/s; limiar aproximado de 30 m/s; ranking de circuitos críticos; medidas robustness, redundancy e responsiveness.
+
+Localização Do Conteúdo
+• PDF pp. 1–4 | revista pp. 3747–3750: estrutura probabilística, modelo espaço-temporal do vento e curvas de fragilidade estrutural que relacionam velocidade, danos das torres e falha dos circuitos.
+• PDF pp. 5–8 | revista pp. 3751–3754: integração SMCS–OPF; métricas operacionais e estruturais; equação RAW para medir a contribuição de cada circuito; aplicação à rede britânica de 29 barras e cenários de vento.
+• PDF pp. 9–11 | revista pp. 3755–3757: crescimento não linear de LOLF e EENS acima de 30 m/s; mudança do ranking de criticidade com a intensidade; reforço dos cinco circuitos prioritários reduz EENS perto de 40% a 60 m/s; conclusões sobre adaptação.
+
+Termos De Pesquisa Em Inglês
+structural fragility curves; multi-regional windstorm; sequential Monte Carlo simulation; optimal power flow; LOLF; EENS; resilience achievement worth; critical circuit ranking; GB 29-bus network; extreme wind threshold; robustness measures; adaptation strategies.
+
+Equivalentes Em Português
+curvas de fragilidade estrutural; tempestade multirregional; simulação Monte Carlo sequencial; fluxo de potência ótimo; frequência de perda de carga; energia esperada não fornecida; valor de melhoria da resiliência; ranking de circuitos críticos; rede britânica de 29 barras; limiar de vento extremo; medidas de robustez; estratégias de adaptação.
+
+Possíveis Utilizações Na Tese
+Converter vento em falhas probabilísticas, identificar circuitos prioritários pelo RAW, comparar LOLF e EENS e avaliar como reforços direcionados alteram o impacto e a resiliência da transmissão.

@@ -1,0 +1,24 @@
+Código: ART-2020-DEUBLEIN-EBP
+
+Ficheiro: 2017 State of the Art for the Evaluation of Resilience Measures-EBP.pdf
+Referência: M. Deublein, F. Bruns, F. Roth e C. Zulauf, Stand der Technik hinsichtlich der Bewertung von Resilienzmaßnahmen = State of the Art Regarding the Evaluation of Resilience Measures. EBP Schweiz e Bundesanstalt für Straßenwesen (BASt), Forschungsbericht FE 89.0320/2016, Bergisch Gladbach, Alemanha, 2020.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2017%20State%20of%20the%20Art%20for%20the%20Evaluation%20of%20Resilience%20Measures-EBP.pdf
+
+Conteúdo Indexado
+Infraestruturas rodoviárias; definição de resiliência; medidas estruturais, técnicas, planeadas e organizacionais; ciclo prepare–prevent–protect–respond–recover; perda e recuperação da funcionalidade; efeito da medida sobre a resiliência; Life-Cycle Costs; Cost-Benefit Analysis; Cost-Effectiveness Analysis; Multi-Criteria Analysis; métodos qualitativos, semiquantitativos e quantitativos; priorização de medidas.
+
+Localização Do Conteúdo
+• PDF pp. 1–15: objetivo, âmbito rodoviário, conceitos de sistema, funcionalidade, resiliência e medidas; enquadramento das fases do ciclo, tipologias de intervenção, escalas de aplicação, informação disponível e critérios necessários para comparar medidas aplicáveis a objetos individuais e redes completas.
+• PDF pp. 16–45: revisão nacional e internacional dos procedimentos de avaliação; comparação entre métodos qualitativos, semiquantitativos e quantitativos, monetização de benefícios, custos do ciclo de vida, análise custo–benefício, custo–eficácia e multicritério, incluindo requisitos de dados, vantagens, limitações e tratamento dos efeitos não monetários.
+• PDF p. 46 e seguintes: aplicações internacionais e recomendações para selecionar o método conforme disponibilidade de dados, escala e objetivo; avaliação conjunta da eficácia sobre a funcionalidade, custos, horizonte temporal, efeitos adicionais, interdependências, incerteza e preferências do decisor responsável final.
+
+Termos De Pesquisa Em Inglês
+resilience measures; road infrastructure; resilience cycle; system functionality; resilience effect; lifecycle costs; cost-benefit analysis; cost-effectiveness analysis; multi-criteria analysis; qualitative assessment; quantitative assessment; measure prioritization.
+
+Equivalentes Em Português
+medidas de resiliência; infraestrutura rodoviária; ciclo de resiliência; funcionalidade do sistema; efeito na resiliência; custos do ciclo de vida; análise custo–benefício; análise custo–eficácia; análise multicritério; avaliação qualitativa; avaliação quantitativa; priorização de medidas.
+
+Possíveis Utilizações Na Tese
+Apoiar a comparação económica e multicritério das medidas de reforço, relacionar custos com melhoria da funcionalidade e organizar alternativas segundo fase da resiliência, eficácia, incerteza, escala e prioridade decisória.

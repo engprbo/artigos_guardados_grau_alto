@@ -1,0 +1,24 @@
+Código: ART-2018-HRAST-SI
+
+Ficheiro: 2018 Enhancement of Slovenian Electricity Transmission System Resilience spurred by experience and new approach-AEIT.pdf
+Referência: M. Hrast, K. Bakić e M. Babuder, “Enhancement of Slovenian Electricity Transmission System Resilience spurred by experience and new approach,” in 2018 110th AEIT International Annual Conference, Bari, Itália, 2018, art. 8577359, doi: 10.23919/AEIT.2018.8577359.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2018%20Enhancement%20of%20Slovenian%20Electricity%20Transmission%20System%20Resilience%20spurred%20by%20experience%20and%20new%20approach-AEIT.pdf
+
+Conteúdo Indexado
+Rede de transmissão eslovena; eventos meteorológicos severos de inverno; falhas de linhas aéreas; capacidade mecânica das estruturas; análise de cargas observadas; reforço seletivo de elementos críticos; novas normas técnicas; Emergency Restoration System; torres modulares de emergência; limites de carregamento de linhas e transformadores; condition monitoring; gestão do ciclo de vida dos ativos.
+
+Localização Do Conteúdo
+• PDF pp. 1–2: experiência da rede eslovena em emergências meteorológicas, especialmente gelo, neve e vento; falhas de linhas aéreas, consequências sistémicas e revisão das cargas mecânicas efetivamente suportadas pelos componentes.
+• PDF pp. 3–5: alterações regulamentares e técnicas; reforço seletivo de estruturas, renovação de partes críticas segundo novas normas, introdução e utilização de torres modulares de emergência e avaliação de limites ampliados de linhas e transformadores mediante monitorização avançada.
+• PDF pp. 5–6: atividades permanentes de asset management, manutenção otimizada, condition monitoring e avaliação do ciclo de vida; necessidade de facilitar novos corredores e linhas e conclusão sobre combinação de resistência mecânica, recuperação rápida e desenvolvimento da rede.
+
+Termos De Pesquisa Em Inglês
+Slovenian transmission system; winter weather emergencies; overhead line failures; mechanical withstand capability; experienced load analysis; critical structure reinforcement; emergency modular towers; emergency restoration system; dynamic loading limits; transformer loading limits; condition monitoring; asset life-cycle assessment.
+
+Equivalentes Em Português
+sistema de transmissão esloveno; emergências meteorológicas de inverno; falhas de linhas aéreas; capacidade de resistência mecânica; análise de cargas observadas; reforço de estruturas críticas; torres modulares de emergência; sistema de restauração emergencial; limites dinâmicos de carregamento; limites de transformadores; monitorização da condição; avaliação do ciclo de vida.
+
+Possíveis Utilizações Na Tese
+Fundamentar fatores de robustez, manutenção e recuperação, associar eventos reais a reforços seletivos e incorporar torres de emergência, limites dinâmicos e monitorização na redução dos tempos de recomposição.

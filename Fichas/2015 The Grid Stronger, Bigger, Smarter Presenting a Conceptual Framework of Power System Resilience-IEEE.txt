@@ -1,0 +1,24 @@
+Código: ART-2015-PANTELI-GRID-AM
+
+Ficheiro: 2015 The Grid Stronger, Bigger, Smarter Presenting a Conceptual Framework of Power System Resilience-IEEE.pdf
+Referência: M. Panteli e P. Mancarella, “The Grid: Stronger, Bigger, Smarter? Presenting a Conceptual Framework of Power System Resilience,” IEEE Power & Energy Magazine, vol. 13, n.º 3, pp. 58–66, maio–jun. 2015, doi: 10.1109/MPE.2015.2397334.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2015%20The%20Grid%20Stronger%2C%20Bigger%2C%20Smarter%20Presenting%20a%20Conceptual%20Framework%20of%20Power%20System%20Resilience-IEEE.pdf
+
+Conteúdo Indexado
+Eventos High-Impact Low-Probability (HILP); distinção confiabilidade–resiliência; quatro Rs da resiliência; curva conceptual de resiliência; níveis R₀, Rpe e Rpr; estados degradado e restaurativo; resiliência operacional e da infraestrutura; círculo de reforço da resiliência; adaptação de longo prazo; curvas de fragilidade; medidas de hardening e medidas inteligentes; rede híbrida stronger–bigger–smarter.
+
+Localização Do Conteúdo
+• PDF pp. 1–5: apagões versus desastres; definições, características HILP e comparação com confiabilidade; robustez, redundância, resourcefulness e rapidity; curva temporal com evento, degradação, restauração e recuperação da infraestrutura.
+• PDF pp. 6–9: estrutura de adaptação contínua; estudos de vulnerabilidade, priorização e análise custo–benefício; métricas de curto e longo prazo; utilização de curvas de fragilidade para ligar intensidade meteorológica, probabilidade de falha, energia não fornecida e tempo de recuperação.
+• PDF pp. 9–15: estratégias de reforço físico e flexibilidade operacional; redes maiores, mais fortes ou inteligentes, controlo distribuído, microrredes e resposta a desastres; comparação conceptual entre custo e eficácia e conclusão favorável a soluções híbridas e transformação estrutural futura.
+
+Termos De Pesquisa Em Inglês
+high-impact low-probability events; power system resilience; reliability versus resilience; four Rs; conceptual resilience curve; operational resilience; infrastructure recovery; resilience enhancement circle; adaptation capacity; fragility curves; hardening measures; smart operational measures.
+
+Equivalentes Em Português
+eventos de alto impacto e baixa probabilidade; resiliência do sistema elétrico; confiabilidade versus resiliência; quatro Rs; curva conceptual de resiliência; resiliência operacional; recuperação da infraestrutura; círculo de reforço da resiliência; capacidade adaptativa; curvas de fragilidade; medidas de reforço; medidas operativas inteligentes.
+
+Possíveis Utilizações Na Tese
+Fundamentar a curva temporal e os estados da resiliência, distinguir confiabilidade e resiliência e organizar medidas de robustez, redundância, resposta, recuperação e adaptação segundo custo e eficácia.

@@ -1,0 +1,24 @@
+Código: ART-2018-KANCHERLA
+
+Ficheiro: 2018 Heavy-Tailed Transmission Line Restoration Times Observed in Utility Data-IEEE.pdf
+Referência: S. Kancherla e I. Dobson, “Heavy-Tailed Transmission Line Restoration Times Observed in Utility Data,” IEEE Transactions on Power Systems, vol. 33, n.º 1, pp. 1145–1147, jan. 2018, doi: 10.1109/TPWRS.2017.2707278.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2018%20Heavy-Tailed%20Transmission%20Line%20Restoration%20Times%20Observed%20in%20Utility%20Data-IEEE.pdf
+
+Conteúdo Indexado
+Dados de 14 anos de uma utility; 5 594 indisponibilidades automáticas não momentâneas; survivor function; distribuição de cauda pesada; região power-law; expoente −0,84; intensidade de reparação proporcional a 1/t; comparação exponencial, Weibull, gamma e lognormal; m-out-of-n bootstrap; média de 907 minutos; intervalo de confiança de 95%; indisponibilidade de linhas.
+
+Localização Do Conteúdo
+• PDF p. 1 | revista p. 1145: dados de 1999–2012, exclusão de interrupções planeadas e momentâneas e survivor function; a probabilidade de exceder t decai aproximadamente como t⁻⁰·⁸⁴, com tempos superiores a 20 000 minutos associados a “foreign trouble”.
+• PDF p. 2 | revista p. 1146: inadequação dos ajustes exponencial, Weibull e gamma; aproximação lognormal insuficiente; variabilidade das médias anuais e aplicação de 100 000 reamostragens m-out-of-n bootstrap aos 5 594 tempos.
+• PDF p. 3 | revista p. 1147: média de 907 minutos, desvio-padrão de 8 515 minutos e intervalo de confiança [191, 1625]; indisponibilidade 0,0012 com intervalo [0,00026, 0,0022]; conclusão contra estimativas anuais simples.
+
+Termos De Pesquisa Em Inglês
+transmission line restoration time; heavy-tailed distribution; utility outage data; survivor function; power-law tail; repair intensity; non-momentary automatic outage; m-out-of-n bootstrap; annual mean variability; lognormal fit; restoration time confidence interval; line unavailability.
+
+Equivalentes Em Português
+tempo de restauração da linha; distribuição de cauda pesada; dados de indisponibilidade; função de sobrevivência; cauda de lei de potência; intensidade de reparação; indisponibilidade automática não momentânea; bootstrap m-out-of-n; variabilidade da média anual; ajuste lognormal; intervalo do tempo de restauração; indisponibilidade da linha.
+
+Possíveis Utilizações Na Tese
+Substituir tempos médios fixos por distribuições empíricas de cauda pesada, representar recuperações muito longas e avaliar a sensibilidade do índice e da energia não fornecida à elevada incerteza estatística da restauração empiricamente observada.

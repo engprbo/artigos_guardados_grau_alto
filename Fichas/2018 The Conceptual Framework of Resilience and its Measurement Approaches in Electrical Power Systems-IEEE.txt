@@ -1,0 +1,24 @@
+Código: ART-2017-SHAKERI-CONCEPT
+
+Ficheiro: 2018 The Conceptual Framework of Resilience and its Measurement Approaches in Electrical Power Systems-IEEE.pdf
+Referência: A. Shakeri Kahnamouei, T. Ghanizadeh Bolandi e M.-R. Haghifam, “The Conceptual Framework of Resilience and its Measurement Approaches in Electrical Power Systems,” in IET International Conference on Resilience of Transmission and Distribution Networks (RTDN 2017), Birmingham, Reino Unido, 2017, doi: 10.1049/cp.2017.0335.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2018%20The%20Conceptual%20Framework%20of%20Resilience%20and%20its%20Measurement%20Approaches%20in%20Electrical%20Power%20Systems-IEEE.pdf
+
+Conteúdo Indexado
+Resiliência organizacional, social, económica e de engenharia; eventos High-Impact Low-Probability; curva conceptual de resiliência; robustez, redundância, resourcefulness e rapidez; resiliência de curto e longo prazo; vulnerabilidade do sistema; confiabilidade, risco, segurança e estabilidade; medidas de hardening; medidas operacionais; avaliação qualitativa e quantitativa; índices semi-quantitativos; modelação estrutural determinística e probabilística.
+
+Localização Do Conteúdo
+• PDF pp. 1–3: revisão das definições em diferentes domínios, enquadramento da resiliência elétrica perante eventos HILP, curva temporal de desempenho e quatro atributos do National Infrastructure Advisory Council.
+• PDF pp. 3–4: posicionamento da resiliência como subcategoria da vulnerabilidade; distinções relativamente a confiabilidade, risco, segurança e estabilidade; separação entre ações de curto prazo, adaptação de longo prazo, hardening e respostas operacionais.
+• PDF pp. 4–6: classificação das abordagens de medição em estruturas conceptuais, índices semi-quantitativos, métodos gerais e modelos estruturais; métodos determinísticos e probabilísticos, estáticos e dinâmicos; conclusões sobre inexistência de definição ou métrica universal e necessidade de associar cada métrica ao propósito, escala e fase do evento analisado.
+
+Termos De Pesquisa Em Inglês
+conceptual resilience framework; HILP events; resilience curve; four resilience attributes; short-term resilience; long-term resilience; system vulnerability; reliability comparison; hardening measures; operational measures; qualitative assessment; probabilistic resilience metric.
+
+Equivalentes Em Português
+estrutura conceptual de resiliência; eventos HILP; curva de resiliência; quatro atributos da resiliência; resiliência de curto prazo; resiliência de longo prazo; vulnerabilidade do sistema; comparação com confiabilidade; medidas de reforço; medidas operacionais; avaliação qualitativa; métrica probabilística de resiliência.
+
+Possíveis Utilizações Na Tese
+Fundamentar definições e atributos, distinguir resiliência de confiabilidade e risco e enquadrar o índice proposto entre abordagens quantitativas, probabilísticas, temporais e orientadas para desempenho.

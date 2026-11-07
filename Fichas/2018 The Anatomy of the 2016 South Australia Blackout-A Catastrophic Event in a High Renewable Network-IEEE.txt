@@ -1,0 +1,24 @@
+Código: ART-2018-YAN-SA
+
+Ficheiro: 2018 The Anatomy of the 2016 South Australia Blackout-A Catastrophic Event in a High Renewable Network-IEEE.pdf
+Referência: R. Yan, N.-A. Masood, T. K. Saha, F. Bai e H. Gu, “The Anatomy of the 2016 South Australia Blackout: A Catastrophic Event in a High Renewable Network,” IEEE Transactions on Power Systems, vol. 33, n.º 5, pp. 5374–5388, set. 2018, doi: 10.1109/TPWRS.2018.2820150.
+Repositório: engprbo/artigos_guardados_grau_alto
+Link Completo Do Pdf:
+https://github.com/engprbo/artigos_guardados_grau_alto/blob/main/2018%20The%20Anatomy%20of%20the%202016%20South%20Australia%20Blackout-A%20Catastrophic%20Event%20in%20a%20High%20Renewable%20Network-IEEE.pdf
+
+Conteúdo Indexado
+Apagão da Austrália Meridional de 2016; rede com elevada geração renovável; baixa inércia; geração não síncrona; perda do Heywood Interconnector; limitação de transferência da rede; sobretensão transitória; pole slipping; queda rápida de frequência; instabilidade de tensão versus frequência; reconstrução por modelos dinâmicos; identificação antecipada da separação da rede.
+
+Localização Do Conteúdo
+• PDF pp. 1–4 | revista pp. 5374–5377: configuração pré-evento, produção síncrona e eólica, interligação com Victoria, sequência das falhas de transmissão e reconstrução dinâmica do colapso ocorrido em 28 de setembro de 2016.
+• PDF pp. 5–12 | revista pp. 5378–5385: investigação dos pontos controversos — bottleneck da rede, sobretensão, possível perda de sincronismo, queda de frequência e natureza da instabilidade —; comparação entre medições e modelos de tensão, frequência, fluxo na interligação e geração.
+• PDF pp. 12–15 | revista pp. 5385–5388: método baseado na trajetória dos vetores de tensão para reconhecer separação iminente; medidas de controlo, compensação e suporte de frequência; conclusões sobre vulnerabilidade de redes com baixa inércia e elevada penetração renovável.
+
+Termos De Pesquisa Em Inglês
+South Australia blackout; high renewable network; low system inertia; nonsynchronous generation; Heywood Interconnector; network bottleneck; transient overvoltage; pole slipping; frequency collapse; voltage instability; dynamic event reconstruction; early separation identification.
+
+Equivalentes Em Português
+apagão da Austrália Meridional; rede com elevada geração renovável; baixa inércia do sistema; geração não síncrona; interconector Heywood; estrangulamento da rede; sobretensão transitória; perda de sincronismo; colapso de frequência; instabilidade de tensão; reconstrução dinâmica do evento; identificação antecipada da separação.
+
+Possíveis Utilizações Na Tese
+Analisar um evento real de alto impacto, relacionar baixa inércia, falhas múltiplas e separação da rede e fundamentar indicadores operativos para deteção precoce e prevenção do colapso.
